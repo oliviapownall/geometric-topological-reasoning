@@ -8,10 +8,15 @@ Participants (children, n = 46; adults, n = 38) completed a counterexample-drawi
 
 ## Repository Structure
 
+```
+├── data/
+│   └── DataForPaper.csv        # Trial-level data, one row per trial (12 per participant)
 ├── scripts/
-│ └── PaperMethods.R # Main analysis script for methods sections (descriptives)
-│ └── PaperResults.R # Main analysis script for results section (mixed-effects models, figures)
+│   ├── PaperMethods.R           # Analysis for Methods section (descriptives)
+│   └── PaperResults.R           # Analysis for Results section (mixed-effects models, figures)
 ├── README.md
+└── LICENSE
+```
 
 ## Data Dictionary
 
