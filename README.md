@@ -43,6 +43,7 @@ Key packages:
 - emmeans_2.0.4
 - ggplot2_4.0.3
 - ggrepel_0.9.8
+- psych_2.6.5
 - broom_1.0.13
 - broom.mixed_0.2.9.7
 - dplyr_1.2.1
