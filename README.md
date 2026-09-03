@@ -32,6 +32,23 @@ Participants (children, n = 46; adults, n = 38) completed a counterexample-drawi
 | `CorrectJudgement` | Whether the participant's judgement was correct |
 | `TimesInitialCirclesAttempted` | Number of attempts at the initial circle configuration |
 
+## Session Info
+
+Analysis run with:
+- R version 4.5.2 (2025-10-31)
+- Platform: aarch64-apple-darwin20 (macOS Tahoe 26.5.2)
+
+Key packages:
+- lme4_2.0-6
+- emmeans_2.0.4
+- ggplot2_4.0.3
+- ggrepel_0.9.8
+- broom_1.0.13
+- broom.mixed_0.2.9.7
+- dplyr_1.2.1
+- tidyr_1.3.2
+- readr_2.2.0
+
 ## Citation
 
 If you use this data or code, please cite: X
