@@ -49,4 +49,5 @@ Data: available on request
 
 [Olivia Pownall / olivia.pownall25@imperial.ac.uk]
 [Co-Supervisor: Yacin Hamami/ yacin.hamami@univ-lorraine.fr]
+[Co-Supervisor: Elizabeth Spelke/ spelke@wjh.harvard.edu]
 [Supervisor: Marie Amalric/ marie.amalric@inserm.fr]
