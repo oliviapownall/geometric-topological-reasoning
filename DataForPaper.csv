@@ -1,0 +1,1009 @@
+ParticipantID,Group,Age,Gender,PairOrder,TimesInitialCirclesAttempted,InitialFigTopology,CorrectJudgement,CounterexampleTopology,InvalidValid,TranslatedOrScaled,CircleChanged,CircleChangedConstraints,InferenceType
+P1,Adult,22.62,F,V6 V2 V1 IVL2 IVL1 V4 IVL3 V3 IVNL1 IVNL2 V5 IVNL3,1,Fully inside,0,Crossing,Invalid,Scaled,Small,Least,IV1
+P2,Adult,20.85,M,V1 IVL1 V5 IVL2 IVNL3 V2 V3 V6 IVNL1 IVL3 V4 IVNL2,1,Fully inside,0,Fully inside,Invalid,Scaled,Small,Least,IV1
+P3,Adult,19.7,F,V3 IVL1 V2 V5 V4 IVNL1 IVL2 IVNL2 IVNL3 V6 IVL3 V1,1,Fully inside,1,Crossing,Invalid,Scaled,Small,Least,IV1
+P4,Adult,22.43,Non-binary,IVL3 V6 IVL1 V3 IVNL2 IVNL3 V5 V1 IVL2 V4 IVNL1 V2,1,Fully inside,NA,NA,Invalid,Scaled,Big,Least,IV1
+P5,Adult,20.18,F,IVNL1 IVNL2 IVL2 V5 V6 V3 V2 IVL3 V4 V1 IVL1 IVNL3,1,Fully inside,0,Fully inside,Invalid,None,Small,Least,IV1
+P6,Adult,19.84,M,V3 V5 V1 V6 IVL2 IVL3 V2 IVNL2 IVNL3 IVNL1 V4 IVL1,1,Crossing,1,Fully inside,Invalid,Scaled,Big,Most,IV1
+P7,Adult,20.43,M,V4 IVL1 V5 IVNL3 IVNL1 IVL3 V1 IVL2 IVNL2 V2 V3 V6,1,Crossing,0,Crossing,Invalid,None,None,None,IV1
+P8,Adult,19.19,M,V6 V2 V4 IVL2 V1 IVNL2 IVL3 V5 IVNL3 V3 IVL1 IVNL1,1,Fully inside,1,Crossing,Invalid,Scaled,Small,Least,IV1
+P9,Adult,20.58,F,IVNL2 V4 V2 IVL2 IVL3 V1 V3 IVNL1 IVNL3 V6 IVL1 V5,1,Fully inside,1,Crossing,Invalid,Translated,Small,Least,IV1
+P10,Adult,20.65,F,IVL3 V5 IVL2 V6 V2 V1 IVNL2 V4 IVL1 IVNL3 V3 IVNL1,1,Crossing,1,Fully inside,Invalid,Scaled,Small,Least,IV1
+P11,Adult,19.8,F,V1 IVL2 IVL1 V4 IVNL3 V5 IVNL1 IVL3 IVNL2 V3 V6 V2,1,Crossing,0,Fully inside,Invalid,Scaled,Small,Least,IV1
+P12,Adult,23.55,M,IVNL1 V1 V3 V5 V2 IVL2 IVL1 V6 IVL3 IVNL2 V4 IVNL3,1,Fully inside,0,Fully inside,Invalid,None,None,None,IV1
+P14,Adult,48.82,F,IVL3 V4 V1 V2 IVNL3 IVNL1 IVL2 V3 IVL1 V5 IVNL2 V6,1,Fully inside,1,Crossing,Invalid,Translated,Small,Least,IV1
+P15,Adult,53,M,IVL3 V6 IVNL1 V5 V3 V1 V4 IVNL3 IVL1 IVL2 IVNL2 V2,1,Fully inside,1,Crossing,Invalid,Scaled,Small,Least,IV1
+P16,Adult,19.05,M,IVNL2 V6 IVL1 IVNL1 IVL3 V4 V2 V3 V1 IVNL3 V5 IVL2,1,Fully inside,1,Crossing,Invalid,Translated,Small,Least,IV1
+P17,Adult,21.46,M,V3 V4 V5 V2 IVL2 V1 IVL3 IVNL3 IVNL2 IVL1 V6 IVNL1,1,Fully inside,1,Crossing,Invalid,Scaled,Small,Least,IV1
+P19,Adult,30.98,M,IVL1 V6 V3 V1 IVNL3 IVL2 V4 V5 IVNL1 V2 IVNL2 IVL3,1,Fully inside,1,Crossing,Invalid,Scaled,Small,Least,IV1
+P20,Adult,20.2,F,IVL1 V4 V6 V5 IVNL3 IVL3 V2 V3 IVL2 V1 IVNL1 IVNL2,1,Crossing,1,Fully inside,Invalid,Scaled,Small,Least,IV1
+P21,Adult,20.73,F,V1 IVNL3 V5 V3 V6 IVNL2 IVL3 IVL2 IVNL1 V4 V2 IVL1,1,Fully inside,1,Crossing,Invalid,Scaled,Small,Least,IV1
+P22,Adult,20.38,F,IVL1 V1 V2 V6 V4 IVNL1 IVNL3 IVL3 IVNL2 IVL2 V5 V3,1,Fully inside,1,Crossing,Invalid,Translated,Small,Least,IV1
+P23,Adult,20.56,M,V2 IVNL1 IVL3 IVL2 V1 IVNL3 V5 V4 IVL1 IVNL2 V3 V6,1,Fully inside,0,Fully inside,Invalid,None,None,None,IV1
+P24,Adult,21.49,F,V5 IVL3 IVNL3 IVNL2 IVL1 V3 V4 IVNL1 V1 IVL2 V6 V2,1,Fully inside,1,Crossing,Invalid,Scaled,Small,Least,IV1
+P25,Adult,22.5,M,V3 V5 IVNL2 V4 IVNL3 V2 IVL3 V1 IVL1 V6 IVL2 IVNL1,1,Fully inside,0,Fully inside,Invalid,None,None,None,IV1
+P27,Adult,20.3,Non-binary,IVL2 V1 V4 V5 IVNL3 V6 V3 IVNL2 V2 IVNL1 IVL3 IVL1,1,Fully inside,1,Crossing,Invalid,Scaled,Small,Least,IV1
+P28,Adult,21.99,F,V5 IVL2 IVL1 IVNL3 V4 IVL3 IVNL1 V2 V6 IVNL2 V3 V1,1,Fully inside,0,NA,Invalid,NA,NA,NA,IV1
+P29,Adult,24.5,Prefer not to answer,V3 IVNL1 IVL2 V6 IVNL3 V2 V4 V5 V1 IVNL2 IVL3 IVL1,1,Fully inside,1,Crossing,Invalid,Scaled,Small,Least,IV1
+P30,Adult,19.2,F,IVL3 V1 IVNL3 V5 IVL1 IVNL2 V4 IVL2 V6 IVNL1 V2 V3,1,Crossing,0,Crossing,Invalid,None,None,None,IV1
+P31,Adult,20.58,F,V6 V5 IVL1 IVNL2 IVNL1 V4 IVL3 V1 V2 V3 IVNL3 IVL2,1,Crossing,0,Crossing,Invalid,Scaled,Small,Least,IV1
+P32,Adult,18.73,F,V1 IVNL2 V4 IVL1 IVL3 V5 V2 V3 V6 IVNL1 IVL2 IVNL3,1,Fully inside,1,Crossing,Invalid,Scaled,Small,Least,IV1
+P33,Adult,19.75,M,V6 V5 IVL2 V2 IVNL2 V3 V1 IVL1 IVNL3 IVNL1 V4 IVL3,1,Full inside,1,Crossing,Invalid,Scaled,Small,Least,IV1
+P34,Adult,23.17,Non-binary,IVNL3 IVL3 IVNL1 V1 IVL2 V2 V5 V3 V6 V4 IVL1 IVNL2,2,Fully inside,1,Crossing,Invalid,Scaled,Small,Least,IV1
+P35,Adult,22.83,F,IVL2 V1 V6 IVL3 IVL1 V2 IVNL1 V3 IVNL2 IVNL3 V5 V4,1,Fully inside,0,Crossing,Invalid,Scaled,Small,Least,IV1
+P36,Adult,20.02,M,IVL2 IVL3 V1 V4 V2 V5 IVL1 IVNL2 V3 IVNL3 V6 IVNL1,1,Fully inside,1,Crossing,Invalid,Scaled,Small,Least,IV1
+P37,Adult,21.14,M,IVNL1 V5 IVNL2 IVL1 V1 V3 IVL3 IVNL3 V4 V6 V2 IVL2,1,Fully inside,1,Crossing,Invalid,Scaled,Small,Least,IV1
+P38,Adult,22.03,F,IVNL1 IVL2 IVNL3 V5 V2 IVNL2 IVL1 V6 V3 IVL3 V1 V4,1,Crossing,0,Crossing,Invalid,None,None,None,IV1
+P39,Adult,20.21,F,IVNL3 V1 IVNL1 V6 V5 V3 V4 IVL3 IVL1 IVL2 IVNL2 V2,1,Fully inside,1,Crossing,Invalid,Both,Small,Least,IV1
+P40,Adult,21.82,F,IVL2 IVNL3 V1 V6 V2 IVNL1 V5 IVL3 V3 V4 IVL1 IVNL2,1,Fully inside,1,Crossing,Invalid,Scaled,Big,Least,IV1
+P41,Adult,21.61,M,V2 V1 IVNL1 IVNL2 V4 V5 IVNL3 IVL3 IVL1 V3 V6 IVL2,1,Crossing,1,Fully inside,Invalid,Scaled,Big,Most,IV1
+C1,Children,10.98333333,M,V6 IVNL3 V1 IVL1 V2 IVNL1 V4 IVL3 V3 V5 IVNL2 IVL2,1,Crossing,0,Fully inside,Invalid,Scaled,Circles same size,Least,IV1
+C2,Children,10.75833333,F,V6 IVNL3 IVL2 V2 IVL3 V4 V3 IVNL2 IVL1 V1 IVNL1 V5,1,Fully inside,1,Crossing,Invalid,Translated,Small,Least,IV1
+C3,Children,10.75833333,F,IVL1 V4 V3 V6 V5 IVNL1 IVNL3 IVL3 V2 V1 IVL2 IVNL2,1,Fully inside,1,Crossing,Invalid,Translated,Big,Least,IV1
+C4,Children,10.75833333,M,V5 V6 V1 V3 IVL3 IVNL2 V4 IVNL1 IVL2 V2 IVL1 IVNL3,1,Fully inside,1,Crossing,Invalid,Scaled,Small,Least,IV1
+C5,Children,9.472222222,F,IVL2 V5 V3 IVNL1 V6 V4 V1 IVNL2 V2 IVL3 IVL1 IVNL3,1,Crossing,0,Fully inside,Invalid,Translated,Small,Least,IV1
+C6,Children,8.055555556,F,IVNL3 IVNL1 V5 IVNL2 V4 V2 V6 IVL1 IVL3 V3 V1 IVL2,1,Crossing,0,Crossing,Invalid,Scaled,Small,Least,IV1
+C7,Children,10.925,F,V3 IVNL2 V1 IVL2 V5 V2 IVNL1 V6 V4 IVNL3 IVL3 IVL1,1,Crossing,1,Fully inside,Invalid,Scaled,Small,Least,IV1
+C8,Children,10.71944444,M,IVNL1 V1 IVL1 V3 IVL3 IVNL2 V2 V4 IVL2 IVNL3 V5 V6,1,Fully inside,1,Crossing,Invalid,Scaled,Big,Least,IV1
+C9,Children,10.16944444,F,IVL1 V1 IVNL3 V4 V2 V5 IVL2 V6 IVNL1 IVL3 IVNL2 V3,1,Crossing,0,Crossing,Invalid,None,None,None,IV1
+C10,Children,10.80277778,M,IVNL2 V3 V4 V5 IVL3 IVL1 IVNL1 IVNL3 V6 V2 V1 IVL2,1,Crossing,1,Fully inside,Invalid,Scaled,Small,Least,IV1
+C11,Children,8.083333333,M,IVL2 IVNL2 IVNL3 V3 V4 V5 IVL3 V6 IVL1 IVNL1 V2 V1,1,Crossing,1,Fully inside,Invalid,Scaled,Small,Least,IV1
+C12,Children,8.083333333,M,V2 IVL1 IVNL2 IVL2 IVNL3 IVL3 V1 IVNL1 V3 V6 V4 V5,1,Crossing,1,Crossing,Invalid,Scaled,Small,Least,IV1
+C13,Children,8.413888889,M,V1 IVL2 IVNL2 V6 IVNL1 V3 V4 V2 IVNL3 IVL3 IVL1 V5,1,Fully inside,0,Fully inside,Invalid,None,None,None,IV1
+C14,Children,8.186111111,F,V3 V4 V2 IVL1 IVNL3 V1 V6 V5 IVNL1 IVL2 IVNL2 IVL3,1,Crossing,0,NA,Invalid,NA,NA,NA,IV1
+C15,Children,9.991666667,F,V5 IVL3 IVNL2 V3 V4 IVL2 IVNL1 V6 V1 IVL1 V2 IVNL3,1,Fully inside,0,NA,Invalid,NA,NA,NA,IV1
+C17,Children,8.483333333,F,V2 V3 V1 V5 IVL2 IVL3 IVNL2 IVL1 V4 IVNL3 IVNL1 V6,1,Fully inside,0,Fully inside,Invalid,None,None,None,IV1
+C18,Children,8.344444444,M,IVNL3 IVL2 V3 V4 V2 V6 IVL3 IVL1 V5 V1 IVNL2 IVNL1,1,Fully inside,1,Crossing,Invalid,Both,Small,Least,IV1
+C19,Children,8.325,M,IVL2 V3 IVNL3 V2 V5 V4 V6 IVL1 IVNL2 IVL3 IVNL1 V1,1,Fully inside,0,Fully inside,Invalid,None,None,None,IV1
+C20,Children,8.394444444,M,IVL2 V4 V6 V1 IVNL3 IVNL2 IVL3 V2 V3 V5 IVNL1 IVL1,1,Crossing,NA,Fully inside,Invalid,Both,Both,Both,IV1
+C21,Children,8.455555556,M,IVNL1 V6 IVL2 V4 V5 IVL1 V1 IVL3 V3 V2 IVNL2 IVNL3,1,Fully inside,0,Fully inside,Invalid,None,None,None,IV1
+C23,Children,10.98333333,M,V4 IVNL1 V2 IVL1 V5 IVNL2 V6 IVL2 V3 IVL3 IVNL3 V1,1,Crossing,1,Fully inside,Invalid,Translated,Big,Most,IV1
+C24,Children,10.81111111,F,V2 IVL3 IVNL1 V5 V4 IVL1 IVNL3 IVL2 V3 V6 V1 IVNL2,1,Crossing,0,Fully inside,Invalid,Scaled,Big,Most,IV1
+C25,Children,10.70555556,M,IVNL3 IVNL2 IVL1 V2 V4 V3 V6 V1 IVL3 IVNL1 IVL2 V5,1,Fully inside,1,Crossing,Invalid,Translated,Both,Both,IV1
+C26,Children,10.63055556,F,V4 IVL2 V1 IVNL3 IVL1 IVNL1 IVNL2 V3 V5 V6 V2 IVL3,1,Fully inside,1,Crossing,Invalid,Scaled,Both,Both,IV1
+C27,Children,10.10833333,F,V6 V1 IVL3 IVNL2 IVNL3 V4 IVL1 IVL2 V2 V5 IVNL1 V3,1,Crossing,1,Fully inside,Invalid,Scaled,Small,Least,IV1
+C28,Children,10.36666667,M,IVNL1 V5 V2 V4 IVNL2 IVL3 V6 V1 IVL2 V3 IVNL3 IVL1,1,Fully inside,1,Crossing,Invalid,Scaled,Both,Both,IV1
+C29,Children,10.04444444,F,IVL3 IVNL3 IVNL1 IVL2 IVNL2 V4 V6 V3 IVL1 V2 V5 V1,1,Fully inside,0,Fully inside,Invalid,None,None,None,IV1
+C30,Children,10.55,F,IVNL3 V1 IVNL2 V3 IVNL1 V6 IVL3 IVL2 V5 V4 IVL1 V2,1,Crossing,0,Crossing,Invalid,None,None,None,IV1
+C31,Children,10.26944444,M,V4 V6 IVNL3 IVNL2 IVL1 IVL3 V2 V1 V5 V3 IVL2 IVNL1,1,Fully inside,0,Fully inside,Invalid,Translated,Big,Most,IV1
+C32,Children,10.06388889,F,V4 IVL2 IVNL3 V1 V2 V3 V6 IVNL1 IVL1 IVNL2 V5 IVL3,1,Fully inside,1,Crossing,Invalid,Scaled,Big,Most,IV1
+C33,Children,9.161111111,M,V2 V5 IVNL3 IVL2 IVNL2 V6 V1 IVNL1 V3 IVL3 IVL1 V4,1,Crossing,1,Fully inside,Invalid,Translated,Small,Least,IV1
+C34,Children,9.327777778,F,IVL2 IVL3 V6 V2 V3 IVL1 IVNL2 IVNL1 V4 V1 IVNL3 V5,1,Crossing,0,Crossing,Invalid,None,None,None,IV1
+C35,Children,10.97777778,F,IVL1 V3 IVNL1 V5 IVL2 V6 IVNL2 IVL3 V4 V1 V2 IVNL3,1,Crossing,0,Fully inside,Invalid,Scaled,Small,Least,IV1
+C36,Children,9.430555556,F,IVL3 V2 IVL1 V3 IVNL1 V5 V6 IVL2 IVNL3 V1 V4 IVNL2,1,Crossing,1,Fully inside,Invalid,Scaled,Small,Least,IV1
+C37,Children,10.21666667,F,V5 V1 V3 IVL3 V4 IVNL1 IVNL3 V2 V6 IVNL2 IVL1 IVL2,1,Fully inside,1,Crossing,Invalid,Translated,Big,Least,IV1
+C38,Children,9.619444444,F,V6 IVL3 V1 IVL1 V5 IVNL1 V4 IVL2 IVNL3 V3 V2 IVNL2,1,Crossing,0,NA,Invalid,NA,NA,NA,IV1
+C40,Children,9.708333333,F,IVL3 IVNL1 V5 V3 IVL1 IVNL3 V6 V4 V2 IVNL2 IVL2 V1,1,Fully inside,1,Crossing,Invalid,Scaled,Small,Least,IV1
+C41,Children,10.05833333,F,V3 V5 V6 IVNL3 IVNL1 IVL2 IVL1 V2 V4 IVL3 V1 IVNL2,1,Crossing,0,Crossing,Invalid,None,None,None,IV1
+C42,Children,10.05833333,F,V1 V3 IVNL1 IVL1 V2 IVNL3 V4 V6 IVL3 V5 IVNL2 IVL2,1,Fully inside,1,Crossing,Invalid,Translated,Big,Least,IV1
+C43,Children,9.794444444,F,IVNL1 IVL2 IVNL2 IVNL3 V5 V6 V1 IVL1 V2 V4 V3 IVL3,1,Crossing,0,Crossing,Invalid,Scaled,Big,Most,IV1
+C44,Children,9.977777778,F,V1 V5 IVL2 V3 IVNL1 IVNL2 IVL1 V2 V4 IVL3 IVNL3 V6,1,Fully inside,0,Fully inside,Invalid,None,None,None,IV1
+C45,Children,9.652777778,M,IVL3 IVL2 V2 IVNL2 V1 V4 V3 IVL1 V5 IVNL3 IVNL1 V6,1,Fully inside,1,Crossing,Invalid,Scaled,Small,Least,IV1
+C46,Children,9.619444444,M,IVL1 IVL2 IVL3 V6 V1 IVNL3 V2 V4 IVNL2 V3 IVNL1 V5,1,Crossing,1,Fully inside,Invalid,Scaled,Both,Both,IV1
+C47,Children,8.105555556,M,V2 IVNL2 V5 IVL1 V6 IVL3 IVNL3 IVNL1 V1 V3 V4 IVL2,1,Fully inside,0,Crossing,Invalid,Scaled,Small,Least,IV1
+C48,Children,9.111111111,F,IVL2 IVNL1 IVNL2 IVL1 V6 V1 IVL3 V4 V5 V2 V3 IVNL3,1,Fully inside,1,Crossing,Invalid,Scaled,Small,Least,IV1
+C49,Children,8.038888889,M,V6 V4 IVL3 IVNL1 IVNL3 IVL2 IVL1 V5 V2 V3 V1 IVNL2,1,Crossing,1,Fully inside,Invalid,Scaled,Circles same size,Least,IV1
+P1,Adult,22.62,F,V6 V2 V1 IVL2 IVL1 V4 IVL3 V3 IVNL1 IVNL2 V5 IVNL3,1,Crossing,0,Fully inside,Invalid,Scaled,Circles same size,Least,IV2
+P2,Adult,20.85,M,V1 IVL1 V5 IVL2 IVNL3 V2 V3 V6 IVNL1 IVL3 V4 IVNL2,1,Crossing,0,Fully inside,Invalid,Both,Both,Both,IV2
+P3,Adult,19.7,F,V3 IVL1 V2 V5 V4 IVNL1 IVL2 IVNL2 IVNL3 V6 IVL3 V1,1,Crossing,0,Crossing,Invalid,None,None,None,IV2
+P4,Adult,22.43,Non-binary,IVL3 V6 IVL1 V3 IVNL2 IVNL3 V5 V1 IVL2 V4 IVNL1 V2,1,Crossing,1,Fully inside,Invalid,Scaled,Small,Least,IV2
+P5,Adult,20.18,F,IVNL1 IVNL2 IVL2 V5 V6 V3 V2 IVL3 V4 V1 IVL1 IVNL3,1,Fully inside,1,Crossing,Invalid,Translated,Big,Least,IV2
+P6,Adult,19.84,M,V3 V5 V1 V6 IVL2 IVL3 V2 IVNL2 IVNL3 IVNL1 V4 IVL1,1,Crossing,0,Fully inside,Invalid,Scaled,Circles same size,Most,IV2
+P7,Adult,20.43,M,V4 IVL1 V5 IVNL3 IVNL1 IVL3 V1 IVL2 IVNL2 V2 V3 V6,1,Crossing,0,Crossing,Invalid,None,None,None,IV2
+P8,Adult,19.19,M,V6 V2 V4 IVL2 V1 IVNL2 IVL3 V5 IVNL3 V3 IVL1 IVNL1,1,Crossing,0,Crossing,Invalid,Scaled,Small,Least,IV2
+P9,Adult,20.58,F,IVNL2 V4 V2 IVL2 IVL3 V1 V3 IVNL1 IVNL3 V6 IVL1 V5,1,Fully inside,1,Crossing,Invalid,Scaled,Small,Most,IV2
+P10,Adult,20.65,F,IVL3 V5 IVL2 V6 V2 V1 IVNL2 V4 IVL1 IVNL3 V3 IVNL1,1,Crossing,0,Crossing,Invalid,None,None,None,IV2
+P11,Adult,19.8,F,V1 IVL2 IVL1 V4 IVNL3 V5 IVNL1 IVL3 IVNL2 V3 V6 V2,1,Fully inside,1,Crossing,Invalid,Translated,Big,Least,IV2
+P12,Adult,23.55,M,IVNL1 V1 V3 V5 V2 IVL2 IVL1 V6 IVL3 IVNL2 V4 IVNL3,1,Fully inside,0,Fully inside,Invalid,None,None,None,IV2
+P14,Adult,48.82,F,IVL3 V4 V1 V2 IVNL3 IVNL1 IVL2 V3 IVL1 V5 IVNL2 V6,1,Crossing,0,Crossing,Invalid,None,None,None,IV2
+P15,Adult,53,M,IVL3 V6 IVNL1 V5 V3 V1 V4 IVNL3 IVL1 IVL2 IVNL2 V2,1,Fully inside,1,Crossing,Invalid,Translated,Big,Least,IV2
+P16,Adult,19.05,M,IVNL2 V6 IVL1 IVNL1 IVL3 V4 V2 V3 V1 IVNL3 V5 IVL2,1,Crossing,0,Crossing,Invalid,None,None,None,IV2
+P17,Adult,21.46,M,V3 V4 V5 V2 IVL2 V1 IVL3 IVNL3 IVNL2 IVL1 V6 IVNL1,1,Crossing,1,Fully inside,Invalid,Scaled,Both,Both,IV2
+P19,Adult,30.98,M,IVL1 V6 V3 V1 IVNL3 IVL2 V4 V5 IVNL1 V2 IVNL2 IVL3,1,Crossing,1,Fully inside,Invalid,Both,Circles same size,Least,IV2
+P20,Adult,20.2,F,IVL1 V4 V6 V5 IVNL3 IVL3 V2 V3 IVL2 V1 IVNL1 IVNL2,1,Crossing,0,Crossing,Invalid,None,None,None,IV2
+P21,Adult,20.73,F,V1 IVNL3 V5 V3 V6 IVNL2 IVL3 IVL2 IVNL1 V4 V2 IVL1,1,Crossing,0,Crossing,Invalid,None,None,None,IV2
+P22,Adult,20.38,F,IVL1 V1 V2 V6 V4 IVNL1 IVNL3 IVL3 IVNL2 IVL2 V5 V3,1,Crossing,0,Crossing,Invalid,Both,Circles same size,Least,IV2
+P23,Adult,20.56,M,V2 IVNL1 IVL3 IVL2 V1 IVNL3 V5 V4 IVL1 IVNL2 V3 V6,1,Fully inside,1,NA,Invalid,NA,NA,NA,IV2
+P24,Adult,21.49,F,V5 IVL3 IVNL3 IVNL2 IVL1 V3 V4 IVNL1 V1 IVL2 V6 V2,1,Crossing,0,NA,Invalid,NA,NA,NA,IV2
+P25,Adult,22.5,M,V3 V5 IVNL2 V4 IVNL3 V2 IVL3 V1 IVL1 V6 IVL2 IVNL1,1,Fully inside,0,Fully inside,Invalid,Scaled,Big,Least,IV2
+P27,Adult,20.3,Non-binary,IVL2 V1 V4 V5 IVNL3 V6 V3 IVNL2 V2 IVNL1 IVL3 IVL1,1,Crossing,0,Crossing,Invalid,Translated,Both,Both,IV2
+P28,Adult,21.99,F,V5 IVL2 IVL1 IVNL3 V4 IVL3 IVNL1 V2 V6 IVNL2 V3 V1,1,Crossing,1,NA,Invalid,NA,NA,NA,IV2
+P29,Adult,24.5,Prefer not to answer,V3 IVNL1 IVL2 V6 IVNL3 V2 V4 V5 V1 IVNL2 IVL3 IVL1,1,Crossing,1,Fully inside,Invalid,Scaled,Both,Both,IV2
+P30,Adult,19.2,F,IVL3 V1 IVNL3 V5 IVL1 IVNL2 V4 IVL2 V6 IVNL1 V2 V3,1,Crossing,0,Crossing,Invalid,None,None,None,IV2
+P31,Adult,20.58,F,V6 V5 IVL1 IVNL2 IVNL1 V4 IVL3 V1 V2 V3 IVNL3 IVL2,1,Crossing,0,Crossing,Invalid,None,None,None,IV2
+P32,Adult,18.73,F,V1 IVNL2 V4 IVL1 IVL3 V5 V2 V3 V6 IVNL1 IVL2 IVNL3,1,Crossing,0,Crossing,Invalid,Translated,Circles same size,Most,IV2
+P33,Adult,19.75,M,V6 V5 IVL2 V2 IVNL2 V3 V1 IVL1 IVNL3 IVNL1 V4 IVL3,1,Fully inside,0,Crossing,Invalid,Translated,Small,Most,IV2
+P34,Adult,23.17,Non-binary,IVNL3 IVL3 IVNL1 V1 IVL2 V2 V5 V3 V6 V4 IVL1 IVNL2,1,Crossing,0,NA,Invalid,NA,NA,NA,IV2
+P35,Adult,22.83,F,IVL2 V1 V6 IVL3 IVL1 V2 IVNL1 V3 IVNL2 IVNL3 V5 V4,2,Crossing,1,Crossing,Invalid,None,None,None,IV2
+P36,Adult,20.02,M,IVL2 IVL3 V1 V4 V2 V5 IVL1 IVNL2 V3 IVNL3 V6 IVNL1,1,Crossing,0,Fully inside,Invalid,Both,Big,Most,IV2
+P37,Adult,21.14,M,IVNL1 V5 IVNL2 IVL1 V1 V3 IVL3 IVNL3 V4 V6 V2 IVL2,1,Crossing,1,Fully inside,Invalid,Scaled,Circles same size,Least,IV2
+P38,Adult,22.03,F,IVNL1 IVL2 IVNL3 V5 V2 IVNL2 IVL1 V6 V3 IVL3 V1 V4,1,Crossing,0,NA,Invalid,NA,NA,NA,IV2
+P39,Adult,20.21,F,IVNL3 V1 IVNL1 V6 V5 V3 V4 IVL3 IVL1 IVL2 IVNL2 V2,1,Fully inside,1,Crossing,Invalid,Both,Both,Both,IV2
+P40,Adult,21.82,F,IVL2 IVNL3 V1 V6 V2 IVNL1 V5 IVL3 V3 V4 IVL1 IVNL2,1,Crossing,0,Fully inside,Invalid,Scaled,Big,Least,IV2
+P41,Adult,21.61,M,V2 V1 IVNL1 IVNL2 V4 V5 IVNL3 IVL3 IVL1 V3 V6 IVL2,1,Crossing,0,Crossing,Invalid,Scaled,Big,Most,IV2
+C1,Children,10.98333333,M,V6 IVNL3 V1 IVL1 V2 IVNL1 V4 IVL3 V3 V5 IVNL2 IVL2,1,Fully inside,1,Crossing,Invalid,Scaled,Small,Most,IV2
+C2,Children,10.75833333,F,V6 IVNL3 IVL2 V2 IVL3 V4 V3 IVNL2 IVL1 V1 IVNL1 V5,1,Fully inside,0,Crossing,Invalid,Translated,Big,Least,IV2
+C3,Children,10.75833333,F,IVL1 V4 V3 V6 V5 IVNL1 IVNL3 IVL3 V2 V1 IVL2 IVNL2,1,Crossing,1,Fully inside,Invalid,Scaled,Circles same size,Least,IV2
+C4,Children,10.75833333,M,V5 V6 V1 V3 IVL3 IVNL2 V4 IVNL1 IVL2 V2 IVL1 IVNL3,1,Fully inside,1,Crossing,Invalid,Scaled,Small,Most,IV2
+C5,Children,9.472222222,F,IVL2 V5 V3 IVNL1 V6 V4 V1 IVNL2 V2 IVL3 IVL1 IVNL3,1,Crossing,0,NA,Invalid,NA,NA,NA,IV2
+C6,Children,8.055555556,F,IVNL3 IVNL1 V5 IVNL2 V4 V2 V6 IVL1 IVL3 V3 V1 IVL2,1,Crossing,1,Fully inside,Invalid,Scaled,Circles same size,Least,IV2
+C7,Children,10.925,F,V3 IVNL2 V1 IVL2 V5 V2 IVNL1 V6 V4 IVNL3 IVL3 IVL1,1,Crossing,0,Crossing,Invalid,None,None,None,IV2
+C8,Children,10.71944444,M,IVNL1 V1 IVL1 V3 IVL3 IVNL2 V2 V4 IVL2 IVNL3 V5 V6,1,Crossing,0,Crossing,Invalid,None,None,None,IV2
+C9,Children,10.16944444,F,IVL1 V1 IVNL3 V4 V2 V5 IVL2 V6 IVNL1 IVL3 IVNL2 V3,1,Crossing,0,Crossing,Invalid,None,None,None,IV2
+C10,Children,10.80277778,M,IVNL2 V3 V4 V5 IVL3 IVL1 IVNL1 IVNL3 V6 V2 V1 IVL2,1,Crossing,0,Crossing,Invalid,Scaled,Big,Least,IV2
+C11,Children,8.083333333,M,IVL2 IVNL2 IVNL3 V3 V4 V5 IVL3 V6 IVL1 IVNL1 V2 V1,2,Fully inside,1,Crossing,Invalid,Both,Both,Both,IV2
+C12,Children,8.083333333,M,V2 IVL1 IVNL2 IVL2 IVNL3 IVL3 V1 IVNL1 V3 V6 V4 V5,1,Crossing,NA,Crossing,Invalid,None,None,None,IV2
+C13,Children,8.413888889,M,V1 IVL2 IVNL2 V6 IVNL1 V3 V4 V2 IVNL3 IVL3 IVL1 V5,1,Crossing,1,Fully inside,Invalid,Scaled,Small,Most,IV2
+C14,Children,8.186111111,F,V3 V4 V2 IVL1 IVNL3 V1 V6 V5 IVNL1 IVL2 IVNL2 IVL3,1,Fully inside,0,NA,Invalid,NA,NA,NA,IV2
+C15,Children,9.991666667,F,V5 IVL3 IVNL2 V3 V4 IVL2 IVNL1 V6 V1 IVL1 V2 IVNL3,1,Crossing,0,Crossing,Invalid,Scaled,Big,Most,IV2
+C17,Children,8.483333333,F,V2 V3 V1 V5 IVL2 IVL3 IVNL2 IVL1 V4 IVNL3 IVNL1 V6,1,Crossing,0,Crossing,Invalid,None,None,None,IV2
+C18,Children,8.344444444,M,IVNL3 IVL2 V3 V4 V2 V6 IVL3 IVL1 V5 V1 IVNL2 IVNL1,1,Crossing,1,Fully inside,Invalid,Scaled,Circles same size,Most,IV2
+C19,Children,8.325,M,IVL2 V3 IVNL3 V2 V5 V4 V6 IVL1 IVNL2 IVL3 IVNL1 V1,2,Fully inside,NA,NA,Invalid,NA,NA,NA,IV2
+C20,Children,8.394444444,M,IVL2 V4 V6 V1 IVNL3 IVNL2 IVL3 V2 V3 V5 IVNL1 IVL1,2,Crossing,0,Fully inside,Invalid,Scaled,Both,Both,IV2
+C21,Children,8.455555556,M,IVNL1 V6 IVL2 V4 V5 IVL1 V1 IVL3 V3 V2 IVNL2 IVNL3,1,Crossing,NA,Fully inside,Invalid,Both,Circles same size,Most,IV2
+C23,Children,10.98333333,M,V4 IVNL1 V2 IVL1 V5 IVNL2 V6 IVL2 V3 IVL3 IVNL3 V1,1,Crossing,0,Crossing,Invalid,None,None,None,IV2
+C24,Children,10.81111111,F,V2 IVL3 IVNL1 V5 V4 IVL1 IVNL3 IVL2 V3 V6 V1 IVNL2,1,Crossing,0,Crossing,Invalid,None,None,None,IV2
+C25,Children,10.70555556,M,IVNL3 IVNL2 IVL1 V2 V4 V3 V6 V1 IVL3 IVNL1 IVL2 V5,1,Crossing,1,Fully inside,Invalid,Both,Both,Both,IV2
+C26,Children,10.63055556,F,V4 IVL2 V1 IVNL3 IVL1 IVNL1 IVNL2 V3 V5 V6 V2 IVL3,1,Fully inside,1,Crossing,Invalid,Scaled,Both,Both,IV2
+C27,Children,10.10833333,F,V6 V1 IVL3 IVNL2 IVNL3 V4 IVL1 IVL2 V2 V5 IVNL1 V3,1,Fully inside,1,Crossing,Invalid,Scaled,Small,Most,IV2
+C28,Children,10.36666667,M,IVNL1 V5 V2 V4 IVNL2 IVL3 V6 V1 IVL2 V3 IVNL3 IVL1,1,Crossing,0,Crossing,Invalid,None,None,None,IV2
+C29,Children,10.04444444,F,IVL3 IVNL3 IVNL1 IVL2 IVNL2 V4 V6 V3 IVL1 V2 V5 V1,1,Crossing,1,Fully inside,Invalid,Both,Circles same size,Most,IV2
+C30,Children,10.55,F,IVNL3 V1 IVNL2 V3 IVNL1 V6 IVL3 IVL2 V5 V4 IVL1 V2,1,Crossing,1,Crossing,Invalid,Scaled,Circles same size,Least,IV2
+C31,Children,10.26944444,M,V4 V6 IVNL3 IVNL2 IVL1 IVL3 V2 V1 V5 V3 IVL2 IVNL1,1,Crossing,0,Crossing,Invalid,None,None,None,IV2
+C32,Children,10.06388889,F,V4 IVL2 IVNL3 V1 V2 V3 V6 IVNL1 IVL1 IVNL2 V5 IVL3,1,Crossing,0,NA,Invalid,NA,NA,NA,IV2
+C33,Children,9.161111111,M,V2 V5 IVNL3 IVL2 IVNL2 V6 V1 IVNL1 V3 IVL3 IVL1 V4,1,Crossing,0,NA,Invalid,NA,NA,NA,IV2
+C34,Children,9.327777778,F,IVL2 IVL3 V6 V2 V3 IVL1 IVNL2 IVNL1 V4 V1 IVNL3 V5,2,Crossing,NA,Crossing,Invalid,Both,Circles same size,Least,IV2
+C35,Children,10.97777778,F,IVL1 V3 IVNL1 V5 IVL2 V6 IVNL2 IVL3 V4 V1 V2 IVNL3,1,Fully inside,1,Crossing,Invalid,Both,Both,Both,IV2
+C36,Children,9.430555556,F,IVL3 V2 IVL1 V3 IVNL1 V5 V6 IVL2 IVNL3 V1 V4 IVNL2,1,Crossing,0,Crossing,Invalid,None,None,None,IV2
+C37,Children,10.21666667,F,V5 V1 V3 IVL3 V4 IVNL1 IVNL3 V2 V6 IVNL2 IVL1 IVL2,1,Crossing,0,Crossing,Invalid,Both,Both,Both,IV2
+C38,Children,9.619444444,F,V6 IVL3 V1 IVL1 V5 IVNL1 V4 IVL2 IVNL3 V3 V2 IVNL2,1,Crossing,0,NA,Invalid,NA,NA,NA,IV2
+C40,Children,9.708333333,F,IVL3 IVNL1 V5 V3 IVL1 IVNL3 V6 V4 V2 IVNL2 IVL2 V1,1,Fully inside,1,Crossing,Invalid,Scaled,Big,Least,IV2
+C41,Children,10.05833333,F,V3 V5 V6 IVNL3 IVNL1 IVL2 IVL1 V2 V4 IVL3 V1 IVNL2,1,Crossing,0,Crossing,Invalid,None,None,None,IV2
+C42,Children,10.05833333,F,V1 V3 IVNL1 IVL1 V2 IVNL3 V4 V6 IVL3 V5 IVNL2 IVL2,1,Crossing,0,Fully inside,Invalid,Scaled,Circles same size,Least,IV2
+C43,Children,9.794444444,F,IVNL1 IVL2 IVNL2 IVNL3 V5 V6 V1 IVL1 V2 V4 V3 IVL3,1,Fully inside,0,NA,Invalid,NA,NA,NA,IV2
+C44,Children,9.977777778,F,V1 V5 IVL2 V3 IVNL1 IVNL2 IVL1 V2 V4 IVL3 IVNL3 V6,1,Crossing,0,Crossing,Invalid,None,None,None,IV2
+C45,Children,9.652777778,M,IVL3 IVL2 V2 IVNL2 V1 V4 V3 IVL1 V5 IVNL3 IVNL1 V6,1,Crossing,0,Crossing,Invalid,Translated,Circles same size,Least,IV2
+C46,Children,9.619444444,M,IVL1 IVL2 IVL3 V6 V1 IVNL3 V2 V4 IVNL2 V3 IVNL1 V5,1,Fully inside,0,Crossing,Invalid,Both,Both,Both,IV2
+C47,Children,8.105555556,M,V2 IVNL2 V5 IVL1 V6 IVL3 IVNL3 IVNL1 V1 V3 V4 IVL2,1,Crossing,0,Crossing,Invalid,None,None,None,IV2
+C48,Children,9.111111111,F,IVL2 IVNL1 IVNL2 IVL1 V6 V1 IVL3 V4 V5 V2 V3 IVNL3,1,Crossing,0,NA,Invalid,NA,NA,NA,IV2
+C49,Children,8.038888889,M,V6 V4 IVL3 IVNL1 IVNL3 IVL2 IVL1 V5 V2 V3 V1 IVNL2,1,Crossing,1,Fully inside,Invalid,Scaled,Small,Most,IV2
+P1,Adult,22.62,F,V6 V2 V1 IVL2 IVL1 V4 IVL3 V3 IVNL1 IVNL2 V5 IVNL3,1,Apart,1,Crossing,Invalid,Scaled,Both,Both,IV3
+P2,Adult,20.85,M,V1 IVL1 V5 IVL2 IVNL3 V2 V3 V6 IVNL1 IVL3 V4 IVNL2,1,Apart,1,Crossing,Invalid,Scaled,Both,Both,IV3
+P3,Adult,19.7,F,V3 IVL1 V2 V5 V4 IVNL1 IVL2 IVNL2 IVNL3 V6 IVL3 V1,1,Apart,1,Crossing,Invalid,Both,Both,Both,IV3
+P4,Adult,22.43,Non-binary,IVL3 V6 IVL1 V3 IVNL2 IVNL3 V5 V1 IVL2 V4 IVNL1 V2,1,Apart,1,Crossing,Invalid,Both,Both,Both,IV3
+P5,Adult,20.18,F,IVNL1 IVNL2 IVL2 V5 V6 V3 V2 IVL3 V4 V1 IVL1 IVNL3,1,Apart,1,Crossing,Invalid,Scaled,Both,Both,IV3
+P6,Adult,19.84,M,V3 V5 V1 V6 IVL2 IVL3 V2 IVNL2 IVNL3 IVNL1 V4 IVL1,1,Apart,1,Crossing,Invalid,Scaled,Both,Both,IV3
+P7,Adult,20.43,M,V4 IVL1 V5 IVNL3 IVNL1 IVL3 V1 IVL2 IVNL2 V2 V3 V6,1,Apart,1,Crossing,Invalid,Translated,Big,Least,IV3
+P8,Adult,19.19,M,V6 V2 V4 IVL2 V1 IVNL2 IVL3 V5 IVNL3 V3 IVL1 IVNL1,1,Apart,1,Crossing,Invalid,Both,Both,Both,IV3
+P9,Adult,20.58,F,IVNL2 V4 V2 IVL2 IVL3 V1 V3 IVNL1 IVNL3 V6 IVL1 V5,1,Apart,1,Crossing,Invalid,Both,Both,Both,IV3
+P10,Adult,20.65,F,IVL3 V5 IVL2 V6 V2 V1 IVNL2 V4 IVL1 IVNL3 V3 IVNL1,1,Apart,1,Crossing,Invalid,Scaled,Both,Both,IV3
+P11,Adult,19.8,F,V1 IVL2 IVL1 V4 IVNL3 V5 IVNL1 IVL3 IVNL2 V3 V6 V2,1,Apart,1,Crossing,Invalid,Scaled,Small,Most,IV3
+P12,Adult,23.55,M,IVNL1 V1 V3 V5 V2 IVL2 IVL1 V6 IVL3 IVNL2 V4 IVNL3,1,Apart,1,Crossing,Invalid,Translated,Circles same size,Most,IV3
+P14,Adult,48.82,F,IVL3 V4 V1 V2 IVNL3 IVNL1 IVL2 V3 IVL1 V5 IVNL2 V6,1,Apart,1,Crossing,Invalid,Translated,Small,Most,IV3
+P15,Adult,53,M,IVL3 V6 IVNL1 V5 V3 V1 V4 IVNL3 IVL1 IVL2 IVNL2 V2,1,Crossing,1,Apart,Invalid,Scaled,Both,Both,IV3
+P16,Adult,19.05,M,IVNL2 V6 IVL1 IVNL1 IVL3 V4 V2 V3 V1 IVNL3 V5 IVL2,1,Crossing,1,Crossing,Invalid,Translated,Small,Most,IV3
+P17,Adult,21.46,M,V3 V4 V5 V2 IVL2 V1 IVL3 IVNL3 IVNL2 IVL1 V6 IVNL1,1,Crossing,1,Crossing,Invalid,Translated,Both,Both,IV3
+P19,Adult,30.98,M,IVL1 V6 V3 V1 IVNL3 IVL2 V4 V5 IVNL1 V2 IVNL2 IVL3,1,Apart,1,Crossing,Invalid,Scaled,Circles same size,Least,IV3
+P20,Adult,20.2,F,IVL1 V4 V6 V5 IVNL3 IVL3 V2 V3 IVL2 V1 IVNL1 IVNL2,2,Apart,1,Apart,Invalid,Translated,Small,Most,IV3
+P21,Adult,20.73,F,V1 IVNL3 V5 V3 V6 IVNL2 IVL3 IVL2 IVNL1 V4 V2 IVL1,1,Apart,1,Crossing,Invalid,Both,Small,Most,IV3
+P22,Adult,20.38,F,IVL1 V1 V2 V6 V4 IVNL1 IVNL3 IVL3 IVNL2 IVL2 V5 V3,1,Apart,1,Crossing,Invalid,Scaled,Big,Least,IV3
+P23,Adult,20.56,M,V2 IVNL1 IVL3 IVL2 V1 IVNL3 V5 V4 IVL1 IVNL2 V3 V6,1,Apart,1,Crossing,Invalid,Translated,Big,Least,IV3
+P24,Adult,21.49,F,V5 IVL3 IVNL3 IVNL2 IVL1 V3 V4 IVNL1 V1 IVL2 V6 V2,2,Crossing,1,Apart,Invalid,Scaled,Big,Least,IV3
+P25,Adult,22.5,M,V3 V5 IVNL2 V4 IVNL3 V2 IVL3 V1 IVL1 V6 IVL2 IVNL1,1,Apart,0,Apart,Invalid,None,None,None,IV3
+P27,Adult,20.3,Non-binary,IVL2 V1 V4 V5 IVNL3 V6 V3 IVNL2 V2 IVNL1 IVL3 IVL1,1,Apart,1,Crossing,Invalid,Scaled,Circles same size,Most,IV3
+P28,Adult,21.99,F,V5 IVL2 IVL1 IVNL3 V4 IVL3 IVNL1 V2 V6 IVNL2 V3 V1,1,Apart,1,Crossing,Invalid,Both,Both,Both,IV3
+P29,Adult,24.5,Prefer not to answer,V3 IVNL1 IVL2 V6 IVNL3 V2 V4 V5 V1 IVNL2 IVL3 IVL1,1,Apart,1,Crossing,Invalid,Both,Both,Both,IV3
+P30,Adult,19.2,F,IVL3 V1 IVNL3 V5 IVL1 IVNL2 V4 IVL2 V6 IVNL1 V2 V3,1,Apart,1,Crossing,Invalid,Scaled,Both,Both,IV3
+P31,Adult,20.58,F,V6 V5 IVL1 IVNL2 IVNL1 V4 IVL3 V1 V2 V3 IVNL3 IVL2,1,Apart,1,Crossing,Invalid,Scaled,Both,Both,IV3
+P32,Adult,18.73,F,V1 IVNL2 V4 IVL1 IVL3 V5 V2 V3 V6 IVNL1 IVL2 IVNL3,2,Apart,1,Crossing,Invalid,Scaled,Circles same size,Least,IV3
+P33,Adult,19.75,M,V6 V5 IVL2 V2 IVNL2 V3 V1 IVL1 IVNL3 IVNL1 V4 IVL3,1,Apart,1,Crossing,Invalid,Both,Circles same size,Most,IV3
+P34,Adult,23.17,Non-binary,IVNL3 IVL3 IVNL1 V1 IVL2 V2 V5 V3 V6 V4 IVL1 IVNL2,1,Apart,1,Crossing,Invalid,Scaled,Circles same size,Least,IV3
+P35,Adult,22.83,F,IVL2 V1 V6 IVL3 IVL1 V2 IVNL1 V3 IVNL2 IVNL3 V5 V4,1,Apart,1,Crossing,Invalid,Scaled,Both,Both,IV3
+P36,Adult,20.02,M,IVL2 IVL3 V1 V4 V2 V5 IVL1 IVNL2 V3 IVNL3 V6 IVNL1,1,Apart,1,Crossing,Invalid,Scaled,Both,Both,IV3
+P37,Adult,21.14,M,IVNL1 V5 IVNL2 IVL1 V1 V3 IVL3 IVNL3 V4 V6 V2 IVL2,1,Apart,1,Crossing,Invalid,Both,Both,Both,IV3
+P38,Adult,22.03,F,IVNL1 IVL2 IVNL3 V5 V2 IVNL2 IVL1 V6 V3 IVL3 V1 V4,1,Apart,1,Crossing,Invalid,Scaled,Circles same size,Least,IV3
+P39,Adult,20.21,F,IVNL3 V1 IVNL1 V6 V5 V3 V4 IVL3 IVL1 IVL2 IVNL2 V2,1,Apart,1,Apart,Invalid,Scaled,Both,Both,IV3
+P40,Adult,21.82,F,IVL2 IVNL3 V1 V6 V2 IVNL1 V5 IVL3 V3 V4 IVL1 IVNL2,1,Apart,1,Crossing,Invalid,Scaled,Both,Both,IV3
+P41,Adult,21.61,M,V2 V1 IVNL1 IVNL2 V4 V5 IVNL3 IVL3 IVL1 V3 V6 IVL2,2,Apart,0,Crossing,Invalid,Translated,Big,Most,IV3
+C1,Children,10.98333333,M,V6 IVNL3 V1 IVL1 V2 IVNL1 V4 IVL3 V3 V5 IVNL2 IVL2,1,Apart,1,Crossing,Invalid,Scaled,Both,Both,IV3
+C2,Children,10.75833333,F,V6 IVNL3 IVL2 V2 IVL3 V4 V3 IVNL2 IVL1 V1 IVNL1 V5,1,Crossing,1,Apart,Invalid,Scaled,Circles same size,Most,IV3
+C3,Children,10.75833333,F,IVL1 V4 V3 V6 V5 IVNL1 IVNL3 IVL3 V2 V1 IVL2 IVNL2,1,Apart,1,Crossing,Invalid,Scaled,Circles same size,Most,IV3
+C4,Children,10.75833333,M,V5 V6 V1 V3 IVL3 IVNL2 V4 IVNL1 IVL2 V2 IVL1 IVNL3,1,Apart,1,Crossing,Invalid,Scaled,Both,Both,IV3
+C5,Children,9.472222222,F,IVL2 V5 V3 IVNL1 V6 V4 V1 IVNL2 V2 IVL3 IVL1 IVNL3,1,Apart,1,Crossing,Invalid,Scaled,Circles same size,Most,IV3
+C6,Children,8.055555556,F,IVNL3 IVNL1 V5 IVNL2 V4 V2 V6 IVL1 IVL3 V3 V1 IVL2,1,Apart,1,Crossing,Invalid,Translated,Both,Both,IV3
+C7,Children,10.925,F,V3 IVNL2 V1 IVL2 V5 V2 IVNL1 V6 V4 IVNL3 IVL3 IVL1,1,Apart,1,Crossing,Invalid,Translated,Circles same size,Most,IV3
+C8,Children,10.71944444,M,IVNL1 V1 IVL1 V3 IVL3 IVNL2 V2 V4 IVL2 IVNL3 V5 V6,1,Apart,1,Crossing,Invalid,Scaled,Circles same size,Most,IV3
+C9,Children,10.16944444,F,IVL1 V1 IVNL3 V4 V2 V5 IVL2 V6 IVNL1 IVL3 IVNL2 V3,1,Apart,1,Crossing,Invalid,Translated,Small,Most,IV3
+C10,Children,10.80277778,M,IVNL2 V3 V4 V5 IVL3 IVL1 IVNL1 IVNL3 V6 V2 V1 IVL2,1,Apart,1,Crossing,Invalid,Scaled,Both,Both,IV3
+C11,Children,8.083333333,M,IVL2 IVNL2 IVNL3 V3 V4 V5 IVL3 V6 IVL1 IVNL1 V2 V1,1,Apart,1,Crossing,Invalid,Scaled,Both,Both,IV3
+C12,Children,8.083333333,M,V2 IVL1 IVNL2 IVL2 IVNL3 IVL3 V1 IVNL1 V3 V6 V4 V5,1,Apart,NA,Crossing,Invalid,Both,Both,Both,IV3
+C13,Children,8.413888889,M,V1 IVL2 IVNL2 V6 IVNL1 V3 V4 V2 IVNL3 IVL3 IVL1 V5,1,Apart,1,Crossing,Invalid,Translated,Circles same size,Least,IV3
+C14,Children,8.186111111,F,V3 V4 V2 IVL1 IVNL3 V1 V6 V5 IVNL1 IVL2 IVNL2 IVL3,1,Apart,1,Crossing,Invalid,Translated,Small,Most,IV3
+C15,Children,9.991666667,F,V5 IVL3 IVNL2 V3 V4 IVL2 IVNL1 V6 V1 IVL1 V2 IVNL3,1,Apart,1,Crossing,Invalid,Translated,Circles same size,Most,IV3
+C17,Children,8.483333333,F,V2 V3 V1 V5 IVL2 IVL3 IVNL2 IVL1 V4 IVNL3 IVNL1 V6,2,Crossing,1,Apart,Invalid,Translated,Both,Both,IV3
+C18,Children,8.344444444,M,IVNL3 IVL2 V3 V4 V2 V6 IVL3 IVL1 V5 V1 IVNL2 IVNL1,1,Apart,1,Crossing,Invalid,Scaled,Circles same size,Least,IV3
+C19,Children,8.325,M,IVL2 V3 IVNL3 V2 V5 V4 V6 IVL1 IVNL2 IVL3 IVNL1 V1,2,Apart,0,Apart,Invalid,Translated,Circles same size,Least,IV3
+C20,Children,8.394444444,M,IVL2 V4 V6 V1 IVNL3 IVNL2 IVL3 V2 V3 V5 IVNL1 IVL1,1,Apart,NA,Crossing,Invalid,Scaled,Small,Most,IV3
+C21,Children,8.455555556,M,IVNL1 V6 IVL2 V4 V5 IVL1 V1 IVL3 V3 V2 IVNL2 IVNL3,1,Apart,1,Crossing,Invalid,Scaled,Big,Most,IV3
+C23,Children,10.98333333,M,V4 IVNL1 V2 IVL1 V5 IVNL2 V6 IVL2 V3 IVL3 IVNL3 V1,1,Apart,1,Crossing,Invalid,Both,Both,Both,IV3
+C24,Children,10.81111111,F,V2 IVL3 IVNL1 V5 V4 IVL1 IVNL3 IVL2 V3 V6 V1 IVNL2,2,Apart,1,Crossing,Invalid,Scaled,Circles same size,Least,IV3
+C25,Children,10.70555556,M,IVNL3 IVNL2 IVL1 V2 V4 V3 V6 V1 IVL3 IVNL1 IVL2 V5,1,Apart,1,Crossing,Invalid,Both,Both,Both,IV3
+C26,Children,10.63055556,F,V4 IVL2 V1 IVNL3 IVL1 IVNL1 IVNL2 V3 V5 V6 V2 IVL3,2,Apart,1,Crossing,Invalid,Both,Small,Most,IV3
+C27,Children,10.10833333,F,V6 V1 IVL3 IVNL2 IVNL3 V4 IVL1 IVL2 V2 V5 IVNL1 V3,1,Crossing,1,Apart,Invalid,Translated,Big,Least,IV3
+C28,Children,10.36666667,M,IVNL1 V5 V2 V4 IVNL2 IVL3 V6 V1 IVL2 V3 IVNL3 IVL1,1,Apart,1,Crossing,Invalid,Scaled,Both,Both,IV3
+C29,Children,10.04444444,F,IVL3 IVNL3 IVNL1 IVL2 IVNL2 V4 V6 V3 IVL1 V2 V5 V1,4,Apart,1,Crossing,Invalid,Translated,Both,Both,IV3
+C30,Children,10.55,F,IVNL3 V1 IVNL2 V3 IVNL1 V6 IVL3 IVL2 V5 V4 IVL1 V2,1,Apart,1,Crossing,Invalid,Both,Both,Both,IV3
+C31,Children,10.26944444,M,V4 V6 IVNL3 IVNL2 IVL1 IVL3 V2 V1 V5 V3 IVL2 IVNL1,1,Apart,1,Crossing,Invalid,Translated,Circles same size,Most,IV3
+C32,Children,10.06388889,F,V4 IVL2 IVNL3 V1 V2 V3 V6 IVNL1 IVL1 IVNL2 V5 IVL3,1,Apart,1,Crossing,Invalid,Both,Big,Most,IV3
+C33,Children,9.161111111,M,V2 V5 IVNL3 IVL2 IVNL2 V6 V1 IVNL1 V3 IVL3 IVL1 V4,1,Apart,1,Crossing,Invalid,Both,Both,Both,IV3
+C34,Children,9.327777778,F,IVL2 IVL3 V6 V2 V3 IVL1 IVNL2 IVNL1 V4 V1 IVNL3 V5,1,Apart,NA,Crossing,Invalid,Both,Circles same size,Most,IV3
+C35,Children,10.97777778,F,IVL1 V3 IVNL1 V5 IVL2 V6 IVNL2 IVL3 V4 V1 V2 IVNL3,1,Apart,1,Crossing,Invalid,Translated,Big,Most,IV3
+C36,Children,9.430555556,F,IVL3 V2 IVL1 V3 IVNL1 V5 V6 IVL2 IVNL3 V1 V4 IVNL2,1,Apart,1,Crossing,Invalid,Translated,Circles same size,Most,IV3
+C37,Children,10.21666667,F,V5 V1 V3 IVL3 V4 IVNL1 IVNL3 V2 V6 IVNL2 IVL1 IVL2,1,Apart,1,Crossing,Invalid,Both,Both,Both,IV3
+C38,Children,9.619444444,F,V6 IVL3 V1 IVL1 V5 IVNL1 V4 IVL2 IVNL3 V3 V2 IVNL2,2,Apart,NA,Crossing,Invalid,Scaled,Circles same size,Least,IV3
+C40,Children,9.708333333,F,IVL3 IVNL1 V5 V3 IVL1 IVNL3 V6 V4 V2 IVNL2 IVL2 V1,1,Apart,1,Crossing,Invalid,Translated,Circles same size,Most,IV3
+C41,Children,10.05833333,F,V3 V5 V6 IVNL3 IVNL1 IVL2 IVL1 V2 V4 IVL3 V1 IVNL2,1,Apart,1,Crossing,Invalid,Scaled,Big,Most,IV3
+C42,Children,10.05833333,F,V1 V3 IVNL1 IVL1 V2 IVNL3 V4 V6 IVL3 V5 IVNL2 IVL2,1,Apart,1,Crossing,Invalid,Translated,Circles same size,Most,IV3
+C43,Children,9.794444444,F,IVNL1 IVL2 IVNL2 IVNL3 V5 V6 V1 IVL1 V2 V4 V3 IVL3,1,Apart,1,Crossing,Invalid,Both,Both,Both,IV3
+C44,Children,9.977777778,F,V1 V5 IVL2 V3 IVNL1 IVNL2 IVL1 V2 V4 IVL3 IVNL3 V6,1,Apart,1,Crossing,Invalid,Scaled,Circles same size,Least,IV3
+C45,Children,9.652777778,M,IVL3 IVL2 V2 IVNL2 V1 V4 V3 IVL1 V5 IVNL3 IVNL1 V6,1,Apart,1,Crossing,Invalid,Translated,Both,Both,IV3
+C46,Children,9.619444444,M,IVL1 IVL2 IVL3 V6 V1 IVNL3 V2 V4 IVNL2 V3 IVNL1 V5,1,Apart,1,Crossing,Invalid,Both,Both,Both,IV3
+C47,Children,8.105555556,M,V2 IVNL2 V5 IVL1 V6 IVL3 IVNL3 IVNL1 V1 V3 V4 IVL2,1,Apart,1,Crossing,Invalid,Scaled,Circles same size,Least,IV3
+C48,Children,9.111111111,F,IVL2 IVNL1 IVNL2 IVL1 V6 V1 IVL3 V4 V5 V2 V3 IVNL3,1,Apart,1,Crossing,Invalid,Scaled,Small,Most,IV3
+C49,Children,8.038888889,M,V6 V4 IVL3 IVNL1 IVNL3 IVL2 IVL1 V5 V2 V3 V1 IVNL2,1,Crossing,0,Crossing,Invalid,Scaled,Small,Least,IV3
+P1,Adult,22.62,F,V6 V2 V1 IVL2 IVL1 V4 IVL3 V3 IVNL1 IVNL2 V5 IVNL3,1,Apart,1,Crossing,Invalid,Translated,Small,Least,IV5
+P2,Adult,20.85,M,V1 IVL1 V5 IVL2 IVNL3 V2 V3 V6 IVNL1 IVL3 V4 IVNL2,1,Apart,1,Crossing,Invalid,Translated,Small,Least,IV5
+P3,Adult,19.7,F,V3 IVL1 V2 V5 V4 IVNL1 IVL2 IVNL2 IVNL3 V6 IVL3 V1,1,Apart,1,Crossing,Invalid,Translated,Small,Least,IV5
+P4,Adult,22.43,Non-binary,IVL3 V6 IVL1 V3 IVNL2 IVNL3 V5 V1 IVL2 V4 IVNL1 V2,1,Apart,1,Crossing,Invalid,Translated,Small,Least,IV5
+P5,Adult,20.18,F,IVNL1 IVNL2 IVL2 V5 V6 V3 V2 IVL3 V4 V1 IVL1 IVNL3,1,Fully inside,1,Apart,Invalid,Translated,Small,Least,IV5
+P6,Adult,19.84,M,V3 V5 V1 V6 IVL2 IVL3 V2 IVNL2 IVNL3 IVNL1 V4 IVL1,1,Crossing,1,Apart,Invalid,Translated,Small,Least,IV5
+P7,Adult,20.43,M,V4 IVL1 V5 IVNL3 IVNL1 IVL3 V1 IVL2 IVNL2 V2 V3 V6,1,Apart,1,Crossing,Invalid,Translated,Small,Least,IV5
+P8,Adult,19.19,M,V6 V2 V4 IVL2 V1 IVNL2 IVL3 V5 IVNL3 V3 IVL1 IVNL1,1,Apart,1,Crossing,Invalid,Translated,Small,Least,IV5
+P9,Adult,20.58,F,IVNL2 V4 V2 IVL2 IVL3 V1 V3 IVNL1 IVNL3 V6 IVL1 V5,1,Apart,1,Fully inside,Invalid,Translated,Small,Least,IV5
+P10,Adult,20.65,F,IVL3 V5 IVL2 V6 V2 V1 IVNL2 V4 IVL1 IVNL3 V3 IVNL1,1,Fully inside,1,Apart,Invalid,Translated,Small,Least,IV5
+P11,Adult,19.8,F,V1 IVL2 IVL1 V4 IVNL3 V5 IVNL1 IVL3 IVNL2 V3 V6 V2,1,Apart,1,Fully inside,Invalid,Translated,Small,Least,IV5
+P12,Adult,23.55,M,IVNL1 V1 V3 V5 V2 IVL2 IVL1 V6 IVL3 IVNL2 V4 IVNL3,1,Apart,1,Fully inside,Invalid,Both,Small,Least,IV5
+P14,Adult,48.82,F,IVL3 V4 V1 V2 IVNL3 IVNL1 IVL2 V3 IVL1 V5 IVNL2 V6,1,Apart,1,Crossing,Invalid,Translated,Small,Least,IV5
+P15,Adult,53,M,IVL3 V6 IVNL1 V5 V3 V1 V4 IVNL3 IVL1 IVL2 IVNL2 V2,1,Apart,1,Fully inside,Invalid,Translated,Small,Least,IV5
+P16,Adult,19.05,M,IVNL2 V6 IVL1 IVNL1 IVL3 V4 V2 V3 V1 IVNL3 V5 IVL2,1,Apart,1,Crossing,Invalid,Translated,Small,Least,IV5
+P17,Adult,21.46,M,V3 V4 V5 V2 IVL2 V1 IVL3 IVNL3 IVNL2 IVL1 V6 IVNL1,1,Crossing,1,Apart,Invalid,Translated,Small,Least,IV5
+P19,Adult,30.98,M,IVL1 V6 V3 V1 IVNL3 IVL2 V4 V5 IVNL1 V2 IVNL2 IVL3,1,Crossing,1,Apart,Invalid,Translated,Small,Least,IV5
+P20,Adult,20.2,F,IVL1 V4 V6 V5 IVNL3 IVL3 V2 V3 IVL2 V1 IVNL1 IVNL2,1,Apart,1,Crossing,Invalid,Both,Small,Least,IV5
+P21,Adult,20.73,F,V1 IVNL3 V5 V3 V6 IVNL2 IVL3 IVL2 IVNL1 V4 V2 IVL1,1,Apart,1,Crossing,Invalid,Translated,Small,Least,IV5
+P22,Adult,20.38,F,IVL1 V1 V2 V6 V4 IVNL1 IVNL3 IVL3 IVNL2 IVL2 V5 V3,1,Apart,1,Fully inside,Invalid,Translated,Small,Least,IV5
+P23,Adult,20.56,M,V2 IVNL1 IVL3 IVL2 V1 IVNL3 V5 V4 IVL1 IVNL2 V3 V6,1,Apart,1,Fully inside,Invalid,Translated,Small,Least,IV5
+P24,Adult,21.49,F,V5 IVL3 IVNL3 IVNL2 IVL1 V3 V4 IVNL1 V1 IVL2 V6 V2,1,Fully inside,1,Apart,Invalid,Translated,Small,Least,IV5
+P25,Adult,22.5,M,V3 V5 IVNL2 V4 IVNL3 V2 IVL3 V1 IVL1 V6 IVL2 IVNL1,1,Apart,1,Fully inside,Invalid,Translated,Small,Least,IV5
+P27,Adult,20.3,Non-binary,IVL2 V1 V4 V5 IVNL3 V6 V3 IVNL2 V2 IVNL1 IVL3 IVL1,1,Apart,1,Crossing,Invalid,Translated,Small,Least,IV5
+P28,Adult,21.99,F,V5 IVL2 IVL1 IVNL3 V4 IVL3 IVNL1 V2 V6 IVNL2 V3 V1,1,Apart,1,Fully inside,Invalid,Both,Both,Both,IV5
+P29,Adult,24.5,Prefer not to answer,V3 IVNL1 IVL2 V6 IVNL3 V2 V4 V5 V1 IVNL2 IVL3 IVL1,1,Apart,1,Fully inside,Invalid,Translated,Small,Least,IV5
+P30,Adult,19.2,F,IVL3 V1 IVNL3 V5 IVL1 IVNL2 V4 IVL2 V6 IVNL1 V2 V3,1,Apart,1,Crossing,Invalid,Translated,Small,Least,IV5
+P31,Adult,20.58,F,V6 V5 IVL1 IVNL2 IVNL1 V4 IVL3 V1 V2 V3 IVNL3 IVL2,1,Fully inside,1,Apart,Invalid,Translated,Small,Least,IV5
+P32,Adult,18.73,F,V1 IVNL2 V4 IVL1 IVL3 V5 V2 V3 V6 IVNL1 IVL2 IVNL3,1,Crossing,1,Apart,Invalid,Translated,Small,Least,IV5
+P33,Adult,19.75,M,V6 V5 IVL2 V2 IVNL2 V3 V1 IVL1 IVNL3 IVNL1 V4 IVL3,1,Crossing,1,Apart,Invalid,Translated,Small,Least,IV5
+P34,Adult,23.17,Non-binary,IVNL3 IVL3 IVNL1 V1 IVL2 V2 V5 V3 V6 V4 IVL1 IVNL2,1,Fully inside,0,Apart,Invalid,Translated,Small,Least,IV5
+P35,Adult,22.83,F,IVL2 V1 V6 IVL3 IVL1 V2 IVNL1 V3 IVNL2 IVNL3 V5 V4,1,Apart,1,Fully inside,Invalid,Translated,Small,Least,IV5
+P36,Adult,20.02,M,IVL2 IVL3 V1 V4 V2 V5 IVL1 IVNL2 V3 IVNL3 V6 IVNL1,1,Fully inside,1,Crossing,Invalid,Translated,Small,Least,IV5
+P37,Adult,21.14,M,IVNL1 V5 IVNL2 IVL1 V1 V3 IVL3 IVNL3 V4 V6 V2 IVL2,1,Fully inside,1,Apart,Invalid,Translated,Big,Least,IV5
+P38,Adult,22.03,F,IVNL1 IVL2 IVNL3 V5 V2 IVNL2 IVL1 V6 V3 IVL3 V1 V4,1,Crossing,1,Apart,Invalid,Translated,Small,Least,IV5
+P39,Adult,20.21,F,IVNL3 V1 IVNL1 V6 V5 V3 V4 IVL3 IVL1 IVL2 IVNL2 V2,1,Fully inside,1,Apart,Invalid,Translated,Small,Least,IV5
+P40,Adult,21.82,F,IVL2 IVNL3 V1 V6 V2 IVNL1 V5 IVL3 V3 V4 IVL1 IVNL2,2,Crossing,1,Apart,Invalid,Scaled,Small,Least,IV5
+P41,Adult,21.61,M,V2 V1 IVNL1 IVNL2 V4 V5 IVNL3 IVL3 IVL1 V3 V6 IVL2,1,Apart,0,Fully inside,Invalid,Translated,Small,Least,IV5
+C1,Children,10.98333333,M,V6 IVNL3 V1 IVL1 V2 IVNL1 V4 IVL3 V3 V5 IVNL2 IVL2,1,Fully inside,1,Crossing,Invalid,Translated,Small,Least,IV5
+C2,Children,10.75833333,F,V6 IVNL3 IVL2 V2 IVL3 V4 V3 IVNL2 IVL1 V1 IVNL1 V5,1,Fully inside,0,Fully inside,Invalid,None,None,None,IV5
+C3,Children,10.75833333,F,IVL1 V4 V3 V6 V5 IVNL1 IVNL3 IVL3 V2 V1 IVL2 IVNL2,1,Fully inside,1,Apart,Invalid,Translated,Small,Least,IV5
+C4,Children,10.75833333,M,V5 V6 V1 V3 IVL3 IVNL2 V4 IVNL1 IVL2 V2 IVL1 IVNL3,1,Apart,1,Fully inside,Invalid,Translated,Small,Least,IV5
+C5,Children,9.472222222,F,IVL2 V5 V3 IVNL1 V6 V4 V1 IVNL2 V2 IVL3 IVL1 IVNL3,1,Fully inside,1,Apart,Invalid,Translated,Small,Least,IV5
+C6,Children,8.055555556,F,IVNL3 IVNL1 V5 IVNL2 V4 V2 V6 IVL1 IVL3 V3 V1 IVL2,1,Fully inside,1,Apart,Invalid,Translated,Small,Least,IV5
+C7,Children,10.925,F,V3 IVNL2 V1 IVL2 V5 V2 IVNL1 V6 V4 IVNL3 IVL3 IVL1,1,Crossing,1,Apart,Invalid,Translated,Small,Least,IV5
+C8,Children,10.71944444,M,IVNL1 V1 IVL1 V3 IVL3 IVNL2 V2 V4 IVL2 IVNL3 V5 V6,2,Apart,1,Crossing,Invalid,Translated,Small,Least,IV5
+C9,Children,10.16944444,F,IVL1 V1 IVNL3 V4 V2 V5 IVL2 V6 IVNL1 IVL3 IVNL2 V3,1,Apart,1,Crossing,Invalid,Translated,Circles same size,Least,IV5
+C10,Children,10.80277778,M,IVNL2 V3 V4 V5 IVL3 IVL1 IVNL1 IVNL3 V6 V2 V1 IVL2,1,Apart,1,Crossing,Invalid,Translated,Small,Least,IV5
+C11,Children,8.083333333,M,IVL2 IVNL2 IVNL3 V3 V4 V5 IVL3 V6 IVL1 IVNL1 V2 V1,1,Apart,1,Crossing,Invalid,Translated,Small,Least,IV5
+C12,Children,8.083333333,M,V2 IVL1 IVNL2 IVL2 IVNL3 IVL3 V1 IVNL1 V3 V6 V4 V5,1,Apart,NA,Crossing,Invalid,Both,Small,Least,IV5
+C13,Children,8.413888889,M,V1 IVL2 IVNL2 V6 IVNL1 V3 V4 V2 IVNL3 IVL3 IVL1 V5,3,Fully inside,0,Fully inside,Invalid,None,None,None,IV5
+C14,Children,8.186111111,F,V3 V4 V2 IVL1 IVNL3 V1 V6 V5 IVNL1 IVL2 IVNL2 IVL3,1,Fully inside,0,NA,Invalid,NA,NA,NA,IV5
+C15,Children,9.991666667,F,V5 IVL3 IVNL2 V3 V4 IVL2 IVNL1 V6 V1 IVL1 V2 IVNL3,2,Apart,1,Crossing,Invalid,Translated,Small,Least,IV5
+C17,Children,8.483333333,F,V2 V3 V1 V5 IVL2 IVL3 IVNL2 IVL1 V4 IVNL3 IVNL1 V6,1,Apart,1,Crossing,Invalid,Translated,Circles same size,Least,IV5
+C18,Children,8.344444444,M,IVNL3 IVL2 V3 V4 V2 V6 IVL3 IVL1 V5 V1 IVNL2 IVNL1,1,Fully inside,1,Crossing,Invalid,Translated,Small,Least,IV5
+C19,Children,8.325,M,IVL2 V3 IVNL3 V2 V5 V4 V6 IVL1 IVNL2 IVL3 IVNL1 V1,1,Crossing,1,Fully inside,Invalid,Translated,Small,Least,IV5
+C20,Children,8.394444444,M,IVL2 V4 V6 V1 IVNL3 IVNL2 IVL3 V2 V3 V5 IVNL1 IVL1,1,Fully inside,NA,NA,Invalid,NA,NA,NA,IV5
+C21,Children,8.455555556,M,IVNL1 V6 IVL2 V4 V5 IVL1 V1 IVL3 V3 V2 IVNL2 IVNL3,1,Crossing,1,Apart,Invalid,Translated,Small,Least,IV5
+C23,Children,10.98333333,M,V4 IVNL1 V2 IVL1 V5 IVNL2 V6 IVL2 V3 IVL3 IVNL3 V1,1,Apart,1,Crossing,Invalid,Translated,Small,Least,IV5
+C24,Children,10.81111111,F,V2 IVL3 IVNL1 V5 V4 IVL1 IVNL3 IVL2 V3 V6 V1 IVNL2,1,Fully inside,1,Apart,Invalid,Translated,Small,Least,IV5
+C25,Children,10.70555556,M,IVNL3 IVNL2 IVL1 V2 V4 V3 V6 V1 IVL3 IVNL1 IVL2 V5,1,Apart,1,Fully inside,Invalid,Both,Both,Both,IV5
+C26,Children,10.63055556,F,V4 IVL2 V1 IVNL3 IVL1 IVNL1 IVNL2 V3 V5 V6 V2 IVL3,1,Apart,1,Fully inside,Invalid,Translated,Small,Least,IV5
+C27,Children,10.10833333,F,V6 V1 IVL3 IVNL2 IVNL3 V4 IVL1 IVL2 V2 V5 IVNL1 V3,1,Apart,1,Crossing,Invalid,Translated,Small,Least,IV5
+C28,Children,10.36666667,M,IVNL1 V5 V2 V4 IVNL2 IVL3 V6 V1 IVL2 V3 IVNL3 IVL1,1,Crossing,1,NA,Invalid,NA,NA,NA,IV5
+C29,Children,10.04444444,F,IVL3 IVNL3 IVNL1 IVL2 IVNL2 V4 V6 V3 IVL1 V2 V5 V1,2,Fully inside,1,Apart,Invalid,Translated,Small,Least,IV5
+C30,Children,10.55,F,IVNL3 V1 IVNL2 V3 IVNL1 V6 IVL3 IVL2 V5 V4 IVL1 V2,1,Fully inside,1,Apart,Invalid,Translated,Small,Least,IV5
+C31,Children,10.26944444,M,V4 V6 IVNL3 IVNL2 IVL1 IVL3 V2 V1 V5 V3 IVL2 IVNL1,1,Fully inside,1,Apart,Invalid,Translated,Small,Least,IV5
+C32,Children,10.06388889,F,V4 IVL2 IVNL3 V1 V2 V3 V6 IVNL1 IVL1 IVNL2 V5 IVL3,1,Apart,1,Crossing,Invalid,Translated,Small,Least,IV5
+C33,Children,9.161111111,M,V2 V5 IVNL3 IVL2 IVNL2 V6 V1 IVNL1 V3 IVL3 IVL1 V4,1,Fully inside,1,Apart,Invalid,Translated,Small,Least,IV5
+C34,Children,9.327777778,F,IVL2 IVL3 V6 V2 V3 IVL1 IVNL2 IVNL1 V4 V1 IVNL3 V5,1,Fully inside,0,Fully inside,Invalid,Scaled,Big,Most,IV5
+C35,Children,10.97777778,F,IVL1 V3 IVNL1 V5 IVL2 V6 IVNL2 IVL3 V4 V1 V2 IVNL3,1,Crossing,1,Apart,Invalid,NA,NA,NA,IV5
+C36,Children,9.430555556,F,IVL3 V2 IVL1 V3 IVNL1 V5 V6 IVL2 IVNL3 V1 V4 IVNL2,1,Apart,1,Crossing,Invalid,Translated,Small,Least,IV5
+C37,Children,10.21666667,F,V5 V1 V3 IVL3 V4 IVNL1 IVNL3 V2 V6 IVNL2 IVL1 IVL2,1,Apart,1,Crossing,Invalid,Translated,Small,Least,IV5
+C38,Children,9.619444444,F,V6 IVL3 V1 IVL1 V5 IVNL1 V4 IVL2 IVNL3 V3 V2 IVNL2,1,Fully inside,1,Apart,Invalid,Both,Small,Least,IV5
+C40,Children,9.708333333,F,IVL3 IVNL1 V5 V3 IVL1 IVNL3 V6 V4 V2 IVNL2 IVL2 V1,1,Fully inside,1,Crossing,Invalid,Scaled,Small,Least,IV5
+C41,Children,10.05833333,F,V3 V5 V6 IVNL3 IVNL1 IVL2 IVL1 V2 V4 IVL3 V1 IVNL2,1,Apart,1,Crossing,Invalid,Translated,Small,Least,IV5
+C42,Children,10.05833333,F,V1 V3 IVNL1 IVL1 V2 IVNL3 V4 V6 IVL3 V5 IVNL2 IVL2,2,Apart,1,Crossing,Invalid,Both,Small,Least,IV5
+C43,Children,9.794444444,F,IVNL1 IVL2 IVNL2 IVNL3 V5 V6 V1 IVL1 V2 V4 V3 IVL3,4,Crossing,1,Apart,Invalid,Translated,Small,Most,IV5
+C44,Children,9.977777778,F,V1 V5 IVL2 V3 IVNL1 IVNL2 IVL1 V2 V4 IVL3 IVNL3 V6,1,Fully inside,1,Apart,Invalid,Translated,Small,Least,IV5
+C45,Children,9.652777778,M,IVL3 IVL2 V2 IVNL2 V1 V4 V3 IVL1 V5 IVNL3 IVNL1 V6,1,Apart,1,Crossing,Invalid,Translated,Small,Least,IV5
+C46,Children,9.619444444,M,IVL1 IVL2 IVL3 V6 V1 IVNL3 V2 V4 IVNL2 V3 IVNL1 V5,1,Apart,1,Crossing,Invalid,Translated,Small,Least,IV5
+C47,Children,8.105555556,M,V2 IVNL2 V5 IVL1 V6 IVL3 IVNL3 IVNL1 V1 V3 V4 IVL2,2,Fully inside,0,Fully inside,Invalid,None,None,None,IV5
+C48,Children,9.111111111,F,IVL2 IVNL1 IVNL2 IVL1 V6 V1 IVL3 V4 V5 V2 V3 IVNL3,1,Fully inside,1,Apart,Invalid,Translated,Small,Least,IV5
+C49,Children,8.038888889,M,V6 V4 IVL3 IVNL1 IVNL3 IVL2 IVL1 V5 V2 V3 V1 IVNL2,1,Crossing,1,Fully inside,Invalid,Scaled,Big,Most,IV5
+P1,Adult,22.62,F,V6 V2 V1 IVL2 IVL1 V4 IVL3 V3 IVNL1 IVNL2 V5 IVNL3,1,Crossing,1,Fully inside,Invalid,Both,Both,Same constraints,IV4
+P2,Adult,20.85,M,V1 IVL1 V5 IVL2 IVNL3 V2 V3 V6 IVNL1 IVL3 V4 IVNL2,1,Fully inside,1,Crossing,Invalid,Both,Small,Same constraints,IV4
+P3,Adult,19.7,F,V3 IVL1 V2 V5 V4 IVNL1 IVL2 IVNL2 IVNL3 V6 IVL3 V1,1,Fully inside,0,Fully inside,Invalid,None,None,Same constraints,IV4
+P4,Adult,22.43,Non-binary,IVL3 V6 IVL1 V3 IVNL2 IVNL3 V5 V1 IVL2 V4 IVNL1 V2,1,Fully inside,1,Crossing,Invalid,Translated,Big,Same constraints,IV4
+P5,Adult,20.18,F,IVNL1 IVNL2 IVL2 V5 V6 V3 V2 IVL3 V4 V1 IVL1 IVNL3,1,Fully inside,0,Fully inside,Invalid,Scaled,Both,Same constraints,IV4
+P6,Adult,19.84,M,V3 V5 V1 V6 IVL2 IVL3 V2 IVNL2 IVNL3 IVNL1 V4 IVL1,1,Fully inside,1,Crossing,Invalid,Both,Big,Same constraints,IV4
+P7,Adult,20.43,M,V4 IVL1 V5 IVNL3 IVNL1 IVL3 V1 IVL2 IVNL2 V2 V3 V6,1,Crossing,1,Fully inside,Invalid,Scaled,Circles same size,Same constraints,IV4
+P8,Adult,19.19,M,V6 V2 V4 IVL2 V1 IVNL2 IVL3 V5 IVNL3 V3 IVL1 IVNL1,1,Fully inside,1,Crossing,Invalid,Translated,Small,Same constraints,IV4
+P9,Adult,20.58,F,IVNL2 V4 V2 IVL2 IVL3 V1 V3 IVNL1 IVNL3 V6 IVL1 V5,1,Fully inside,1,Crossing,Invalid,Both,Both,Same constraints,IV4
+P10,Adult,20.65,F,IVL3 V5 IVL2 V6 V2 V1 IVNL2 V4 IVL1 IVNL3 V3 IVNL1,1,Fully inside,1,Crossing,Invalid,Translated,Big,Same constraints,IV4
+P11,Adult,19.8,F,V1 IVL2 IVL1 V4 IVNL3 V5 IVNL1 IVL3 IVNL2 V3 V6 V2,1,Fully inside,1,Crossing,Invalid,Scaled,Big,Same constraints,IV4
+P12,Adult,23.55,M,IVNL1 V1 V3 V5 V2 IVL2 IVL1 V6 IVL3 IVNL2 V4 IVNL3,1,Fully inside,1,Crossing,Invalid,Scaled,Big,Same constraints,IV4
+P14,Adult,48.82,F,IVL3 V4 V1 V2 IVNL3 IVNL1 IVL2 V3 IVL1 V5 IVNL2 V6,1,Fully inside,1,Crossing,Invalid,Translated,Big,Same constraints,IV4
+P15,Adult,53,M,IVL3 V6 IVNL1 V5 V3 V1 V4 IVNL3 IVL1 IVL2 IVNL2 V2,1,Fully inside,1,Crossing,Invalid,Scaled,Small,Same constraints,IV4
+P16,Adult,19.05,M,IVNL2 V6 IVL1 IVNL1 IVL3 V4 V2 V3 V1 IVNL3 V5 IVL2,1,Crossing,1,Fully inside,Invalid,Scaled,Circles same size,Same constraints,IV4
+P17,Adult,21.46,M,V3 V4 V5 V2 IVL2 V1 IVL3 IVNL3 IVNL2 IVL1 V6 IVNL1,1,Fully inside,1,Crossing,Invalid,Both,Big,Same constraints,IV4
+P19,Adult,30.98,M,IVL1 V6 V3 V1 IVNL3 IVL2 V4 V5 IVNL1 V2 IVNL2 IVL3,1,Crossing,1,Fully inside,Invalid,Scaled,Small,Same constraints,IV4
+P20,Adult,20.2,F,IVL1 V4 V6 V5 IVNL3 IVL3 V2 V3 IVL2 V1 IVNL1 IVNL2,1,Fully inside,1,Crossing,Invalid,Scaled,Big,Same constraints,IV4
+P21,Adult,20.73,F,V1 IVNL3 V5 V3 V6 IVNL2 IVL3 IVL2 IVNL1 V4 V2 IVL1,1,Crossing,0,NA,Invalid,NA,NA,Same constraints,IV4
+P22,Adult,20.38,F,IVL1 V1 V2 V6 V4 IVNL1 IVNL3 IVL3 IVNL2 IVL2 V5 V3,1,Fully inside,1,Crossing,Invalid,Both,Both,Same constraints,IV4
+P23,Adult,20.56,M,V2 IVNL1 IVL3 IVL2 V1 IVNL3 V5 V4 IVL1 IVNL2 V3 V6,1,Fully inside,0,Fully inside,Invalid,None,None,Same constraints,IV4
+P24,Adult,21.49,F,V5 IVL3 IVNL3 IVNL2 IVL1 V3 V4 IVNL1 V1 IVL2 V6 V2,1,Fully inside,1,Crossing,Invalid,Scaled,Small,Same constraints,IV4
+P25,Adult,22.5,M,V3 V5 IVNL2 V4 IVNL3 V2 IVL3 V1 IVL1 V6 IVL2 IVNL1,1,Crossing,1,Fully inside,Invalid,Scaled,Circles same size,Same constraints,IV4
+P27,Adult,20.3,Non-binary,IVL2 V1 V4 V5 IVNL3 V6 V3 IVNL2 V2 IVNL1 IVL3 IVL1,1,Crossing,0,Fully inside,Invalid,Scaled,Circles same size,Same constraints,IV4
+P28,Adult,21.99,F,V5 IVL2 IVL1 IVNL3 V4 IVL3 IVNL1 V2 V6 IVNL2 V3 V1,1,Fully inside,1,Crossing,Invalid,Translated,Both,Same constraints,IV4
+P29,Adult,24.5,Prefer not to answer,V3 IVNL1 IVL2 V6 IVNL3 V2 V4 V5 V1 IVNL2 IVL3 IVL1,1,Fully inside,1,Crossing,Invalid,Translated,Big,Same constraints,IV4
+P30,Adult,19.2,F,IVL3 V1 IVNL3 V5 IVL1 IVNL2 V4 IVL2 V6 IVNL1 V2 V3,1,Crossing,0,Crossing,Invalid,Translated,Both,Same constraints,IV4
+P31,Adult,20.58,F,V6 V5 IVL1 IVNL2 IVNL1 V4 IVL3 V1 V2 V3 IVNL3 IVL2,1,Crossing,1,Crossing,Invalid,Scaled,Both,Same constraints,IV4
+P32,Adult,18.73,F,V1 IVNL2 V4 IVL1 IVL3 V5 V2 V3 V6 IVNL1 IVL2 IVNL3,1,Fully inside,1,Crossing,Invalid,Both,Both,Same constraints,IV4
+P33,Adult,19.75,M,V6 V5 IVL2 V2 IVNL2 V3 V1 IVL1 IVNL3 IVNL1 V4 IVL3,1,Fully inside,1,Crossing,Invalid,Translated,Small,Same constraints,IV4
+P34,Adult,23.17,Non-binary,IVNL3 IVL3 IVNL1 V1 IVL2 V2 V5 V3 V6 V4 IVL1 IVNL2,1,Fully inside,1,Crossing,Invalid,Translated,Both,Same constraints,IV4
+P35,Adult,22.83,F,IVL2 V1 V6 IVL3 IVL1 V2 IVNL1 V3 IVNL2 IVNL3 V5 V4,1,Fully inside,1,Crossing,Invalid,Both,Big,Same constraints,IV4
+P36,Adult,20.02,M,IVL2 IVL3 V1 V4 V2 V5 IVL1 IVNL2 V3 IVNL3 V6 IVNL1,1,Fully inside,1,Crossing,Invalid,Scaled,Small,Same constraints,IV4
+P37,Adult,21.14,M,IVNL1 V5 IVNL2 IVL1 V1 V3 IVL3 IVNL3 V4 V6 V2 IVL2,1,Fully inside,1,Crossing,Invalid,Both,Small,Same constraints,IV4
+P38,Adult,22.03,F,IVNL1 IVL2 IVNL3 V5 V2 IVNL2 IVL1 V6 V3 IVL3 V1 V4,1,Fully inside,1,Crossing,Invalid,Scaled,Big,Same constraints,IV4
+P39,Adult,20.21,F,IVNL3 V1 IVNL1 V6 V5 V3 V4 IVL3 IVL1 IVL2 IVNL2 V2,1,Fully inside,1,Crossing,Invalid,Translated,Small,Same constraints,IV4
+P40,Adult,21.82,F,IVL2 IVNL3 V1 V6 V2 IVNL1 V5 IVL3 V3 V4 IVL1 IVNL2,1,Crossing,0,Fully inside,Invalid,Both,Circles same size,Same constraints,IV4
+P41,Adult,21.61,M,V2 V1 IVNL1 IVNL2 V4 V5 IVNL3 IVL3 IVL1 V3 V6 IVL2,1,Fully inside,1,Crossing,Invalid,Both,Both,Same constraints,IV4
+C1,Children,10.98333333,M,V6 IVNL3 V1 IVL1 V2 IVNL1 V4 IVL3 V3 V5 IVNL2 IVL2,1,Fully inside,1,Crossing,Invalid,Scaled,Small,Same constraints,IV4
+C2,Children,10.75833333,F,V6 IVNL3 IVL2 V2 IVL3 V4 V3 IVNL2 IVL1 V1 IVNL1 V5,1,Crossing,1,Fully inside,Invalid,Scaled,Both,Same constraints,IV4
+C3,Children,10.75833333,F,IVL1 V4 V3 V6 V5 IVNL1 IVNL3 IVL3 V2 V1 IVL2 IVNL2,1,Fully inside,1,Crossing,Invalid,Scaled,Big,Same constraints,IV4
+C4,Children,10.75833333,M,V5 V6 V1 V3 IVL3 IVNL2 V4 IVNL1 IVL2 V2 IVL1 IVNL3,1,Crossing,0,Crossing,Invalid,Scaled,Circles same size,Same constraints,IV4
+C5,Children,9.472222222,F,IVL2 V5 V3 IVNL1 V6 V4 V1 IVNL2 V2 IVL3 IVL1 IVNL3,1,Crossing,1,Fully inside,Invalid,Translated,Circles same size,Same constraints,IV4
+C6,Children,8.055555556,F,IVNL3 IVNL1 V5 IVNL2 V4 V2 V6 IVL1 IVL3 V3 V1 IVL2,1,Fully inside,1,Crossing,Invalid,Scaled,Big,Same constraints,IV4
+C7,Children,10.925,F,V3 IVNL2 V1 IVL2 V5 V2 IVNL1 V6 V4 IVNL3 IVL3 IVL1,1,Fully inside,1,Crossing,Invalid,Translated,Big,Same constraints,IV4
+C8,Children,10.71944444,M,IVNL1 V1 IVL1 V3 IVL3 IVNL2 V2 V4 IVL2 IVNL3 V5 V6,1,Fully inside,0,Crossing,Invalid,Scaled,Big,Same constraints,IV4
+C9,Children,10.16944444,F,IVL1 V1 IVNL3 V4 V2 V5 IVL2 V6 IVNL1 IVL3 IVNL2 V3,1,Fully inside,1,Crossing,Invalid,Both,Both,Same constraints,IV4
+C10,Children,10.80277778,M,IVNL2 V3 V4 V5 IVL3 IVL1 IVNL1 IVNL3 V6 V2 V1 IVL2,1,Fully inside,0,Crossing,Invalid,Translated,Big,Same constraints,IV4
+C11,Children,8.083333333,M,IVL2 IVNL2 IVNL3 V3 V4 V5 IVL3 V6 IVL1 IVNL1 V2 V1,1,Fully inside,1,NA,Invalid,NA,NA,Same constraints,IV4
+C12,Children,8.083333333,M,V2 IVL1 IVNL2 IVL2 IVNL3 IVL3 V1 IVNL1 V3 V6 V4 V5,1,Crossing,1,Crossing,Invalid,None,None,Same constraints,IV4
+C13,Children,8.413888889,M,V1 IVL2 IVNL2 V6 IVNL1 V3 V4 V2 IVNL3 IVL3 IVL1 V5,1,Fully inside,0,Fully inside,Invalid,None,None,Same constraints,IV4
+C14,Children,8.186111111,F,V3 V4 V2 IVL1 IVNL3 V1 V6 V5 IVNL1 IVL2 IVNL2 IVL3,1,Fully inside,0,NA,Invalid,NA,NA,Same constraints,IV4
+C15,Children,9.991666667,F,V5 IVL3 IVNL2 V3 V4 IVL2 IVNL1 V6 V1 IVL1 V2 IVNL3,1,Fully inside,1,Crossing,Invalid,Translated,Big,Same constraints,IV4
+C17,Children,8.483333333,F,V2 V3 V1 V5 IVL2 IVL3 IVNL2 IVL1 V4 IVNL3 IVNL1 V6,2,Crossing,1,NA,Invalid,Both,NA,Same constraints,IV4
+C18,Children,8.344444444,M,IVNL3 IVL2 V3 V4 V2 V6 IVL3 IVL1 V5 V1 IVNL2 IVNL1,1,Fully inside,1,Crossing,Invalid,Scaled,Small,Same constraints,IV4
+C19,Children,8.325,M,IVL2 V3 IVNL3 V2 V5 V4 V6 IVL1 IVNL2 IVL3 IVNL1 V1,1,Fully inside,0,Fully inside,Invalid,None,None,Same constraints,IV4
+C20,Children,8.394444444,M,IVL2 V4 V6 V1 IVNL3 IVNL2 IVL3 V2 V3 V5 IVNL1 IVL1,1,Fully inside,0,Crossing,Invalid,Scaled,Both,Same constraints,IV4
+C21,Children,8.455555556,M,IVNL1 V6 IVL2 V4 V5 IVL1 V1 IVL3 V3 V2 IVNL2 IVNL3,1,Crossing,1,Fully inside,Invalid,Scaled,Big,Same constraints,IV4
+C23,Children,10.98333333,M,V4 IVNL1 V2 IVL1 V5 IVNL2 V6 IVL2 V3 IVL3 IVNL3 V1,1,Fully inside,1,Crossing,Invalid,Both,Big,Same constraints,IV4
+C24,Children,10.81111111,F,V2 IVL3 IVNL1 V5 V4 IVL1 IVNL3 IVL2 V3 V6 V1 IVNL2,1,Crossing,1,Fully inside,Invalid,Scaled,Circles same size,Same constraints,IV4
+C25,Children,10.70555556,M,IVNL3 IVNL2 IVL1 V2 V4 V3 V6 V1 IVL3 IVNL1 IVL2 V5,1,Fully inside,0,Crossing,Invalid,Scaled,Big,Same constraints,IV4
+C26,Children,10.63055556,F,V4 IVL2 V1 IVNL3 IVL1 IVNL1 IVNL2 V3 V5 V6 V2 IVL3,2,Fully inside,1,Crossing,Invalid,Scaled,Big,Same constraints,IV4
+C27,Children,10.10833333,F,V6 V1 IVL3 IVNL2 IVNL3 V4 IVL1 IVL2 V2 V5 IVNL1 V3,1,Fully inside,1,Crossing,Invalid,Translated,Big,Same constraints,IV4
+C28,Children,10.36666667,M,IVNL1 V5 V2 V4 IVNL2 IVL3 V6 V1 IVL2 V3 IVNL3 IVL1,2,Fully inside,0,NA,Invalid,NA,NA,Same constraints,IV4
+C29,Children,10.04444444,F,IVL3 IVNL3 IVNL1 IVL2 IVNL2 V4 V6 V3 IVL1 V2 V5 V1,1,Crossing,1,Fully inside,Invalid,Both,Both,Same constraints,IV4
+C30,Children,10.55,F,IVNL3 V1 IVNL2 V3 IVNL1 V6 IVL3 IVL2 V5 V4 IVL1 V2,1,Fully inside,1,Crossing,Invalid,Scaled,Small,Same constraints,IV4
+C31,Children,10.26944444,M,V4 V6 IVNL3 IVNL2 IVL1 IVL3 V2 V1 V5 V3 IVL2 IVNL1,1,Crossing,0,Crossing,Invalid,None,None,Same constraints,IV4
+C32,Children,10.06388889,F,V4 IVL2 IVNL3 V1 V2 V3 V6 IVNL1 IVL1 IVNL2 V5 IVL3,1,Crossing,1,Fully inside,Invalid,Scaled,Circles same size,Same constraints,IV4
+C33,Children,9.161111111,M,V2 V5 IVNL3 IVL2 IVNL2 V6 V1 IVNL1 V3 IVL3 IVL1 V4,1,Fully inside,0,Crossing,Invalid,Scaled,Big,Same constraints,IV4
+C34,Children,9.327777778,F,IVL2 IVL3 V6 V2 V3 IVL1 IVNL2 IVNL1 V4 V1 IVNL3 V5,1,Fully inside,0,Fully inside,Invalid,Scaled,Small,Same constraints,IV4
+C35,Children,10.97777778,F,IVL1 V3 IVNL1 V5 IVL2 V6 IVNL2 IVL3 V4 V1 V2 IVNL3,1,Fully inside,1,Crossing,Invalid,Both,Big,Same constraints,IV4
+C36,Children,9.430555556,F,IVL3 V2 IVL1 V3 IVNL1 V5 V6 IVL2 IVNL3 V1 V4 IVNL2,1,Fully inside,1,Crossing,Invalid,Scaled,Big,Same constraints,IV4
+C37,Children,10.21666667,F,V5 V1 V3 IVL3 V4 IVNL1 IVNL3 V2 V6 IVNL2 IVL1 IVL2,1,Fully inside,1,Crossing,Invalid,Scaled,Small,Same constraints,IV4
+C38,Children,9.619444444,F,V6 IVL3 V1 IVL1 V5 IVNL1 V4 IVL2 IVNL3 V3 V2 IVNL2,1,Fully inside,0,NA,Invalid,NA,NA,Same constraints,IV4
+C40,Children,9.708333333,F,IVL3 IVNL1 V5 V3 IVL1 IVNL3 V6 V4 V2 IVNL2 IVL2 V1,1,Fully inside,1,Crossing,Invalid,Scaled,Big,Same constraints,IV4
+C41,Children,10.05833333,F,V3 V5 V6 IVNL3 IVNL1 IVL2 IVL1 V2 V4 IVL3 V1 IVNL2,2,Fully inside,1,Crossing,Invalid,Both,Both,Same constraints,IV4
+C42,Children,10.05833333,F,V1 V3 IVNL1 IVL1 V2 IVNL3 V4 V6 IVL3 V5 IVNL2 IVL2,1,Fully inside,1,Fully inside,Invalid,None,None,Same constraints,IV4
+C43,Children,9.794444444,F,IVNL1 IVL2 IVNL2 IVNL3 V5 V6 V1 IVL1 V2 V4 V3 IVL3,2,Fully inside,1,Crossing,Invalid,Scaled,Small,Same constraints,IV4
+C44,Children,9.977777778,F,V1 V5 IVL2 V3 IVNL1 IVNL2 IVL1 V2 V4 IVL3 IVNL3 V6,1,Fully inside,0,Fully inside,Invalid,None,None,Same constraints,IV4
+C45,Children,9.652777778,M,IVL3 IVL2 V2 IVNL2 V1 V4 V3 IVL1 V5 IVNL3 IVNL1 V6,1,Fully inside,1,Crossing,Invalid,Scaled,Both,Same constraints,IV4
+C46,Children,9.619444444,M,IVL1 IVL2 IVL3 V6 V1 IVNL3 V2 V4 IVNL2 V3 IVNL1 V5,1,Fully inside,0,Crossing,Invalid,Both,Both,Same constraints,IV4
+C47,Children,8.105555556,M,V2 IVNL2 V5 IVL1 V6 IVL3 IVNL3 IVNL1 V1 V3 V4 IVL2,2,Crossing,1,Crossing,Invalid,Translated,Circles same size,Same constraints,IV4
+C48,Children,9.111111111,F,IVL2 IVNL1 IVNL2 IVL1 V6 V1 IVL3 V4 V5 V2 V3 IVNL3,1,Fully inside,0,NA,Invalid,NA,NA,Same constraints,IV4
+C49,Children,8.038888889,M,V6 V4 IVL3 IVNL1 IVNL3 IVL2 IVL1 V5 V2 V3 V1 IVNL2,1,Crossing,1,Fully inside,Invalid,Scaled,Small,Same constraints,IV4
+P1,Adult,22.62,F,V6 V2 V1 IVL2 IVL1 V4 IVL3 V3 IVNL1 IVNL2 V5 IVNL3,1,Crossing,1,Fully inside,Invalid,Translated,Circles same size,Least,IV6
+P2,Adult,20.85,M,V1 IVL1 V5 IVL2 IVNL3 V2 V3 V6 IVNL1 IVL3 V4 IVNL2,1,Apart,1,Crossing,Invalid,Translated,Circles same size,Least,IV6
+P3,Adult,19.7,F,V3 IVL1 V2 V5 V4 IVNL1 IVL2 IVNL2 IVNL3 V6 IVL3 V1,1,Apart,1,Crossing,Invalid,Both,Both,Both,IV6
+P4,Adult,22.43,Non-binary,IVL3 V6 IVL1 V3 IVNL2 IVNL3 V5 V1 IVL2 V4 IVNL1 V2,1,Apart,1,Crossing,Invalid,Translated,Small,Least,IV6
+P5,Adult,20.18,F,IVNL1 IVNL2 IVL2 V5 V6 V3 V2 IVL3 V4 V1 IVL1 IVNL3,1,Apart,1,Crossing,Invalid,Translated,Small,Least,IV6
+P6,Adult,19.84,M,V3 V5 V1 V6 IVL2 IVL3 V2 IVNL2 IVNL3 IVNL1 V4 IVL1,1,Apart,1,Crossing,Invalid,Translated,Small,Least,IV6
+P7,Adult,20.43,M,V4 IVL1 V5 IVNL3 IVNL1 IVL3 V1 IVL2 IVNL2 V2 V3 V6,1,Apart,1,Crossing,Invalid,Translated,Small,Least,IV6
+P8,Adult,19.19,M,V6 V2 V4 IVL2 V1 IVNL2 IVL3 V5 IVNL3 V3 IVL1 IVNL1,1,Apart,1,Crossing,Invalid,Translated,Small,Least,IV6
+P9,Adult,20.58,F,IVNL2 V4 V2 IVL2 IVL3 V1 V3 IVNL1 IVNL3 V6 IVL1 V5,1,Apart,1,Fully inside,Invalid,Both,Both,Both,IV6
+P10,Adult,20.65,F,IVL3 V5 IVL2 V6 V2 V1 IVNL2 V4 IVL1 IVNL3 V3 IVNL1,1,Fully inside,1,Crossing,Invalid,Scaled,Big,Most,IV6
+P11,Adult,19.8,F,V1 IVL2 IVL1 V4 IVNL3 V5 IVNL1 IVL3 IVNL2 V3 V6 V2,1,Apart,1,Crossing,Invalid,Scaled,Small,Least,IV6
+P12,Adult,23.55,M,IVNL1 V1 V3 V5 V2 IVL2 IVL1 V6 IVL3 IVNL2 V4 IVNL3,1,Apart,1,Crossing,Invalid,Translated,Circles same size,Least,IV6
+P14,Adult,48.82,F,IVL3 V4 V1 V2 IVNL3 IVNL1 IVL2 V3 IVL1 V5 IVNL2 V6,1,Apart,1,Crossing,Invalid,Translated,Circles same size,Least,IV6
+P15,Adult,53,M,IVL3 V6 IVNL1 V5 V3 V1 V4 IVNL3 IVL1 IVL2 IVNL2 V2,1,Fully inside,1,Apart,Invalid,Translated,Small,Least,IV6
+P16,Adult,19.05,M,IVNL2 V6 IVL1 IVNL1 IVL3 V4 V2 V3 V1 IVNL3 V5 IVL2,1,Apart,1,Crossing,Invalid,Both,Small,Least,IV6
+P17,Adult,21.46,M,V3 V4 V5 V2 IVL2 V1 IVL3 IVNL3 IVNL2 IVL1 V6 IVNL1,1,Apart,1,Crossing,Invalid,Translated,Both,Both,IV6
+P19,Adult,30.98,M,IVL1 V6 V3 V1 IVNL3 IVL2 V4 V5 IVNL1 V2 IVNL2 IVL3,1,Apart,1,Crossing,Invalid,Translated,Circles same size,Least,IV6
+P20,Adult,20.2,F,IVL1 V4 V6 V5 IVNL3 IVL3 V2 V3 IVL2 V1 IVNL1 IVNL2,1,Apart,1,Fully inside,Invalid,Both,Both,Both,IV6
+P21,Adult,20.73,F,V1 IVNL3 V5 V3 V6 IVNL2 IVL3 IVL2 IVNL1 V4 V2 IVL1,1,Apart,1,Crossing,Invalid,Translated,Big,Least,IV6
+P22,Adult,20.38,F,IVL1 V1 V2 V6 V4 IVNL1 IVNL3 IVL3 IVNL2 IVL2 V5 V3,1,Apart,1,Fully inside,Invalid,Translated,Small,Least,IV6
+P23,Adult,20.56,M,V2 IVNL1 IVL3 IVL2 V1 IVNL3 V5 V4 IVL1 IVNL2 V3 V6,1,Apart,1,Crossing,Invalid,Translated,Small,Least,IV6
+P24,Adult,21.49,F,V5 IVL3 IVNL3 IVNL2 IVL1 V3 V4 IVNL1 V1 IVL2 V6 V2,1,Fully inside,1,Apart,Invalid,Translated,Small,Least,IV6
+P25,Adult,22.5,M,V3 V5 IVNL2 V4 IVNL3 V2 IVL3 V1 IVL1 V6 IVL2 IVNL1,1,Apart,1,Fully inside,Invalid,Both,Both,Both,IV6
+P27,Adult,20.3,Non-binary,IVL2 V1 V4 V5 IVNL3 V6 V3 IVNL2 V2 IVNL1 IVL3 IVL1,1,Apart,1,Crossing,Invalid,Both,Both,Both,IV6
+P28,Adult,21.99,F,V5 IVL2 IVL1 IVNL3 V4 IVL3 IVNL1 V2 V6 IVNL2 V3 V1,1,Apart,1,Crossing,Invalid,Translated,Circles same size,Least,IV6
+P29,Adult,24.5,Prefer not to answer,V3 IVNL1 IVL2 V6 IVNL3 V2 V4 V5 V1 IVNL2 IVL3 IVL1,1,Apart,1,Crossing,Invalid,Translated,Circles same size,Least,IV6
+P30,Adult,19.2,F,IVL3 V1 IVNL3 V5 IVL1 IVNL2 V4 IVL2 V6 IVNL1 V2 V3,1,Apart,1,Crossing,Invalid,Translated,Circles same size,NA,IV6
+P31,Adult,20.58,F,V6 V5 IVL1 IVNL2 IVNL1 V4 IVL3 V1 V2 V3 IVNL3 IVL2,1,Apart,1,Crossing,Invalid,Translated,Small,Least,IV6
+P32,Adult,18.73,F,V1 IVNL2 V4 IVL1 IVL3 V5 V2 V3 V6 IVNL1 IVL2 IVNL3,1,Apart,1,Crossing,Invalid,Translated,Big,Least,IV6
+P33,Adult,19.75,M,V6 V5 IVL2 V2 IVNL2 V3 V1 IVL1 IVNL3 IVNL1 V4 IVL3,1,Apart,1,Crossing,Invalid,Scaled,Small,Least,IV6
+P34,Adult,23.17,Non-binary,IVNL3 IVL3 IVNL1 V1 IVL2 V2 V5 V3 V6 V4 IVL1 IVNL2,1,Crossing,1,Apart,Invalid,Both,Both,Both,IV6
+P35,Adult,22.83,F,IVL2 V1 V6 IVL3 IVL1 V2 IVNL1 V3 IVNL2 IVNL3 V5 V4,1,Apart,1,Crossing,Invalid,Translated,Both,Both,IV6
+P36,Adult,20.02,M,IVL2 IVL3 V1 V4 V2 V5 IVL1 IVNL2 V3 IVNL3 V6 IVNL1,1,Fully inside,1,Crossing,Invalid,Translated,Small,Least,IV6
+P37,Adult,21.14,M,IVNL1 V5 IVNL2 IVL1 V1 V3 IVL3 IVNL3 V4 V6 V2 IVL2,1,Apart,1,Crossing,Invalid,Translated,Circles same size,Least,IV6
+P38,Adult,22.03,F,IVNL1 IVL2 IVNL3 V5 V2 IVNL2 IVL1 V6 V3 IVL3 V1 V4,1,Apart,1,Crossing,Invalid,Both,Small,Least,IV6
+P39,Adult,20.21,F,IVNL3 V1 IVNL1 V6 V5 V3 V4 IVL3 IVL1 IVL2 IVNL2 V2,2,Crossing,1,Apart,Invalid,Translated,Both,Both,IV6
+P40,Adult,21.82,F,IVL2 IVNL3 V1 V6 V2 IVNL1 V5 IVL3 V3 V4 IVL1 IVNL2,1,Apart,1,Crossing,Invalid,Both,Circles same size,Least,IV6
+P41,Adult,21.61,M,V2 V1 IVNL1 IVNL2 V4 V5 IVNL3 IVL3 IVL1 V3 V6 IVL2,1,Apart,1,Fully inside,Invalid,Both,Both,Both,IV6
+C1,Children,10.98333333,M,V6 IVNL3 V1 IVL1 V2 IVNL1 V4 IVL3 V3 V5 IVNL2 IVL2,1,Crossing,1,Apart,Invalid,Translated,Both,Both,IV6
+C2,Children,10.75833333,F,V6 IVNL3 IVL2 V2 IVL3 V4 V3 IVNL2 IVL1 V1 IVNL1 V5,1,Crossing,1,Fully inside,Invalid,Both,Small,Least,IV6
+C3,Children,10.75833333,F,IVL1 V4 V3 V6 V5 IVNL1 IVNL3 IVL3 V2 V1 IVL2 IVNL2,1,Apart,1,Fully inside,Invalid,Both,Both,Both,IV6
+C4,Children,10.75833333,M,V5 V6 V1 V3 IVL3 IVNL2 V4 IVNL1 IVL2 V2 IVL1 IVNL3,1,Apart,1,Fully inside,Invalid,Translated,Both,Both,IV6
+C5,Children,9.472222222,F,IVL2 V5 V3 IVNL1 V6 V4 V1 IVNL2 V2 IVL3 IVL1 IVNL3,1,Apart,1,Crossing,Invalid,Scaled,Circles same size,Least,IV6
+C6,Children,8.055555556,F,IVNL3 IVNL1 V5 IVNL2 V4 V2 V6 IVL1 IVL3 V3 V1 IVL2,1,Crossing,0,Apart,Invalid,Scaled,Both,Both,IV6
+C7,Children,10.925,F,V3 IVNL2 V1 IVL2 V5 V2 IVNL1 V6 V4 IVNL3 IVL3 IVL1,1,Apart,1,Crossing,Invalid,Translated,Big,Least,IV6
+C8,Children,10.71944444,M,IVNL1 V1 IVL1 V3 IVL3 IVNL2 V2 V4 IVL2 IVNL3 V5 V6,1,Apart,1,Crossing,Invalid,Both,Small,Least,IV6
+C9,Children,10.16944444,F,IVL1 V1 IVNL3 V4 V2 V5 IVL2 V6 IVNL1 IVL3 IVNL2 V3,1,Apart,1,Crossing,Invalid,Translated,Small,Least,IV6
+C10,Children,10.80277778,M,IVNL2 V3 V4 V5 IVL3 IVL1 IVNL1 IVNL3 V6 V2 V1 IVL2,1,Apart,1,Crossing,Invalid,Translated,Big,Least,IV6
+C11,Children,8.083333333,M,IVL2 IVNL2 IVNL3 V3 V4 V5 IVL3 V6 IVL1 IVNL1 V2 V1,1,Apart,1,Crossing,Invalid,Both,Both,Both,IV6
+C12,Children,8.083333333,M,V2 IVL1 IVNL2 IVL2 IVNL3 IVL3 V1 IVNL1 V3 V6 V4 V5,1,Crossing,NA,Crossing,Invalid,NA,NA,NA,IV6
+C13,Children,8.413888889,M,V1 IVL2 IVNL2 V6 IVNL1 V3 V4 V2 IVNL3 IVL3 IVL1 V5,1,Fully inside,0,Fully inside,Invalid,None,None,None,IV6
+C14,Children,8.186111111,F,V3 V4 V2 IVL1 IVNL3 V1 V6 V5 IVNL1 IVL2 IVNL2 IVL3,1,Apart,1,Crossing,Invalid,Translated,Circles same size,Least,IV6
+C15,Children,9.991666667,F,V5 IVL3 IVNL2 V3 V4 IVL2 IVNL1 V6 V1 IVL1 V2 IVNL3,1,Apart,1,Crossing,Invalid,Translated,Both,Both,IV6
+C17,Children,8.483333333,F,V2 V3 V1 V5 IVL2 IVL3 IVNL2 IVL1 V4 IVNL3 IVNL1 V6,1,Crossing,1,Apart,Invalid,Both,Circles same size,Least,IV6
+C18,Children,8.344444444,M,IVNL3 IVL2 V3 V4 V2 V6 IVL3 IVL1 V5 V1 IVNL2 IVNL1,1,Crossing,1,Fully inside,Invalid,Scaled,Small,Least,IV6
+C19,Children,8.325,M,IVL2 V3 IVNL3 V2 V5 V4 V6 IVL1 IVNL2 IVL3 IVNL1 V1,1,Crossing,0,NA,Invalid,NA,NA,NA,IV6
+C20,Children,8.394444444,M,IVL2 V4 V6 V1 IVNL3 IVNL2 IVL3 V2 V3 V5 IVNL1 IVL1,1,Crossing,1,Apart,Invalid,Scaled,Big,Most,IV6
+C21,Children,8.455555556,M,IVNL1 V6 IVL2 V4 V5 IVL1 V1 IVL3 V3 V2 IVNL2 IVNL3,1,Apart,1,Crossing,Invalid,Translated,Big,Least,IV6
+C23,Children,10.98333333,M,V4 IVNL1 V2 IVL1 V5 IVNL2 V6 IVL2 V3 IVL3 IVNL3 V1,1,Crossing,1,Apart,Invalid,Both,Circles same size,Least,IV6
+C24,Children,10.81111111,F,V2 IVL3 IVNL1 V5 V4 IVL1 IVNL3 IVL2 V3 V6 V1 IVNL2,1,Apart,1,Crossing,Invalid,Translated,Small,Least,IV6
+C25,Children,10.70555556,M,IVNL3 IVNL2 IVL1 V2 V4 V3 V6 V1 IVL3 IVNL1 IVL2 V5,2,Apart,1,Crossing,Invalid,Translated,Circles same size,Least,IV6
+C26,Children,10.63055556,F,V4 IVL2 V1 IVNL3 IVL1 IVNL1 IVNL2 V3 V5 V6 V2 IVL3,1,Fully inside,1,Apart,Invalid,Both,Both,Both,IV6
+C27,Children,10.10833333,F,V6 V1 IVL3 IVNL2 IVNL3 V4 IVL1 IVL2 V2 V5 IVNL1 V3,1,Crossing,1,Apart,Invalid,Translated,Big,Least,IV6
+C28,Children,10.36666667,M,IVNL1 V5 V2 V4 IVNL2 IVL3 V6 V1 IVL2 V3 IVNL3 IVL1,1,Apart,1,Crossing,Invalid,Both,Both,Both,IV6
+C29,Children,10.04444444,F,IVL3 IVNL3 IVNL1 IVL2 IVNL2 V4 V6 V3 IVL1 V2 V5 V1,1,Apart,1,Crossing,Invalid,Both,Circles same size,Least,IV6
+C30,Children,10.55,F,IVNL3 V1 IVNL2 V3 IVNL1 V6 IVL3 IVL2 V5 V4 IVL1 V2,1,Apart,1,Crossing,Invalid,Translated,Small,Least,IV6
+C31,Children,10.26944444,M,V4 V6 IVNL3 IVNL2 IVL1 IVL3 V2 V1 V5 V3 IVL2 IVNL1,1,Crossing,1,Apart,Invalid,Scaled,Both,Both,IV6
+C32,Children,10.06388889,F,V4 IVL2 IVNL3 V1 V2 V3 V6 IVNL1 IVL1 IVNL2 V5 IVL3,1,Apart,1,Crossing,Invalid,Translated,Both,Both,IV6
+C33,Children,9.161111111,M,V2 V5 IVNL3 IVL2 IVNL2 V6 V1 IVNL1 V3 IVL3 IVL1 V4,1,Apart,1,Crossing,Invalid,Translated,Circles same size,Least,IV6
+C34,Children,9.327777778,F,IVL2 IVL3 V6 V2 V3 IVL1 IVNL2 IVNL1 V4 V1 IVNL3 V5,1,Crossing,1,Apart,Invalid,Both,Big,Most,IV6
+C35,Children,10.97777778,F,IVL1 V3 IVNL1 V5 IVL2 V6 IVNL2 IVL3 V4 V1 V2 IVNL3,1,Apart,1,Crossing,Invalid,Both,Both,Both,IV6
+C36,Children,9.430555556,F,IVL3 V2 IVL1 V3 IVNL1 V5 V6 IVL2 IVNL3 V1 V4 IVNL2,1,Apart,1,Crossing,Invalid,Translated,Circles same size,Least,IV6
+C37,Children,10.21666667,F,V5 V1 V3 IVL3 V4 IVNL1 IVNL3 V2 V6 IVNL2 IVL1 IVL2,1,Crossing,1,Apart,Invalid,Translated,Small,Least,IV6
+C38,Children,9.619444444,F,V6 IVL3 V1 IVL1 V5 IVNL1 V4 IVL2 IVNL3 V3 V2 IVNL2,1,Apart,1,Crossing,Invalid,Both,Big,Least,IV6
+C40,Children,9.708333333,F,IVL3 IVNL1 V5 V3 IVL1 IVNL3 V6 V4 V2 IVNL2 IVL2 V1,1,Apart,1,Crossing,Invalid,Scaled,Small,Least,IV6
+C41,Children,10.05833333,F,V3 V5 V6 IVNL3 IVNL1 IVL2 IVL1 V2 V4 IVL3 V1 IVNL2,2,Apart,1,Crossing,Invalid,Translated,Big,Least,IV6
+C42,Children,10.05833333,F,V1 V3 IVNL1 IVL1 V2 IVNL3 V4 V6 IVL3 V5 IVNL2 IVL2,1,Apart,1,Fully inside,Invalid,Translated,Small,Least,IV6
+C43,Children,9.794444444,F,IVNL1 IVL2 IVNL2 IVNL3 V5 V6 V1 IVL1 V2 V4 V3 IVL3,1,Apart,1,Crossing,Invalid,Translated,Big,Least,IV6
+C44,Children,9.977777778,F,V1 V5 IVL2 V3 IVNL1 IVNL2 IVL1 V2 V4 IVL3 IVNL3 V6,1,Crossing,1,Apart,Invalid,Translated,Circles same size,Least,IV6
+C45,Children,9.652777778,M,IVL3 IVL2 V2 IVNL2 V1 V4 V3 IVL1 V5 IVNL3 IVNL1 V6,1,Apart,1,Crossing,Invalid,Translated,Circles same size,Least,IV6
+C46,Children,9.619444444,M,IVL1 IVL2 IVL3 V6 V1 IVNL3 V2 V4 IVNL2 V3 IVNL1 V5,1,Apart,1,Crossing,Invalid,Scaled,Small,Least,IV6
+C47,Children,8.105555556,M,V2 IVNL2 V5 IVL1 V6 IVL3 IVNL3 IVNL1 V1 V3 V4 IVL2,1,Fully inside,1,Apart,Invalid,Both,Both,Both,IV6
+C48,Children,9.111111111,F,IVL2 IVNL1 IVNL2 IVL1 V6 V1 IVL3 V4 V5 V2 V3 IVNL3,1,Apart,1,Crossing,Invalid,Translated,Circles same size,Least,IV6
+C49,Children,8.038888889,M,V6 V4 IVL3 IVNL1 IVNL3 IVL2 IVL1 V5 V2 V3 V1 IVNL2,1,Crossing,1,Fully inside,Invalid,Scaled,Small,Least,IV6
+P1,Adult,22.62,F,V6 V2 V1 IVL2 IVL1 V4 IVL3 V3 IVNL1 IVNL2 V5 IVNL3,1,Crossing,1,NA,Valid,NA,NA,Same constraints,V1
+P2,Adult,20.85,M,V1 IVL1 V5 IVL2 IVNL3 V2 V3 V6 IVNL1 IVL3 V4 IVNL2,1,Crossing,1,Crossing,Valid,None,None,Same constraints,V1
+P3,Adult,19.7,F,V3 IVL1 V2 V5 V4 IVNL1 IVL2 IVNL2 IVNL3 V6 IVL3 V1,1,Crossing,1,Crossing,Valid,None,None,Same constraints,V1
+P4,Adult,22.43,Non-binary,IVL3 V6 IVL1 V3 IVNL2 IVNL3 V5 V1 IVL2 V4 IVNL1 V2,1,Crossing,1,Crossing,Valid,Translated,Both,Same constraints,V1
+P5,Adult,20.18,F,IVNL1 IVNL2 IVL2 V5 V6 V3 V2 IVL3 V4 V1 IVL1 IVNL3,1,Crossing,1,Crossing,Valid,None,None,Same constraints,V1
+P6,Adult,19.84,M,V3 V5 V1 V6 IVL2 IVL3 V2 IVNL2 IVNL3 IVNL1 V4 IVL1,1,Crossing,1,Crossing,Valid,Scaled,Big,Same constraints,V1
+P7,Adult,20.43,M,V4 IVL1 V5 IVNL3 IVNL1 IVL3 V1 IVL2 IVNL2 V2 V3 V6,1,Crossing,1,Crossing,Valid,Translated,Circles same size,Same constraints,V1
+P8,Adult,19.19,M,V6 V2 V4 IVL2 V1 IVNL2 IVL3 V5 IVNL3 V3 IVL1 IVNL1,1,Crossing,1,Crossing,Valid,Scaled,Big,Same constraints,V1
+P9,Adult,20.58,F,IVNL2 V4 V2 IVL2 IVL3 V1 V3 IVNL1 IVNL3 V6 IVL1 V5,2,Crossing,0,Crossing,Valid,None,None,Same constraints,V1
+P10,Adult,20.65,F,IVL3 V5 IVL2 V6 V2 V1 IVNL2 V4 IVL1 IVNL3 V3 IVNL1,1,Crossing,1,Crossing,Valid,None,None,Same constraints,V1
+P11,Adult,19.8,F,V1 IVL2 IVL1 V4 IVNL3 V5 IVNL1 IVL3 IVNL2 V3 V6 V2,1,Crossing,1,Crossing,Valid,Scaled,Circles same size,Same constraints,V1
+P12,Adult,23.55,M,IVNL1 V1 V3 V5 V2 IVL2 IVL1 V6 IVL3 IVNL2 V4 IVNL3,1,Crossing,1,NA,Valid,NA,NA,Same constraints,V1
+P14,Adult,48.82,F,IVL3 V4 V1 V2 IVNL3 IVNL1 IVL2 V3 IVL1 V5 IVNL2 V6,1,Crossing,1,Crossing,Valid,None,None,Same constraints,V1
+P15,Adult,53,M,IVL3 V6 IVNL1 V5 V3 V1 V4 IVNL3 IVL1 IVL2 IVNL2 V2,1,Crossing,1,Crossing,Valid,Scaled,Big,Same constraints,V1
+P16,Adult,19.05,M,IVNL2 V6 IVL1 IVNL1 IVL3 V4 V2 V3 V1 IVNL3 V5 IVL2,1,Crossing,1,Crossing,Valid,Scaled,Circles same size,Same constraints,V1
+P17,Adult,21.46,M,V3 V4 V5 V2 IVL2 V1 IVL3 IVNL3 IVNL2 IVL1 V6 IVNL1,1,Crossing,1,Crossing,Valid,Scaled,Both,Same constraints,V1
+P19,Adult,30.98,M,IVL1 V6 V3 V1 IVNL3 IVL2 V4 V5 IVNL1 V2 IVNL2 IVL3,1,Crossing,1,Crossing,Valid,Scaled,Circles same size,Same constraints,V1
+P20,Adult,20.2,F,IVL1 V4 V6 V5 IVNL3 IVL3 V2 V3 IVL2 V1 IVNL1 IVNL2,1,Crossing,1,Crossing,Valid,None,None,Same constraints,V1
+P21,Adult,20.73,F,V1 IVNL3 V5 V3 V6 IVNL2 IVL3 IVL2 IVNL1 V4 V2 IVL1,1,Crossing,1,NA,Valid,NA,NA,Same constraints,V1
+P22,Adult,20.38,F,IVL1 V1 V2 V6 V4 IVNL1 IVNL3 IVL3 IVNL2 IVL2 V5 V3,1,Crossing,1,Crossing,Valid,Scaled,Small,Same constraints,V1
+P23,Adult,20.56,M,V2 IVNL1 IVL3 IVL2 V1 IVNL3 V5 V4 IVL1 IVNL2 V3 V6,1,Crossing,1,Crossing,Valid,None,None,Same constraints,V1
+P24,Adult,21.49,F,V5 IVL3 IVNL3 IVNL2 IVL1 V3 V4 IVNL1 V1 IVL2 V6 V2,1,Crossing,1,NA,Valid,NA,NA,Same constraints,V1
+P25,Adult,22.5,M,V3 V5 IVNL2 V4 IVNL3 V2 IVL3 V1 IVL1 V6 IVL2 IVNL1,1,Crossing,0,Crossing,Valid,Scaled,Circles same size,Same constraints,V1
+P27,Adult,20.3,Non-binary,IVL2 V1 V4 V5 IVNL3 V6 V3 IVNL2 V2 IVNL1 IVL3 IVL1,1,Crossing,1,Crossing,Valid,Translated,Circles same size,Same constraints,V1
+P28,Adult,21.99,F,V5 IVL2 IVL1 IVNL3 V4 IVL3 IVNL1 V2 V6 IVNL2 V3 V1,1,Crossing,0,NA,Valid,NA,NA,Same constraints,V1
+P29,Adult,24.5,Prefer not to answer,V3 IVNL1 IVL2 V6 IVNL3 V2 V4 V5 V1 IVNL2 IVL3 IVL1,1,Crossing,1,Crossing,Valid,Scaled,Big,Same constraints,V1
+P30,Adult,19.2,F,IVL3 V1 IVNL3 V5 IVL1 IVNL2 V4 IVL2 V6 IVNL1 V2 V3,2,Crossing,1,Crossing,Valid,Scaled,Circles same size,Same constraints,V1
+P31,Adult,20.58,F,V6 V5 IVL1 IVNL2 IVNL1 V4 IVL3 V1 V2 V3 IVNL3 IVL2,1,Crossing,1,Crossing,Valid,None,None,Same constraints,V1
+P32,Adult,18.73,F,V1 IVNL2 V4 IVL1 IVL3 V5 V2 V3 V6 IVNL1 IVL2 IVNL3,1,Crossing,NA,NA,Valid,NA,NA,Same constraints,V1
+P33,Adult,19.75,M,V6 V5 IVL2 V2 IVNL2 V3 V1 IVL1 IVNL3 IVNL1 V4 IVL3,1,Crossing,1,Crossing,Valid,Translated,Both,Same constraints,V1
+P34,Adult,23.17,Non-binary,IVNL3 IVL3 IVNL1 V1 IVL2 V2 V5 V3 V6 V4 IVL1 IVNL2,1,Crossing,1,Crossing,Valid,None,None,Same constraints,V1
+P35,Adult,22.83,F,IVL2 V1 V6 IVL3 IVL1 V2 IVNL1 V3 IVNL2 IVNL3 V5 V4,1,Crossing,1,Crossing,Valid,None,None,Same constraints,V1
+P36,Adult,20.02,M,IVL2 IVL3 V1 V4 V2 V5 IVL1 IVNL2 V3 IVNL3 V6 IVNL1,1,Crossing,1,NA,Valid,NA,NA,Same constraints,V1
+P37,Adult,21.14,M,IVNL1 V5 IVNL2 IVL1 V1 V3 IVL3 IVNL3 V4 V6 V2 IVL2,1,Crossing,1,Crossing,Valid,None,None,Same constraints,V1
+P38,Adult,22.03,F,IVNL1 IVL2 IVNL3 V5 V2 IVNL2 IVL1 V6 V3 IVL3 V1 V4,1,Crossing,1,Crossing,Valid,None,None,Same constraints,V1
+P39,Adult,20.21,F,IVNL3 V1 IVNL1 V6 V5 V3 V4 IVL3 IVL1 IVL2 IVNL2 V2,1,Crossing,0,Crossing,Valid,Scaled,Small,Same constraints,V1
+P40,Adult,21.82,F,IVL2 IVNL3 V1 V6 V2 IVNL1 V5 IVL3 V3 V4 IVL1 IVNL2,1,Crossing,1,Crossing,Valid,Both,Circles same size,Same constraints,V1
+P41,Adult,21.61,M,V2 V1 IVNL1 IVNL2 V4 V5 IVNL3 IVL3 IVL1 V3 V6 IVL2,1,Crossing,1,Crossing,Valid,Both,Both,Same constraints,V1
+C1,Children,10.98333333,M,V6 IVNL3 V1 IVL1 V2 IVNL1 V4 IVL3 V3 V5 IVNL2 IVL2,1,Crossing,0,Crossing,Valid,Scaled,Circles same size,Same constraints,V1
+C2,Children,10.75833333,F,V6 IVNL3 IVL2 V2 IVL3 V4 V3 IVNL2 IVL1 V1 IVNL1 V5,1,Crossing,NA,NA,Valid,NA,NA,Same constraints,V1
+C3,Children,10.75833333,F,IVL1 V4 V3 V6 V5 IVNL1 IVNL3 IVL3 V2 V1 IVL2 IVNL2,1,Crossing,1,Crossing,Valid,Scaled,Circles same size,Same constraints,V1
+C4,Children,10.75833333,M,V5 V6 V1 V3 IVL3 IVNL2 V4 IVNL1 IVL2 V2 IVL1 IVNL3,3,Crossing,0,Crossing,Valid,Scaled,Small,Same constraints,V1
+C5,Children,9.472222222,F,IVL2 V5 V3 IVNL1 V6 V4 V1 IVNL2 V2 IVL3 IVL1 IVNL3,2,Crossing,1,NA,Valid,NA,NA,Same constraints,V1
+C6,Children,8.055555556,F,IVNL3 IVNL1 V5 IVNL2 V4 V2 V6 IVL1 IVL3 V3 V1 IVL2,1,Crossing,1,Crossing,Valid,None,None,Same constraints,V1
+C7,Children,10.925,F,V3 IVNL2 V1 IVL2 V5 V2 IVNL1 V6 V4 IVNL3 IVL3 IVL1,1,Crossing,0,Crossing,Valid,None,None,Same constraints,V1
+C8,Children,10.71944444,M,IVNL1 V1 IVL1 V3 IVL3 IVNL2 V2 V4 IVL2 IVNL3 V5 V6,1,Crossing,0,Crossing,Valid,Scaled,Both,Same constraints,V1
+C9,Children,10.16944444,F,IVL1 V1 IVNL3 V4 V2 V5 IVL2 V6 IVNL1 IVL3 IVNL2 V3,2,Crossing,1,Crossing,Valid,Both,Both,Same constraints,V1
+C10,Children,10.80277778,M,IVNL2 V3 V4 V5 IVL3 IVL1 IVNL1 IVNL3 V6 V2 V1 IVL2,1,Crossing,1,Crossing,Valid,Both,Big,Same constraints,V1
+C11,Children,8.083333333,M,IVL2 IVNL2 IVNL3 V3 V4 V5 IVL3 V6 IVL1 IVNL1 V2 V1,1,Crossing,1,Crossing,Valid,None,None,Same constraints,V1
+C12,Children,8.083333333,M,V2 IVL1 IVNL2 IVL2 IVNL3 IVL3 V1 IVNL1 V3 V6 V4 V5,1,Crossing,NA,Crossing,Valid,Scaled,Both,Same constraints,V1
+C13,Children,8.413888889,M,V1 IVL2 IVNL2 V6 IVNL1 V3 V4 V2 IVNL3 IVL3 IVL1 V5,2,Crossing,NA,NA,Valid,Translated,Big,Same constraints,V1
+C14,Children,8.186111111,F,V3 V4 V2 IVL1 IVNL3 V1 V6 V5 IVNL1 IVL2 IVNL2 IVL3,1,Crossing,1,NA,Valid,NA,NA,Same constraints,V1
+C15,Children,9.991666667,F,V5 IVL3 IVNL2 V3 V4 IVL2 IVNL1 V6 V1 IVL1 V2 IVNL3,2,Crossing,1,NA,Valid,NA,NA,Same constraints,V1
+C17,Children,8.483333333,F,V2 V3 V1 V5 IVL2 IVL3 IVNL2 IVL1 V4 IVNL3 IVNL1 V6,1,Crossing,1,Crossing,Valid,None,None,Same constraints,V1
+C18,Children,8.344444444,M,IVNL3 IVL2 V3 V4 V2 V6 IVL3 IVL1 V5 V1 IVNL2 IVNL1,1,Crossing,1,Crossing,Valid,None,None,Same constraints,V1
+C19,Children,8.325,M,IVL2 V3 IVNL3 V2 V5 V4 V6 IVL1 IVNL2 IVL3 IVNL1 V1,1,Crossing,1,Crossing,Valid,None,None,Same constraints,V1
+C20,Children,8.394444444,M,IVL2 V4 V6 V1 IVNL3 IVNL2 IVL3 V2 V3 V5 IVNL1 IVL1,1,Crossing,1,Crossing,Valid,Scaled,Big,Same constraints,V1
+C21,Children,8.455555556,M,IVNL1 V6 IVL2 V4 V5 IVL1 V1 IVL3 V3 V2 IVNL2 IVNL3,1,Crossing,1,Crossing,Valid,Scaled,Circles same size,Same constraints,V1
+C23,Children,10.98333333,M,V4 IVNL1 V2 IVL1 V5 IVNL2 V6 IVL2 V3 IVL3 IVNL3 V1,1,Crossing,1,Crossing,Valid,None,None,Same constraints,V1
+C24,Children,10.81111111,F,V2 IVL3 IVNL1 V5 V4 IVL1 IVNL3 IVL2 V3 V6 V1 IVNL2,1,Crossing,1,Crossing,Valid,Scaled,Circles same size,Same constraints,V1
+C25,Children,10.70555556,M,IVNL3 IVNL2 IVL1 V2 V4 V3 V6 V1 IVL3 IVNL1 IVL2 V5,1,Crossing,1,Crossing,Valid,Scaled,Big,Same constraints,V1
+C26,Children,10.63055556,F,V4 IVL2 V1 IVNL3 IVL1 IVNL1 IVNL2 V3 V5 V6 V2 IVL3,1,Crossing,0,Crossing,Valid,Scaled,Big,Same constraints,V1
+C27,Children,10.10833333,F,V6 V1 IVL3 IVNL2 IVNL3 V4 IVL1 IVL2 V2 V5 IVNL1 V3,1,Crossing,0,Crossing,Valid,None,None,Same constraints,V1
+C28,Children,10.36666667,M,IVNL1 V5 V2 V4 IVNL2 IVL3 V6 V1 IVL2 V3 IVNL3 IVL1,2,Crossing,1,Crossing,Valid,Translated,Big,Same constraints,V1
+C29,Children,10.04444444,F,IVL3 IVNL3 IVNL1 IVL2 IVNL2 V4 V6 V3 IVL1 V2 V5 V1,1,Crossing,1,Crossing,Valid,Translated,Big,Same constraints,V1
+C30,Children,10.55,F,IVNL3 V1 IVNL2 V3 IVNL1 V6 IVL3 IVL2 V5 V4 IVL1 V2,1,Crossing,0,Crossing,Valid,Both,Small,Same constraints,V1
+C31,Children,10.26944444,M,V4 V6 IVNL3 IVNL2 IVL1 IVL3 V2 V1 V5 V3 IVL2 IVNL1,2,Crossing,0,Crossing,Valid,Scaled,Both,Same constraints,V1
+C32,Children,10.06388889,F,V4 IVL2 IVNL3 V1 V2 V3 V6 IVNL1 IVL1 IVNL2 V5 IVL3,1,Crossing,1,NA,Valid,NA,NA,Same constraints,V1
+C33,Children,9.161111111,M,V2 V5 IVNL3 IVL2 IVNL2 V6 V1 IVNL1 V3 IVL3 IVL1 V4,1,Crossing,1,Crossing,Valid,None,None,Same constraints,V1
+C34,Children,9.327777778,F,IVL2 IVL3 V6 V2 V3 IVL1 IVNL2 IVNL1 V4 V1 IVNL3 V5,1,Crossing,1,Crossing,Valid,None,None,Same constraints,V1
+C35,Children,10.97777778,F,IVL1 V3 IVNL1 V5 IVL2 V6 IVNL2 IVL3 V4 V1 V2 IVNL3,1,Crossing,1,Crossing,Valid,Translated,Big,Same constraints,V1
+C36,Children,9.430555556,F,IVL3 V2 IVL1 V3 IVNL1 V5 V6 IVL2 IVNL3 V1 V4 IVNL2,1,Crossing,1,Crossing,Valid,Scaled,Small,Same constraints,V1
+C37,Children,10.21666667,F,V5 V1 V3 IVL3 V4 IVNL1 IVNL3 V2 V6 IVNL2 IVL1 IVL2,1,Crossing,1,Crossing,Valid,None,None,Same constraints,V1
+C38,Children,9.619444444,F,V6 IVL3 V1 IVL1 V5 IVNL1 V4 IVL2 IVNL3 V3 V2 IVNL2,1,Crossing,0,Crossing,Valid,None,None,Same constraints,V1
+C40,Children,9.708333333,F,IVL3 IVNL1 V5 V3 IVL1 IVNL3 V6 V4 V2 IVNL2 IVL2 V1,1,Crossing,1,Crossing,Valid,None,None,Same constraints,V1
+C41,Children,10.05833333,F,V3 V5 V6 IVNL3 IVNL1 IVL2 IVL1 V2 V4 IVL3 V1 IVNL2,1,Crossing,1,Crossing,Valid,None,None,Same constraints,V1
+C42,Children,10.05833333,F,V1 V3 IVNL1 IVL1 V2 IVNL3 V4 V6 IVL3 V5 IVNL2 IVL2,1,Crossing,1,NA,Valid,NA,NA,Same constraints,V1
+C43,Children,9.794444444,F,IVNL1 IVL2 IVNL2 IVNL3 V5 V6 V1 IVL1 V2 V4 V3 IVL3,1,Crossing,1,Crossing,Valid,Translated,Big,Same constraints,V1
+C44,Children,9.977777778,F,V1 V5 IVL2 V3 IVNL1 IVNL2 IVL1 V2 V4 IVL3 IVNL3 V6,3,Crossing,1,Crossing,Valid,None,None,Same constraints,V1
+C45,Children,9.652777778,M,IVL3 IVL2 V2 IVNL2 V1 V4 V3 IVL1 V5 IVNL3 IVNL1 V6,2,Crossing,1,Crossing,Valid,None,None,Same constraints,V1
+C46,Children,9.619444444,M,IVL1 IVL2 IVL3 V6 V1 IVNL3 V2 V4 IVNL2 V3 IVNL1 V5,2,Crossing,1,NA,Valid,NA,NA,Same constraints,V1
+C47,Children,8.105555556,M,V2 IVNL2 V5 IVL1 V6 IVL3 IVNL3 IVNL1 V1 V3 V4 IVL2,2,Crossing,1,Crossing,Valid,None,None,Same constraints,V1
+C48,Children,9.111111111,F,IVL2 IVNL1 IVNL2 IVL1 V6 V1 IVL3 V4 V5 V2 V3 IVNL3,2,Crossing,1,Crossing,Valid,None,None,Same constraints,V1
+C49,Children,8.038888889,M,V6 V4 IVL3 IVNL1 IVNL3 IVL2 IVL1 V5 V2 V3 V1 IVNL2,1,Crossing,1,Crossing,Valid,None,None,Same constraints,V1
+P1,Adult,22.62,F,V6 V2 V1 IVL2 IVL1 V4 IVL3 V3 IVNL1 IVNL2 V5 IVNL3,1,Crossing,1,NA,Valid,NA,NA,Same constraints,V2
+P2,Adult,20.85,M,V1 IVL1 V5 IVL2 IVNL3 V2 V3 V6 IVNL1 IVL3 V4 IVNL2,1,Crossing,1,Crossing,Valid,None,None,Same constraints,V2
+P3,Adult,19.7,F,V3 IVL1 V2 V5 V4 IVNL1 IVL2 IVNL2 IVNL3 V6 IVL3 V1,1,Crossing,1,Crossing,Valid,None,None,Same constraints,V2
+P4,Adult,22.43,Non-binary,IVL3 V6 IVL1 V3 IVNL2 IVNL3 V5 V1 IVL2 V4 IVNL1 V2,1,Crossing,1,Crossing,Valid,Scaled,Both,Same constraints,V2
+P5,Adult,20.18,F,IVNL1 IVNL2 IVL2 V5 V6 V3 V2 IVL3 V4 V1 IVL1 IVNL3,1,Crossing,1,Crossing,Valid,None,None,Same constraints,V2
+P6,Adult,19.84,M,V3 V5 V1 V6 IVL2 IVL3 V2 IVNL2 IVNL3 IVNL1 V4 IVL1,1,Crossing,1,Crossing,Valid,None,None,Same constraints,V2
+P7,Adult,20.43,M,V4 IVL1 V5 IVNL3 IVNL1 IVL3 V1 IVL2 IVNL2 V2 V3 V6,1,Crossing,1,Crossing,Valid,None,None,Same constraints,V2
+P8,Adult,19.19,M,V6 V2 V4 IVL2 V1 IVNL2 IVL3 V5 IVNL3 V3 IVL1 IVNL1,1,Crossing,1,Crossing,Valid,None,None,Same constraints,V2
+P9,Adult,20.58,F,IVNL2 V4 V2 IVL2 IVL3 V1 V3 IVNL1 IVNL3 V6 IVL1 V5,1,Crossing,1,Crossing,Valid,None,None,Same constraints,V2
+P10,Adult,20.65,F,IVL3 V5 IVL2 V6 V2 V1 IVNL2 V4 IVL1 IVNL3 V3 IVNL1,1,Crossing,1,Crossing,Valid,None,None,Same constraints,V2
+P11,Adult,19.8,F,V1 IVL2 IVL1 V4 IVNL3 V5 IVNL1 IVL3 IVNL2 V3 V6 V2,1,Crossing,1,Crossing,Valid,None,None,Same constraints,V2
+P12,Adult,23.55,M,IVNL1 V1 V3 V5 V2 IVL2 IVL1 V6 IVL3 IVNL2 V4 IVNL3,1,Crossing,1,Crossing,Valid,None,None,Same constraints,V2
+P14,Adult,48.82,F,IVL3 V4 V1 V2 IVNL3 IVNL1 IVL2 V3 IVL1 V5 IVNL2 V6,1,Crossing,1,Crossing,Valid,None,None,Same constraints,V2
+P15,Adult,53,M,IVL3 V6 IVNL1 V5 V3 V1 V4 IVNL3 IVL1 IVL2 IVNL2 V2,1,Crossing,1,Crossing,Valid,Scaled,Both,Same constraints,V2
+P16,Adult,19.05,M,IVNL2 V6 IVL1 IVNL1 IVL3 V4 V2 V3 V1 IVNL3 V5 IVL2,1,Crossing,1,Crossing,Valid,None,None,Same constraints,V2
+P17,Adult,21.46,M,V3 V4 V5 V2 IVL2 V1 IVL3 IVNL3 IVNL2 IVL1 V6 IVNL1,1,Crossing,1,Crossing,Valid,None,None,Same constraints,V2
+P19,Adult,30.98,M,IVL1 V6 V3 V1 IVNL3 IVL2 V4 V5 IVNL1 V2 IVNL2 IVL3,1,Crossing,0,Crossing,Valid,Translated,Both,Same constraints,V2
+P20,Adult,20.2,F,IVL1 V4 V6 V5 IVNL3 IVL3 V2 V3 IVL2 V1 IVNL1 IVNL2,1,Crossing,0,Crossing,Valid,None,None,Same constraints,V2
+P21,Adult,20.73,F,V1 IVNL3 V5 V3 V6 IVNL2 IVL3 IVL2 IVNL1 V4 V2 IVL1,1,Crossing,1,Crossing,Valid,None,None,Same constraints,V2
+P22,Adult,20.38,F,IVL1 V1 V2 V6 V4 IVNL1 IVNL3 IVL3 IVNL2 IVL2 V5 V3,1,Crossing,1,Crossing,Valid,None,None,Same constraints,V2
+P23,Adult,20.56,M,V2 IVNL1 IVL3 IVL2 V1 IVNL3 V5 V4 IVL1 IVNL2 V3 V6,2,Crossing,1,NA,Valid,NA,NA,Same constraints,V2
+P24,Adult,21.49,F,V5 IVL3 IVNL3 IVNL2 IVL1 V3 V4 IVNL1 V1 IVL2 V6 V2,1,Crossing,1,NA,Valid,NA,NA,Same constraints,V2
+P25,Adult,22.5,M,V3 V5 IVNL2 V4 IVNL3 V2 IVL3 V1 IVL1 V6 IVL2 IVNL1,1,Crossing,1,Crossing,Valid,None,None,Same constraints,V2
+P27,Adult,20.3,Non-binary,IVL2 V1 V4 V5 IVNL3 V6 V3 IVNL2 V2 IVNL1 IVL3 IVL1,1,Crossing,1,Crossing,Valid,None,None,Same constraints,V2
+P28,Adult,21.99,F,V5 IVL2 IVL1 IVNL3 V4 IVL3 IVNL1 V2 V6 IVNL2 V3 V1,1,Crossing,1,Crossing,Valid,Scaled,Big,Same constraints,V2
+P29,Adult,24.5,Prefer not to answer,V3 IVNL1 IVL2 V6 IVNL3 V2 V4 V5 V1 IVNL2 IVL3 IVL1,1,Crossing,1,Crossing,Valid,None,None,Same constraints,V2
+P30,Adult,19.2,F,IVL3 V1 IVNL3 V5 IVL1 IVNL2 V4 IVL2 V6 IVNL1 V2 V3,1,Crossing,1,Crossing,Valid,None,None,Same constraints,V2
+P31,Adult,20.58,F,V6 V5 IVL1 IVNL2 IVNL1 V4 IVL3 V1 V2 V3 IVNL3 IVL2,1,Crossing,1,Crossing,Valid,None,None,Same constraints,V2
+P32,Adult,18.73,F,V1 IVNL2 V4 IVL1 IVL3 V5 V2 V3 V6 IVNL1 IVL2 IVNL3,1,Crossing,1,Crossing,Valid,None,None,Same constraints,V2
+P33,Adult,19.75,M,V6 V5 IVL2 V2 IVNL2 V3 V1 IVL1 IVNL3 IVNL1 V4 IVL3,1,Crossing,1,Crossing,Valid,None,None,Same constraints,V2
+P34,Adult,23.17,Non-binary,IVNL3 IVL3 IVNL1 V1 IVL2 V2 V5 V3 V6 V4 IVL1 IVNL2,1,Crossing,1,NA,Valid,NA,NA,Same constraints,V2
+P35,Adult,22.83,F,IVL2 V1 V6 IVL3 IVL1 V2 IVNL1 V3 IVNL2 IVNL3 V5 V4,1,Crossing,1,Crossing,Valid,Translated,Big,Same constraints,V2
+P36,Adult,20.02,M,IVL2 IVL3 V1 V4 V2 V5 IVL1 IVNL2 V3 IVNL3 V6 IVNL1,1,Crossing,1,NA,Valid,NA,NA,Same constraints,V2
+P37,Adult,21.14,M,IVNL1 V5 IVNL2 IVL1 V1 V3 IVL3 IVNL3 V4 V6 V2 IVL2,2,Crossing,1,Crossing,Valid,None,None,Same constraints,V2
+P38,Adult,22.03,F,IVNL1 IVL2 IVNL3 V5 V2 IVNL2 IVL1 V6 V3 IVL3 V1 V4,1,Crossing,1,Crossing,Valid,None,None,Same constraints,V2
+P39,Adult,20.21,F,IVNL3 V1 IVNL1 V6 V5 V3 V4 IVL3 IVL1 IVL2 IVNL2 V2,1,Crossing,1,Crossing,Valid,Scaled,Big,Same constraints,V2
+P40,Adult,21.82,F,IVL2 IVNL3 V1 V6 V2 IVNL1 V5 IVL3 V3 V4 IVL1 IVNL2,1,Crossing,1,Crossing,Valid,Translated,Circles same size,Same constraints,V2
+P41,Adult,21.61,M,V2 V1 IVNL1 IVNL2 V4 V5 IVNL3 IVL3 IVL1 V3 V6 IVL2,1,Crossing,1,Crossing,Valid,Scaled,Both,Same constraints,V2
+C1,Children,10.98333333,M,V6 IVNL3 V1 IVL1 V2 IVNL1 V4 IVL3 V3 V5 IVNL2 IVL2,1,Crossing,1,Crossing,Valid,None,None,Same constraints,V2
+C2,Children,10.75833333,F,V6 IVNL3 IVL2 V2 IVL3 V4 V3 IVNL2 IVL1 V1 IVNL1 V5,1,Crossing,1,Crossing,Valid,Scaled,Circles same size,Same constraints,V2
+C3,Children,10.75833333,F,IVL1 V4 V3 V6 V5 IVNL1 IVNL3 IVL3 V2 V1 IVL2 IVNL2,1,Crossing,1,Crossing,Valid,None,None,Same constraints,V2
+C4,Children,10.75833333,M,V5 V6 V1 V3 IVL3 IVNL2 V4 IVNL1 IVL2 V2 IVL1 IVNL3,1,Crossing,1,Crossing,Valid,None,None,Same constraints,V2
+C5,Children,9.472222222,F,IVL2 V5 V3 IVNL1 V6 V4 V1 IVNL2 V2 IVL3 IVL1 IVNL3,1,Crossing,1,NA,Valid,NA,NA,Same constraints,V2
+C6,Children,8.055555556,F,IVNL3 IVNL1 V5 IVNL2 V4 V2 V6 IVL1 IVL3 V3 V1 IVL2,1,Crossing,1,Crossing,Valid,None,None,Same constraints,V2
+C7,Children,10.925,F,V3 IVNL2 V1 IVL2 V5 V2 IVNL1 V6 V4 IVNL3 IVL3 IVL1,1,Crossing,1,Crossing,Valid,None,None,Same constraints,V2
+C8,Children,10.71944444,M,IVNL1 V1 IVL1 V3 IVL3 IVNL2 V2 V4 IVL2 IVNL3 V5 V6,1,Crossing,1,Crossing,Valid,None,None,Same constraints,V2
+C9,Children,10.16944444,F,IVL1 V1 IVNL3 V4 V2 V5 IVL2 V6 IVNL1 IVL3 IVNL2 V3,1,Crossing,1,Crossing,Valid,None,None,Same constraints,V2
+C10,Children,10.80277778,M,IVNL2 V3 V4 V5 IVL3 IVL1 IVNL1 IVNL3 V6 V2 V1 IVL2,1,Crossing,1,NA,Valid,NA,NA,Same constraints,V2
+C11,Children,8.083333333,M,IVL2 IVNL2 IVNL3 V3 V4 V5 IVL3 V6 IVL1 IVNL1 V2 V1,1,Crossing,1,NA,Valid,NA,NA,Same constraints,V2
+C12,Children,8.083333333,M,V2 IVL1 IVNL2 IVL2 IVNL3 IVL3 V1 IVNL1 V3 V6 V4 V5,1,Crossing,NA,Crossing,Valid,Translated,Circles same size,Same constraints,V2
+C13,Children,8.413888889,M,V1 IVL2 IVNL2 V6 IVNL1 V3 V4 V2 IVNL3 IVL3 IVL1 V5,1,Crossing,1,Crossing,Valid,None,None,Same constraints,V2
+C14,Children,8.186111111,F,V3 V4 V2 IVL1 IVNL3 V1 V6 V5 IVNL1 IVL2 IVNL2 IVL3,1,Crossing,1,NA,Valid,NA,NA,Same constraints,V2
+C15,Children,9.991666667,F,V5 IVL3 IVNL2 V3 V4 IVL2 IVNL1 V6 V1 IVL1 V2 IVNL3,1,Crossing,1,NA,Valid,NA,NA,Same constraints,V2
+C17,Children,8.483333333,F,V2 V3 V1 V5 IVL2 IVL3 IVNL2 IVL1 V4 IVNL3 IVNL1 V6,1,Crossing,1,Crossing,Valid,Scaled,Circles same size,Same constraints,V2
+C18,Children,8.344444444,M,IVNL3 IVL2 V3 V4 V2 V6 IVL3 IVL1 V5 V1 IVNL2 IVNL1,2,Crossing,1,NA,Valid,NA,NA,Same constraints,V2
+C19,Children,8.325,M,IVL2 V3 IVNL3 V2 V5 V4 V6 IVL1 IVNL2 IVL3 IVNL1 V1,2,Crossing,1,NA,Valid,NA,NA,Same constraints,V2
+C20,Children,8.394444444,M,IVL2 V4 V6 V1 IVNL3 IVNL2 IVL3 V2 V3 V5 IVNL1 IVL1,1,Crossing,1,Crossing,Valid,None,None,Same constraints,V2
+C21,Children,8.455555556,M,IVNL1 V6 IVL2 V4 V5 IVL1 V1 IVL3 V3 V2 IVNL2 IVNL3,1,Crossing,1,Crossing,Valid,Scaled,Circles same size,Same constraints,V2
+C23,Children,10.98333333,M,V4 IVNL1 V2 IVL1 V5 IVNL2 V6 IVL2 V3 IVL3 IVNL3 V1,1,Crossing,1,NA,Valid,NA,NA,Same constraints,V2
+C24,Children,10.81111111,F,V2 IVL3 IVNL1 V5 V4 IVL1 IVNL3 IVL2 V3 V6 V1 IVNL2,1,Crossing,0,NA,Valid,NA,NA,Same constraints,V2
+C25,Children,10.70555556,M,IVNL3 IVNL2 IVL1 V2 V4 V3 V6 V1 IVL3 IVNL1 IVL2 V5,2,Crossing,1,Crossing,Valid,Scaled,Both,Same constraints,V2
+C26,Children,10.63055556,F,V4 IVL2 V1 IVNL3 IVL1 IVNL1 IVNL2 V3 V5 V6 V2 IVL3,1,Crossing,1,Crossing,Valid,Scaled,Small,Same constraints,V2
+C27,Children,10.10833333,F,V6 V1 IVL3 IVNL2 IVNL3 V4 IVL1 IVL2 V2 V5 IVNL1 V3,1,Crossing,0,Crossing,Valid,Translated,Circles same size,Same constraints,V2
+C28,Children,10.36666667,M,IVNL1 V5 V2 V4 IVNL2 IVL3 V6 V1 IVL2 V3 IVNL3 IVL1,1,Crossing,0,NA,Valid,NA,NA,Same constraints,V2
+C29,Children,10.04444444,F,IVL3 IVNL3 IVNL1 IVL2 IVNL2 V4 V6 V3 IVL1 V2 V5 V1,1,Crossing,1,Crossing,Valid,None,None,Same constraints,V2
+C30,Children,10.55,F,IVNL3 V1 IVNL2 V3 IVNL1 V6 IVL3 IVL2 V5 V4 IVL1 V2,1,Crossing,1,NA,Valid,NA,NA,Same constraints,V2
+C31,Children,10.26944444,M,V4 V6 IVNL3 IVNL2 IVL1 IVL3 V2 V1 V5 V3 IVL2 IVNL1,1,Crossing,1,Crossing,Valid,None,None,Same constraints,V2
+C32,Children,10.06388889,F,V4 IVL2 IVNL3 V1 V2 V3 V6 IVNL1 IVL1 IVNL2 V5 IVL3,2,Crossing,1,NA,Valid,NA,NA,Same constraints,V2
+C33,Children,9.161111111,M,V2 V5 IVNL3 IVL2 IVNL2 V6 V1 IVNL1 V3 IVL3 IVL1 V4,1,Crossing,1,Crossing,Valid,None,None,Same constraints,V2
+C34,Children,9.327777778,F,IVL2 IVL3 V6 V2 V3 IVL1 IVNL2 IVNL1 V4 V1 IVNL3 V5,1,Crossing,1,Crossing,Valid,None,None,Same constraints,V2
+C35,Children,10.97777778,F,IVL1 V3 IVNL1 V5 IVL2 V6 IVNL2 IVL3 V4 V1 V2 IVNL3,1,Crossing,1,Crossing,Valid,Scaled,Circles same size,Same constraints,V2
+C36,Children,9.430555556,F,IVL3 V2 IVL1 V3 IVNL1 V5 V6 IVL2 IVNL3 V1 V4 IVNL2,1,Crossing,0,NA,Valid,NA,NA,Same constraints,V2
+C37,Children,10.21666667,F,V5 V1 V3 IVL3 V4 IVNL1 IVNL3 V2 V6 IVNL2 IVL1 IVL2,1,Crossing,1,Crossing,Valid,Translated,Circles same size,Same constraints,V2
+C38,Children,9.619444444,F,V6 IVL3 V1 IVL1 V5 IVNL1 V4 IVL2 IVNL3 V3 V2 IVNL2,1,Crossing,1,NA,Valid,NA,NA,Same constraints,V2
+C40,Children,9.708333333,F,IVL3 IVNL1 V5 V3 IVL1 IVNL3 V6 V4 V2 IVNL2 IVL2 V1,1,Crossing,1,Crossing,Valid,None,None,Same constraints,V2
+C41,Children,10.05833333,F,V3 V5 V6 IVNL3 IVNL1 IVL2 IVL1 V2 V4 IVL3 V1 IVNL2,1,Crossing,1,Crossing,Valid,None,None,Same constraints,V2
+C42,Children,10.05833333,F,V1 V3 IVNL1 IVL1 V2 IVNL3 V4 V6 IVL3 V5 IVNL2 IVL2,1,Crossing,1,Crossing,Valid,None,None,Same constraints,V2
+C43,Children,9.794444444,F,IVNL1 IVL2 IVNL2 IVNL3 V5 V6 V1 IVL1 V2 V4 V3 IVL3,1,Crossing,1,Crossing,Valid,None,None,Same constraints,V2
+C44,Children,9.977777778,F,V1 V5 IVL2 V3 IVNL1 IVNL2 IVL1 V2 V4 IVL3 IVNL3 V6,1,Crossing,1,Crossing,Valid,None,None,Same constraints,V2
+C45,Children,9.652777778,M,IVL3 IVL2 V2 IVNL2 V1 V4 V3 IVL1 V5 IVNL3 IVNL1 V6,1,Crossing,1,Crossing,Valid,None,None,Same constraints,V2
+C46,Children,9.619444444,M,IVL1 IVL2 IVL3 V6 V1 IVNL3 V2 V4 IVNL2 V3 IVNL1 V5,1,Crossing,1,NA,Valid,NA,NA,Same constraints,V2
+C47,Children,8.105555556,M,V2 IVNL2 V5 IVL1 V6 IVL3 IVNL3 IVNL1 V1 V3 V4 IVL2,3,Crossing,0,Crossing,Valid,None,None,Same constraints,V2
+C48,Children,9.111111111,F,IVL2 IVNL1 IVNL2 IVL1 V6 V1 IVL3 V4 V5 V2 V3 IVNL3,1,Crossing,1,NA,Valid,NA,NA,Same constraints,V2
+C49,Children,8.038888889,M,V6 V4 IVL3 IVNL1 IVNL3 IVL2 IVL1 V5 V2 V3 V1 IVNL2,1,Crossing,1,Crossing,Valid,None,None,Same constraints,V2
+P1,Adult,22.62,F,V6 V2 V1 IVL2 IVL1 V4 IVL3 V3 IVNL1 IVNL2 V5 IVNL3,1,Crossing,1,Crossing,Valid,Scaled,Small,Least,V3
+P2,Adult,20.85,M,V1 IVL1 V5 IVL2 IVNL3 V2 V3 V6 IVNL1 IVL3 V4 IVNL2,1,Crossing,1,Crossing,Valid,Scaled,Small,Least,V3
+P3,Adult,19.7,F,V3 IVL1 V2 V5 V4 IVNL1 IVL2 IVNL2 IVNL3 V6 IVL3 V1,1,Crossing,1,Crossing,Valid,None,None,None,V3
+P4,Adult,22.43,Non-binary,IVL3 V6 IVL1 V3 IVNL2 IVNL3 V5 V1 IVL2 V4 IVNL1 V2,1,Crossing,1,Crossing,Valid,Scaled,Both,Both,V3
+P5,Adult,20.18,F,IVNL1 IVNL2 IVL2 V5 V6 V3 V2 IVL3 V4 V1 IVL1 IVNL3,1,Crossing,1,Crossing,Valid,None,None,None,V3
+P6,Adult,19.84,M,V3 V5 V1 V6 IVL2 IVL3 V2 IVNL2 IVNL3 IVNL1 V4 IVL1,1,Crossing,1,Crossing,Valid,Scaled,Small,Least,V3
+P7,Adult,20.43,M,V4 IVL1 V5 IVNL3 IVNL1 IVL3 V1 IVL2 IVNL2 V2 V3 V6,1,Crossing,1,Crossing,Valid,None,None,None,V3
+P8,Adult,19.19,M,V6 V2 V4 IVL2 V1 IVNL2 IVL3 V5 IVNL3 V3 IVL1 IVNL1,1,Crossing,1,Crossing,Valid,Scaled,Small,Least,V3
+P9,Adult,20.58,F,IVNL2 V4 V2 IVL2 IVL3 V1 V3 IVNL1 IVNL3 V6 IVL1 V5,1,Crossing,1,Crossing,Valid,Scaled,Small,Least,V3
+P10,Adult,20.65,F,IVL3 V5 IVL2 V6 V2 V1 IVNL2 V4 IVL1 IVNL3 V3 IVNL1,1,Crossing,1,Crossing,Valid,None,None,None,V3
+P11,Adult,19.8,F,V1 IVL2 IVL1 V4 IVNL3 V5 IVNL1 IVL3 IVNL2 V3 V6 V2,1,Crossing,1,Crossing,Valid,Scaled,Small,Least,V3
+P12,Adult,23.55,M,IVNL1 V1 V3 V5 V2 IVL2 IVL1 V6 IVL3 IVNL2 V4 IVNL3,1,Crossing,1,Crossing,Valid,Scaled,Small,Least,V3
+P14,Adult,48.82,F,IVL3 V4 V1 V2 IVNL3 IVNL1 IVL2 V3 IVL1 V5 IVNL2 V6,1,Crossing,1,Crossing,Valid,None,None,None,V3
+P15,Adult,53,M,IVL3 V6 IVNL1 V5 V3 V1 V4 IVNL3 IVL1 IVL2 IVNL2 V2,1,Crossing,1,Crossing,Valid,Scaled,Small,Least,V3
+P16,Adult,19.05,M,IVNL2 V6 IVL1 IVNL1 IVL3 V4 V2 V3 V1 IVNL3 V5 IVL2,1,Crossing,1,Crossing,Valid,None,None,None,V3
+P17,Adult,21.46,M,V3 V4 V5 V2 IVL2 V1 IVL3 IVNL3 IVNL2 IVL1 V6 IVNL1,1,Crossing,1,NA,Valid,NA,NA,NA,V3
+P19,Adult,30.98,M,IVL1 V6 V3 V1 IVNL3 IVL2 V4 V5 IVNL1 V2 IVNL2 IVL3,1,Crossing,1,Crossing,Valid,None,None,None,V3
+P20,Adult,20.2,F,IVL1 V4 V6 V5 IVNL3 IVL3 V2 V3 IVL2 V1 IVNL1 IVNL2,1,Crossing,1,Crossing,Valid,Scaled,Small,Least,V3
+P21,Adult,20.73,F,V1 IVNL3 V5 V3 V6 IVNL2 IVL3 IVL2 IVNL1 V4 V2 IVL1,1,Crossing,1,NA,Valid,NA,NA,NA,V3
+P22,Adult,20.38,F,IVL1 V1 V2 V6 V4 IVNL1 IVNL3 IVL3 IVNL2 IVL2 V5 V3,1,Crossing,1,Crossing,Valid,Both,Small,Least,V3
+P23,Adult,20.56,M,V2 IVNL1 IVL3 IVL2 V1 IVNL3 V5 V4 IVL1 IVNL2 V3 V6,1,Crossing,1,Crossing,Valid,None,None,None,V3
+P24,Adult,21.49,F,V5 IVL3 IVNL3 IVNL2 IVL1 V3 V4 IVNL1 V1 IVL2 V6 V2,1,Crossing,1,NA,Valid,NA,NA,NA,V3
+P25,Adult,22.5,M,V3 V5 IVNL2 V4 IVNL3 V2 IVL3 V1 IVL1 V6 IVL2 IVNL1,1,Crossing,0,NA,Valid,NA,NA,NA,V3
+P27,Adult,20.3,Non-binary,IVL2 V1 V4 V5 IVNL3 V6 V3 IVNL2 V2 IVNL1 IVL3 IVL1,1,Crossing,1,Crossing,Valid,None,None,None,V3
+P28,Adult,21.99,F,V5 IVL2 IVL1 IVNL3 V4 IVL3 IVNL1 V2 V6 IVNL2 V3 V1,1,Crossing,0,Crossing,Valid,None,None,None,V3
+P29,Adult,24.5,Prefer not to answer,V3 IVNL1 IVL2 V6 IVNL3 V2 V4 V5 V1 IVNL2 IVL3 IVL1,1,Crossing,1,Crossing,Valid,None,None,None,V3
+P30,Adult,19.2,F,IVL3 V1 IVNL3 V5 IVL1 IVNL2 V4 IVL2 V6 IVNL1 V2 V3,1,Crossing,1,Crossing,Valid,None,None,None,V3
+P31,Adult,20.58,F,V6 V5 IVL1 IVNL2 IVNL1 V4 IVL3 V1 V2 V3 IVNL3 IVL2,1,Crossing,1,Crossing,Valid,None,None,None,V3
+P32,Adult,18.73,F,V1 IVNL2 V4 IVL1 IVL3 V5 V2 V3 V6 IVNL1 IVL2 IVNL3,1,Crossing,0,Crossing,Valid,Scaled,Small,Least,V3
+P33,Adult,19.75,M,V6 V5 IVL2 V2 IVNL2 V3 V1 IVL1 IVNL3 IVNL1 V4 IVL3,1,Crossing,1,Crossing,Valid,None,None,None,V3
+P34,Adult,23.17,Non-binary,IVNL3 IVL3 IVNL1 V1 IVL2 V2 V5 V3 V6 V4 IVL1 IVNL2,1,Crossing,1,NA,Valid,NA,NA,NA,V3
+P35,Adult,22.83,F,IVL2 V1 V6 IVL3 IVL1 V2 IVNL1 V3 IVNL2 IVNL3 V5 V4,1,Crossing,1,Crossing,Valid,None,None,None,V3
+P36,Adult,20.02,M,IVL2 IVL3 V1 V4 V2 V5 IVL1 IVNL2 V3 IVNL3 V6 IVNL1,1,Crossing,1,NA,Valid,NA,NA,NA,V3
+P37,Adult,21.14,M,IVNL1 V5 IVNL2 IVL1 V1 V3 IVL3 IVNL3 V4 V6 V2 IVL2,1,Crossing,1,Crossing,Valid,None,None,None,V3
+P38,Adult,22.03,F,IVNL1 IVL2 IVNL3 V5 V2 IVNL2 IVL1 V6 V3 IVL3 V1 V4,1,Crossing,1,NA,Valid,NA,NA,NA,V3
+P39,Adult,20.21,F,IVNL3 V1 IVNL1 V6 V5 V3 V4 IVL3 IVL1 IVL2 IVNL2 V2,1,Crossing,1,Crossing,Valid,None,None,None,V3
+P40,Adult,21.82,F,IVL2 IVNL3 V1 V6 V2 IVNL1 V5 IVL3 V3 V4 IVL1 IVNL2,1,Crossing,1,Crossing,Valid,None,None,None,V3
+P41,Adult,21.61,M,V2 V1 IVNL1 IVNL2 V4 V5 IVNL3 IVL3 IVL1 V3 V6 IVL2,1,Crossing,1,Crossing,Valid,Scaled,Small,Least,V3
+C1,Children,10.98333333,M,V6 IVNL3 V1 IVL1 V2 IVNL1 V4 IVL3 V3 V5 IVNL2 IVL2,1,Crossing,1,Crossing,Valid,Scaled,Big,Most,V3
+C2,Children,10.75833333,F,V6 IVNL3 IVL2 V2 IVL3 V4 V3 IVNL2 IVL1 V1 IVNL1 V5,1,Crossing,1,Crossing,Valid,None,None,None,V3
+C3,Children,10.75833333,F,IVL1 V4 V3 V6 V5 IVNL1 IVNL3 IVL3 V2 V1 IVL2 IVNL2,1,Crossing,1,Crossing,Valid,None,None,None,V3
+C4,Children,10.75833333,M,V5 V6 V1 V3 IVL3 IVNL2 V4 IVNL1 IVL2 V2 IVL1 IVNL3,1,Crossing,1,Crossing,Valid,None,None,None,V3
+C5,Children,9.472222222,F,IVL2 V5 V3 IVNL1 V6 V4 V1 IVNL2 V2 IVL3 IVL1 IVNL3,1,Crossing,1,NA,Valid,NA,NA,NA,V3
+C6,Children,8.055555556,F,IVNL3 IVNL1 V5 IVNL2 V4 V2 V6 IVL1 IVL3 V3 V1 IVL2,1,Crossing,1,Crossing,Valid,Translated,Both,Both,V3
+C7,Children,10.925,F,V3 IVNL2 V1 IVL2 V5 V2 IVNL1 V6 V4 IVNL3 IVL3 IVL1,1,Crossing,1,Crossing,Valid,None,None,None,V3
+C8,Children,10.71944444,M,IVNL1 V1 IVL1 V3 IVL3 IVNL2 V2 V4 IVL2 IVNL3 V5 V6,1,Crossing,1,Crossing,Valid,Scaled,Small,Least,V3
+C9,Children,10.16944444,F,IVL1 V1 IVNL3 V4 V2 V5 IVL2 V6 IVNL1 IVL3 IVNL2 V3,1,Crossing,1,Crossing,Valid,None,None,None,V3
+C10,Children,10.80277778,M,IVNL2 V3 V4 V5 IVL3 IVL1 IVNL1 IVNL3 V6 V2 V1 IVL2,1,Crossing,0,NA,Valid,NA,NA,NA,V3
+C11,Children,8.083333333,M,IVL2 IVNL2 IVNL3 V3 V4 V5 IVL3 V6 IVL1 IVNL1 V2 V1,1,Crossing,1,Crossing,Valid,Scaled,Small,Least,V3
+C12,Children,8.083333333,M,V2 IVL1 IVNL2 IVL2 IVNL3 IVL3 V1 IVNL1 V3 V6 V4 V5,1,Crossing,NA,Crossing,Valid,Scaled,Circles same size,Least,V3
+C13,Children,8.413888889,M,V1 IVL2 IVNL2 V6 IVNL1 V3 V4 V2 IVNL3 IVL3 IVL1 V5,1,Crossing,1,Crossing,Valid,None,None,None,V3
+C14,Children,8.186111111,F,V3 V4 V2 IVL1 IVNL3 V1 V6 V5 IVNL1 IVL2 IVNL2 IVL3,1,Crossing,1,NA,Valid,NA,NA,NA,V3
+C15,Children,9.991666667,F,V5 IVL3 IVNL2 V3 V4 IVL2 IVNL1 V6 V1 IVL1 V2 IVNL3,1,Crossing,0,NA,Valid,NA,NA,NA,V3
+C17,Children,8.483333333,F,V2 V3 V1 V5 IVL2 IVL3 IVNL2 IVL1 V4 IVNL3 IVNL1 V6,1,Crossing,1,Crossing,Valid,Scaled,Circles same size,Most,V3
+C18,Children,8.344444444,M,IVNL3 IVL2 V3 V4 V2 V6 IVL3 IVL1 V5 V1 IVNL2 IVNL1,2,Crossing,1,Crossing,Valid,Scaled,Circles same size,Most,V3
+C19,Children,8.325,M,IVL2 V3 IVNL3 V2 V5 V4 V6 IVL1 IVNL2 IVL3 IVNL1 V1,2,Crossing,1,Crossing,Valid,None,None,None,V3
+C20,Children,8.394444444,M,IVL2 V4 V6 V1 IVNL3 IVNL2 IVL3 V2 V3 V5 IVNL1 IVL1,1,Crossing,0,Crossing,Valid,None,None,None,V3
+C21,Children,8.455555556,M,IVNL1 V6 IVL2 V4 V5 IVL1 V1 IVL3 V3 V2 IVNL2 IVNL3,1,Crossing,1,Crossing,Valid,Scaled,Small,Least,V3
+C23,Children,10.98333333,M,V4 IVNL1 V2 IVL1 V5 IVNL2 V6 IVL2 V3 IVL3 IVNL3 V1,1,Crossing,1,Crossing,Valid,None,None,None,V3
+C24,Children,10.81111111,F,V2 IVL3 IVNL1 V5 V4 IVL1 IVNL3 IVL2 V3 V6 V1 IVNL2,1,Crossing,1,Crossing,Valid,None,None,None,V3
+C25,Children,10.70555556,M,IVNL3 IVNL2 IVL1 V2 V4 V3 V6 V1 IVL3 IVNL1 IVL2 V5,1,Crossing,1,Crossing,Valid,Scaled,Small,Least,V3
+C26,Children,10.63055556,F,V4 IVL2 V1 IVNL3 IVL1 IVNL1 IVNL2 V3 V5 V6 V2 IVL3,1,Crossing,1,NA,Valid,NA,NA,NA,V3
+C27,Children,10.10833333,F,V6 V1 IVL3 IVNL2 IVNL3 V4 IVL1 IVL2 V2 V5 IVNL1 V3,1,Crossing,0,Crossing,Valid,None,None,None,V3
+C28,Children,10.36666667,M,IVNL1 V5 V2 V4 IVNL2 IVL3 V6 V1 IVL2 V3 IVNL3 IVL1,1,Crossing,1,Crossing,Valid,Scaled,Small,Least,V3
+C29,Children,10.04444444,F,IVL3 IVNL3 IVNL1 IVL2 IVNL2 V4 V6 V3 IVL1 V2 V5 V1,1,Crossing,1,Crossing,Valid,None,None,None,V3
+C30,Children,10.55,F,IVNL3 V1 IVNL2 V3 IVNL1 V6 IVL3 IVL2 V5 V4 IVL1 V2,1,Crossing,0,Crossing,Valid,Translated,Small,Least,V3
+C31,Children,10.26944444,M,V4 V6 IVNL3 IVNL2 IVL1 IVL3 V2 V1 V5 V3 IVL2 IVNL1,1,Crossing,1,Crossing,Valid,None,None,None,V3
+C32,Children,10.06388889,F,V4 IVL2 IVNL3 V1 V2 V3 V6 IVNL1 IVL1 IVNL2 V5 IVL3,1,Crossing,1,NA,Valid,NA,NA,NA,V3
+C33,Children,9.161111111,M,V2 V5 IVNL3 IVL2 IVNL2 V6 V1 IVNL1 V3 IVL3 IVL1 V4,1,Crossing,1,Crossing,Valid,None,None,None,V3
+C34,Children,9.327777778,F,IVL2 IVL3 V6 V2 V3 IVL1 IVNL2 IVNL1 V4 V1 IVNL3 V5,1,Crossing,1,Crossing,Valid,None,None,None,V3
+C35,Children,10.97777778,F,IVL1 V3 IVNL1 V5 IVL2 V6 IVNL2 IVL3 V4 V1 V2 IVNL3,1,Crossing,1,Crossing,Valid,None,None,None,V3
+C36,Children,9.430555556,F,IVL3 V2 IVL1 V3 IVNL1 V5 V6 IVL2 IVNL3 V1 V4 IVNL2,1,Crossing,1,Crossing,Valid,Scaled,Small,Least,V3
+C37,Children,10.21666667,F,V5 V1 V3 IVL3 V4 IVNL1 IVNL3 V2 V6 IVNL2 IVL1 IVL2,1,Crossing,1,Crossing,Valid,Scaled,Small,Least,V3
+C38,Children,9.619444444,F,V6 IVL3 V1 IVL1 V5 IVNL1 V4 IVL2 IVNL3 V3 V2 IVNL2,1,Crossing,1,NA,Valid,NA,NA,NA,V3
+C40,Children,9.708333333,F,IVL3 IVNL1 V5 V3 IVL1 IVNL3 V6 V4 V2 IVNL2 IVL2 V1,1,Crossing,0,NA,Valid,NA,NA,NA,V3
+C41,Children,10.05833333,F,V3 V5 V6 IVNL3 IVNL1 IVL2 IVL1 V2 V4 IVL3 V1 IVNL2,1,Crossing,0,Crossing,Valid,Both,Both,Both,V3
+C42,Children,10.05833333,F,V1 V3 IVNL1 IVL1 V2 IVNL3 V4 V6 IVL3 V5 IVNL2 IVL2,1,Crossing,1,NA,Valid,NA,NA,NA,V3
+C43,Children,9.794444444,F,IVNL1 IVL2 IVNL2 IVNL3 V5 V6 V1 IVL1 V2 V4 V3 IVL3,1,Crossing,1,Crossing,Valid,None,None,None,V3
+C44,Children,9.977777778,F,V1 V5 IVL2 V3 IVNL1 IVNL2 IVL1 V2 V4 IVL3 IVNL3 V6,1,Crossing,1,Crossing,Valid,None,None,None,V3
+C45,Children,9.652777778,M,IVL3 IVL2 V2 IVNL2 V1 V4 V3 IVL1 V5 IVNL3 IVNL1 V6,1,Crossing,1,Crossing,Valid,None,None,None,V3
+C46,Children,9.619444444,M,IVL1 IVL2 IVL3 V6 V1 IVNL3 V2 V4 IVNL2 V3 IVNL1 V5,1,Crossing,1,Crossing,Valid,Scaled,Small,Least,V3
+C47,Children,8.105555556,M,V2 IVNL2 V5 IVL1 V6 IVL3 IVNL3 IVNL1 V1 V3 V4 IVL2,1,Crossing,1,Crossing,Valid,None,None,None,V3
+C48,Children,9.111111111,F,IVL2 IVNL1 IVNL2 IVL1 V6 V1 IVL3 V4 V5 V2 V3 IVNL3,1,Crossing,1,Crossing,Valid,Scaled,Small,Least,V3
+C49,Children,8.038888889,M,V6 V4 IVL3 IVNL1 IVNL3 IVL2 IVL1 V5 V2 V3 V1 IVNL2,1,Crossing,1,Crossing,Valid,None,None,None,V3
+P1,Adult,22.62,F,V6 V2 V1 IVL2 IVL1 V4 IVL3 V3 IVNL1 IVNL2 V5 IVNL3,2,Crossing,0,Crossing,Valid,Scaled,Small,Least,V4
+P2,Adult,20.85,M,V1 IVL1 V5 IVL2 IVNL3 V2 V3 V6 IVNL1 IVL3 V4 IVNL2,1,Crossing,1,Crossing,Valid,Scaled,Small,Least,V4
+P3,Adult,19.7,F,V3 IVL1 V2 V5 V4 IVNL1 IVL2 IVNL2 IVNL3 V6 IVL3 V1,1,Crossing,1,Crossing,Valid,None,None,None,V4
+P4,Adult,22.43,Non-binary,IVL3 V6 IVL1 V3 IVNL2 IVNL3 V5 V1 IVL2 V4 IVNL1 V2,1,Crossing,1,Crossing,Valid,Scaled,Big,Least,V4
+P5,Adult,20.18,F,IVNL1 IVNL2 IVL2 V5 V6 V3 V2 IVL3 V4 V1 IVL1 IVNL3,1,Crossing,1,Crossing,Valid,None,None,None,V4
+P6,Adult,19.84,M,V3 V5 V1 V6 IVL2 IVL3 V2 IVNL2 IVNL3 IVNL1 V4 IVL1,1,Crossing,1,Crossing,Valid,Scaled,Small,Least,V4
+P7,Adult,20.43,M,V4 IVL1 V5 IVNL3 IVNL1 IVL3 V1 IVL2 IVNL2 V2 V3 V6,1,Crossing,1,Crossing,Valid,Both,Big,Least,V4
+P8,Adult,19.19,M,V6 V2 V4 IVL2 V1 IVNL2 IVL3 V5 IVNL3 V3 IVL1 IVNL1,1,Crossing,1,Crossing,Valid,Scaled,Small,Least,V4
+P9,Adult,20.58,F,IVNL2 V4 V2 IVL2 IVL3 V1 V3 IVNL1 IVNL3 V6 IVL1 V5,2,Crossing,1,Crossing,Valid,Scaled,Circles same size,Least,V4
+P10,Adult,20.65,F,IVL3 V5 IVL2 V6 V2 V1 IVNL2 V4 IVL1 IVNL3 V3 IVNL1,1,Crossing,1,Crossing,Valid,None,None,None,V4
+P11,Adult,19.8,F,V1 IVL2 IVL1 V4 IVNL3 V5 IVNL1 IVL3 IVNL2 V3 V6 V2,1,Crossing,1,Crossing,Valid,None,None,None,V4
+P12,Adult,23.55,M,IVNL1 V1 V3 V5 V2 IVL2 IVL1 V6 IVL3 IVNL2 V4 IVNL3,1,Crossing,1,Crossing,Valid,Scaled,Small,Least,V4
+P14,Adult,48.82,F,IVL3 V4 V1 V2 IVNL3 IVNL1 IVL2 V3 IVL1 V5 IVNL2 V6,1,Crossing,1,Crossing,Valid,Both,Both,Both,V4
+P15,Adult,53,M,IVL3 V6 IVNL1 V5 V3 V1 V4 IVNL3 IVL1 IVL2 IVNL2 V2,1,Crossing,1,Crossing,Valid,Scaled,Small,Least,V4
+P16,Adult,19.05,M,IVNL2 V6 IVL1 IVNL1 IVL3 V4 V2 V3 V1 IVNL3 V5 IVL2,1,Crossing,1,Crossing,Valid,Scaled,Circles same size,Least,V4
+P17,Adult,21.46,M,V3 V4 V5 V2 IVL2 V1 IVL3 IVNL3 IVNL2 IVL1 V6 IVNL1,1,Crossing,1,NA,Valid,NA,NA,NA,V4
+P19,Adult,30.98,M,IVL1 V6 V3 V1 IVNL3 IVL2 V4 V5 IVNL1 V2 IVNL2 IVL3,1,Crossing,0,NA,Valid,NA,NA,NA,V4
+P20,Adult,20.2,F,IVL1 V4 V6 V5 IVNL3 IVL3 V2 V3 IVL2 V1 IVNL1 IVNL2,1,Crossing,1,NA,Valid,NA,NA,NA,V4
+P21,Adult,20.73,F,V1 IVNL3 V5 V3 V6 IVNL2 IVL3 IVL2 IVNL1 V4 V2 IVL1,1,Crossing,1,Crossing,Valid,None,None,None,V4
+P22,Adult,20.38,F,IVL1 V1 V2 V6 V4 IVNL1 IVNL3 IVL3 IVNL2 IVL2 V5 V3,1,Crossing,1,Crossing,Valid,Scaled,Small,Least,V4
+P23,Adult,20.56,M,V2 IVNL1 IVL3 IVL2 V1 IVNL3 V5 V4 IVL1 IVNL2 V3 V6,1,Crossing,1,Crossing,Valid,None,None,None,V4
+P24,Adult,21.49,F,V5 IVL3 IVNL3 IVNL2 IVL1 V3 V4 IVNL1 V1 IVL2 V6 V2,1,Crossing,1,NA,Valid,NA,NA,NA,V4
+P25,Adult,22.5,M,V3 V5 IVNL2 V4 IVNL3 V2 IVL3 V1 IVL1 V6 IVL2 IVNL1,1,Crossing,1,Crossing,Valid,None,None,None,V4
+P27,Adult,20.3,Non-binary,IVL2 V1 V4 V5 IVNL3 V6 V3 IVNL2 V2 IVNL1 IVL3 IVL1,1,Crossing,1,Crossing,Valid,None,None,None,V4
+P28,Adult,21.99,F,V5 IVL2 IVL1 IVNL3 V4 IVL3 IVNL1 V2 V6 IVNL2 V3 V1,1,Crossing,0,NA,Valid,NA,NA,NA,V4
+P29,Adult,24.5,Prefer not to answer,V3 IVNL1 IVL2 V6 IVNL3 V2 V4 V5 V1 IVNL2 IVL3 IVL1,1,Crossing,0,Crossing,Valid,Scaled,Small,Least,V4
+P30,Adult,19.2,F,IVL3 V1 IVNL3 V5 IVL1 IVNL2 V4 IVL2 V6 IVNL1 V2 V3,1,Crossing,1,Crossing,Valid,None,None,None,V4
+P31,Adult,20.58,F,V6 V5 IVL1 IVNL2 IVNL1 V4 IVL3 V1 V2 V3 IVNL3 IVL2,1,Crossing,1,Crossing,Valid,None,None,None,V4
+P32,Adult,18.73,F,V1 IVNL2 V4 IVL1 IVL3 V5 V2 V3 V6 IVNL1 IVL2 IVNL3,1,Crossing,1,Crossing,Valid,Scaled,Big,Least,V4
+P33,Adult,19.75,M,V6 V5 IVL2 V2 IVNL2 V3 V1 IVL1 IVNL3 IVNL1 V4 IVL3,1,Crossing,1,Crossing,Valid,None,None,None,V4
+P34,Adult,23.17,Non-binary,IVNL3 IVL3 IVNL1 V1 IVL2 V2 V5 V3 V6 V4 IVL1 IVNL2,1,Crossing,1,NA,Valid,NA,NA,NA,V4
+P35,Adult,22.83,F,IVL2 V1 V6 IVL3 IVL1 V2 IVNL1 V3 IVNL2 IVNL3 V5 V4,1,Crossing,1,Crossing,Valid,Scaled,Small,Least,V4
+P36,Adult,20.02,M,IVL2 IVL3 V1 V4 V2 V5 IVL1 IVNL2 V3 IVNL3 V6 IVNL1,1,Crossing,1,NA,Valid,NA,NA,NA,V4
+P37,Adult,21.14,M,IVNL1 V5 IVNL2 IVL1 V1 V3 IVL3 IVNL3 V4 V6 V2 IVL2,1,Crossing,1,Crossing,Valid,None,None,None,V4
+P38,Adult,22.03,F,IVNL1 IVL2 IVNL3 V5 V2 IVNL2 IVL1 V6 V3 IVL3 V1 V4,1,Crossing,1,Crossing,Valid,Scaled,Small,Least,V4
+P39,Adult,20.21,F,IVNL3 V1 IVNL1 V6 V5 V3 V4 IVL3 IVL1 IVL2 IVNL2 V2,1,Crossing,1,Crossing,Valid,None,None,None,V4
+P40,Adult,21.82,F,IVL2 IVNL3 V1 V6 V2 IVNL1 V5 IVL3 V3 V4 IVL1 IVNL2,1,Crossing,1,Crossing,Valid,Translated,Small,Least,V4
+P41,Adult,21.61,M,V2 V1 IVNL1 IVNL2 V4 V5 IVNL3 IVL3 IVL1 V3 V6 IVL2,1,Crossing,0,Crossing,Valid,Scaled,Big,Most,V4
+C1,Children,10.98333333,M,V6 IVNL3 V1 IVL1 V2 IVNL1 V4 IVL3 V3 V5 IVNL2 IVL2,1,Crossing,1,Crossing,Valid,Scaled,Both,Both,V4
+C2,Children,10.75833333,F,V6 IVNL3 IVL2 V2 IVL3 V4 V3 IVNL2 IVL1 V1 IVNL1 V5,1,Crossing,1,Crossing,Valid,None,None,None,V4
+C3,Children,10.75833333,F,IVL1 V4 V3 V6 V5 IVNL1 IVNL3 IVL3 V2 V1 IVL2 IVNL2,1,Crossing,1,Crossing,Valid,Scaled,Big,Least,V4
+C4,Children,10.75833333,M,V5 V6 V1 V3 IVL3 IVNL2 V4 IVNL1 IVL2 V2 IVL1 IVNL3,1,Crossing,1,Crossing,Valid,None,None,None,V4
+C5,Children,9.472222222,F,IVL2 V5 V3 IVNL1 V6 V4 V1 IVNL2 V2 IVL3 IVL1 IVNL3,1,Crossing,1,NA,Valid,NA,NA,NA,V4
+C6,Children,8.055555556,F,IVNL3 IVNL1 V5 IVNL2 V4 V2 V6 IVL1 IVL3 V3 V1 IVL2,1,Crossing,1,Crossing,Valid,None,None,None,V4
+C7,Children,10.925,F,V3 IVNL2 V1 IVL2 V5 V2 IVNL1 V6 V4 IVNL3 IVL3 IVL1,1,Crossing,1,Crossing,Valid,None,None,None,V4
+C8,Children,10.71944444,M,IVNL1 V1 IVL1 V3 IVL3 IVNL2 V2 V4 IVL2 IVNL3 V5 V6,1,Crossing,1,Crossing,Valid,Scaled,Small,Least,V4
+C9,Children,10.16944444,F,IVL1 V1 IVNL3 V4 V2 V5 IVL2 V6 IVNL1 IVL3 IVNL2 V3,1,Crossing,1,Crossing,Valid,None,None,None,V4
+C10,Children,10.80277778,M,IVNL2 V3 V4 V5 IVL3 IVL1 IVNL1 IVNL3 V6 V2 V1 IVL2,1,Crossing,1,NA,Valid,NA,NA,NA,V4
+C11,Children,8.083333333,M,IVL2 IVNL2 IVNL3 V3 V4 V5 IVL3 V6 IVL1 IVNL1 V2 V1,1,Crossing,1,Crossing,Valid,Scaled,Small,Least,V4
+C12,Children,8.083333333,M,V2 IVL1 IVNL2 IVL2 IVNL3 IVL3 V1 IVNL1 V3 V6 V4 V5,1,Crossing,NA,Crossing,Valid,Scaled,Circles same size,Least,V4
+C13,Children,8.413888889,M,V1 IVL2 IVNL2 V6 IVNL1 V3 V4 V2 IVNL3 IVL3 IVL1 V5,1,Crossing,1,Crossing,Valid,None,None,None,V4
+C14,Children,8.186111111,F,V3 V4 V2 IVL1 IVNL3 V1 V6 V5 IVNL1 IVL2 IVNL2 IVL3,1,Crossing,1,NA,Valid,NA,NA,NA,V4
+C15,Children,9.991666667,F,V5 IVL3 IVNL2 V3 V4 IVL2 IVNL1 V6 V1 IVL1 V2 IVNL3,1,Crossing,1,NA,Valid,NA,NA,NA,V4
+C17,Children,8.483333333,F,V2 V3 V1 V5 IVL2 IVL3 IVNL2 IVL1 V4 IVNL3 IVNL1 V6,1,Crossing,1,Crossing,Valid,None,None,None,V4
+C18,Children,8.344444444,M,IVNL3 IVL2 V3 V4 V2 V6 IVL3 IVL1 V5 V1 IVNL2 IVNL1,1,Crossing,1,NA,Valid,NA,NA,NA,V4
+C19,Children,8.325,M,IVL2 V3 IVNL3 V2 V5 V4 V6 IVL1 IVNL2 IVL3 IVNL1 V1,1,Crossing,1,Crossing,Valid,Scaled,Big,Least,V4
+C20,Children,8.394444444,M,IVL2 V4 V6 V1 IVNL3 IVNL2 IVL3 V2 V3 V5 IVNL1 IVL1,2,Crossing,1,NA,Valid,NA,NA,NA,V4
+C21,Children,8.455555556,M,IVNL1 V6 IVL2 V4 V5 IVL1 V1 IVL3 V3 V2 IVNL2 IVNL3,1,Crossing,0,Crossing,Valid,Scaled,Small,Least,V4
+C23,Children,10.98333333,M,V4 IVNL1 V2 IVL1 V5 IVNL2 V6 IVL2 V3 IVL3 IVNL3 V1,1,Crossing,1,NA,Valid,NA,NA,NA,V4
+C24,Children,10.81111111,F,V2 IVL3 IVNL1 V5 V4 IVL1 IVNL3 IVL2 V3 V6 V1 IVNL2,1,Crossing,1,NA,Valid,NA,NA,NA,V4
+C25,Children,10.70555556,M,IVNL3 IVNL2 IVL1 V2 V4 V3 V6 V1 IVL3 IVNL1 IVL2 V5,1,Crossing,1,NA,Valid,NA,NA,NA,V4
+C26,Children,10.63055556,F,V4 IVL2 V1 IVNL3 IVL1 IVNL1 IVNL2 V3 V5 V6 V2 IVL3,1,Crossing,0,NA,Valid,NA,NA,NA,V4
+C27,Children,10.10833333,F,V6 V1 IVL3 IVNL2 IVNL3 V4 IVL1 IVL2 V2 V5 IVNL1 V3,1,Crossing,0,Crossing,Valid,None,None,None,V4
+C28,Children,10.36666667,M,IVNL1 V5 V2 V4 IVNL2 IVL3 V6 V1 IVL2 V3 IVNL3 IVL1,1,Crossing,1,Crossing,Valid,None,None,None,V4
+C29,Children,10.04444444,F,IVL3 IVNL3 IVNL1 IVL2 IVNL2 V4 V6 V3 IVL1 V2 V5 V1,1,Crossing,0,NA,Valid,NA,NA,NA,V4
+C30,Children,10.55,F,IVNL3 V1 IVNL2 V3 IVNL1 V6 IVL3 IVL2 V5 V4 IVL1 V2,1,Crossing,0,Crossing,Valid,Scaled,Both,Both,V4
+C31,Children,10.26944444,M,V4 V6 IVNL3 IVNL2 IVL1 IVL3 V2 V1 V5 V3 IVL2 IVNL1,1,Crossing,1,NA,Valid,NA,NA,NA,V4
+C32,Children,10.06388889,F,V4 IVL2 IVNL3 V1 V2 V3 V6 IVNL1 IVL1 IVNL2 V5 IVL3,1,Crossing,0,NA,Valid,NA,NA,NA,V4
+C33,Children,9.161111111,M,V2 V5 IVNL3 IVL2 IVNL2 V6 V1 IVNL1 V3 IVL3 IVL1 V4,1,Crossing,1,NA,Valid,NA,NA,NA,V4
+C34,Children,9.327777778,F,IVL2 IVL3 V6 V2 V3 IVL1 IVNL2 IVNL1 V4 V1 IVNL3 V5,1,Crossing,1,Crossing,Valid,None,None,None,V4
+C35,Children,10.97777778,F,IVL1 V3 IVNL1 V5 IVL2 V6 IVNL2 IVL3 V4 V1 V2 IVNL3,2,Crossing,1,Crossing,Valid,Scaled,Both,Both,V4
+C36,Children,9.430555556,F,IVL3 V2 IVL1 V3 IVNL1 V5 V6 IVL2 IVNL3 V1 V4 IVNL2,1,Crossing,1,Crossing,Valid,Scaled,Small,Least,V4
+C37,Children,10.21666667,F,V5 V1 V3 IVL3 V4 IVNL1 IVNL3 V2 V6 IVNL2 IVL1 IVL2,1,Crossing,1,Crossing,Valid,None,None,None,V4
+C38,Children,9.619444444,F,V6 IVL3 V1 IVL1 V5 IVNL1 V4 IVL2 IVNL3 V3 V2 IVNL2,1,Crossing,1,NA,Valid,NA,NA,NA,V4
+C40,Children,9.708333333,F,IVL3 IVNL1 V5 V3 IVL1 IVNL3 V6 V4 V2 IVNL2 IVL2 V1,1,Crossing,0,Crossing,Valid,Scaled,Small,Least,V4
+C41,Children,10.05833333,F,V3 V5 V6 IVNL3 IVNL1 IVL2 IVL1 V2 V4 IVL3 V1 IVNL2,2,Crossing,1,Crossing,Valid,None,None,None,V4
+C42,Children,10.05833333,F,V1 V3 IVNL1 IVL1 V2 IVNL3 V4 V6 IVL3 V5 IVNL2 IVL2,1,Crossing,1,Crossing,Valid,Scaled,Small,Least,V4
+C43,Children,9.794444444,F,IVNL1 IVL2 IVNL2 IVNL3 V5 V6 V1 IVL1 V2 V4 V3 IVL3,1,Crossing,1,Crossing,Valid,None,None,None,V4
+C44,Children,9.977777778,F,V1 V5 IVL2 V3 IVNL1 IVNL2 IVL1 V2 V4 IVL3 IVNL3 V6,1,Crossing,1,Crossing,Valid,None,None,None,V4
+C45,Children,9.652777778,M,IVL3 IVL2 V2 IVNL2 V1 V4 V3 IVL1 V5 IVNL3 IVNL1 V6,1,Crossing,1,Crossing,Valid,None,None,None,V4
+C46,Children,9.619444444,M,IVL1 IVL2 IVL3 V6 V1 IVNL3 V2 V4 IVNL2 V3 IVNL1 V5,1,Crossing,1,NA,Valid,NA,NA,NA,V4
+C47,Children,8.105555556,M,V2 IVNL2 V5 IVL1 V6 IVL3 IVNL3 IVNL1 V1 V3 V4 IVL2,1,Crossing,1,Crossing,Valid,None,None,None,V4
+C48,Children,9.111111111,F,IVL2 IVNL1 IVNL2 IVL1 V6 V1 IVL3 V4 V5 V2 V3 IVNL3,1,Crossing,1,NA,Valid,NA,NA,NA,V4
+C49,Children,8.038888889,M,V6 V4 IVL3 IVNL1 IVNL3 IVL2 IVL1 V5 V2 V3 V1 IVNL2,1,Crossing,0,NA,Valid,Scaled,Circles same size,Least,V4
+P1,Adult,22.62,F,V6 V2 V1 IVL2 IVL1 V4 IVL3 V3 IVNL1 IVNL2 V5 IVNL3,1,Crossing,1,NA,Valid,NA,NA,NA,V5
+P2,Adult,20.85,M,V1 IVL1 V5 IVL2 IVNL3 V2 V3 V6 IVNL1 IVL3 V4 IVNL2,1,Crossing,1,Crossing,Valid,Translated,Small,Least,V5
+P3,Adult,19.7,F,V3 IVL1 V2 V5 V4 IVNL1 IVL2 IVNL2 IVNL3 V6 IVL3 V1,1,Crossing,1,Crossing,Valid,None,None,None,V5
+P4,Adult,22.43,Non-binary,IVL3 V6 IVL1 V3 IVNL2 IVNL3 V5 V1 IVL2 V4 IVNL1 V2,1,Crossing,1,Crossing,Valid,Translated,Small,Least,V5
+P5,Adult,20.18,F,IVNL1 IVNL2 IVL2 V5 V6 V3 V2 IVL3 V4 V1 IVL1 IVNL3,1,Crossing,1,Crossing,Valid,None,None,None,V5
+P6,Adult,19.84,M,V3 V5 V1 V6 IVL2 IVL3 V2 IVNL2 IVNL3 IVNL1 V4 IVL1,1,Crossing,1,Crossing,Valid,Translated,Small,Least,V5
+P7,Adult,20.43,M,V4 IVL1 V5 IVNL3 IVNL1 IVL3 V1 IVL2 IVNL2 V2 V3 V6,1,Crossing,NA,NA,Valid,Translated,Small,Least,V5
+P8,Adult,19.19,M,V6 V2 V4 IVL2 V1 IVNL2 IVL3 V5 IVNL3 V3 IVL1 IVNL1,1,Crossing,1,Crossing,Valid,Translated,Small,Least,V5
+P9,Adult,20.58,F,IVNL2 V4 V2 IVL2 IVL3 V1 V3 IVNL1 IVNL3 V6 IVL1 V5,1,Crossing,1,Crossing,Valid,Translated,Small,Least,V5
+P10,Adult,20.65,F,IVL3 V5 IVL2 V6 V2 V1 IVNL2 V4 IVL1 IVNL3 V3 IVNL1,1,Crossing,NA,NA,Valid,Translated,Small,Least,V5
+P11,Adult,19.8,F,V1 IVL2 IVL1 V4 IVNL3 V5 IVNL1 IVL3 IVNL2 V3 V6 V2,1,Crossing,1,Crossing,Valid,Translated,Small,Least,V5
+P12,Adult,23.55,M,IVNL1 V1 V3 V5 V2 IVL2 IVL1 V6 IVL3 IVNL2 V4 IVNL3,1,Crossing,1,Crossing,Valid,Translated,Circles same size,Least,V5
+P14,Adult,48.82,F,IVL3 V4 V1 V2 IVNL3 IVNL1 IVL2 V3 IVL1 V5 IVNL2 V6,1,Crossing,1,Crossing,Valid,Translated,Small,Least,V5
+P15,Adult,53,M,IVL3 V6 IVNL1 V5 V3 V1 V4 IVNL3 IVL1 IVL2 IVNL2 V2,1,Crossing,1,Crossing,Valid,Translated,Small,Least,V5
+P16,Adult,19.05,M,IVNL2 V6 IVL1 IVNL1 IVL3 V4 V2 V3 V1 IVNL3 V5 IVL2,1,Crossing,1,Crossing,Valid,Translated,Small,Least,V5
+P17,Adult,21.46,M,V3 V4 V5 V2 IVL2 V1 IVL3 IVNL3 IVNL2 IVL1 V6 IVNL1,1,Crossing,1,Crossing,Valid,None,None,None,V5
+P19,Adult,30.98,M,IVL1 V6 V3 V1 IVNL3 IVL2 V4 V5 IVNL1 V2 IVNL2 IVL3,1,Crossing,1,Crossing,Valid,Both,Small,Least,V5
+P20,Adult,20.2,F,IVL1 V4 V6 V5 IVNL3 IVL3 V2 V3 IVL2 V1 IVNL1 IVNL2,1,Crossing,1,NA,Valid,NA,NA,NA,V5
+P21,Adult,20.73,F,V1 IVNL3 V5 V3 V6 IVNL2 IVL3 IVL2 IVNL1 V4 V2 IVL1,1,Crossing,1,NA,Valid,NA,NA,NA,V5
+P22,Adult,20.38,F,IVL1 V1 V2 V6 V4 IVNL1 IVNL3 IVL3 IVNL2 IVL2 V5 V3,1,Crossing,1,Crossing,Valid,Translated,Both,Least,V5
+P23,Adult,20.56,M,V2 IVNL1 IVL3 IVL2 V1 IVNL3 V5 V4 IVL1 IVNL2 V3 V6,1,Crossing,1,Crossing,Valid,None,None,None,V5
+P24,Adult,21.49,F,V5 IVL3 IVNL3 IVNL2 IVL1 V3 V4 IVNL1 V1 IVL2 V6 V2,2,Crossing,0,NA,Valid,NA,NA,NA,V5
+P25,Adult,22.5,M,V3 V5 IVNL2 V4 IVNL3 V2 IVL3 V1 IVL1 V6 IVL2 IVNL1,1,Crossing,1,Crossing,Valid,Translated,Small,Least,V5
+P27,Adult,20.3,Non-binary,IVL2 V1 V4 V5 IVNL3 V6 V3 IVNL2 V2 IVNL1 IVL3 IVL1,1,Crossing,NA,NA,Valid,Scaled,Small,Least,V5
+P28,Adult,21.99,F,V5 IVL2 IVL1 IVNL3 V4 IVL3 IVNL1 V2 V6 IVNL2 V3 V1,1,Crossing,0,Crossing,Valid,Translated,Small,Least,V5
+P29,Adult,24.5,Prefer not to answer,V3 IVNL1 IVL2 V6 IVNL3 V2 V4 V5 V1 IVNL2 IVL3 IVL1,1,Crossing,1,Crossing,Valid,Translated,Small,Least,V5
+P30,Adult,19.2,F,IVL3 V1 IVNL3 V5 IVL1 IVNL2 V4 IVL2 V6 IVNL1 V2 V3,1,Crossing,1,Crossing,Valid,None,None,None,V5
+P31,Adult,20.58,F,V6 V5 IVL1 IVNL2 IVNL1 V4 IVL3 V1 V2 V3 IVNL3 IVL2,1,Crossing,1,Crossing,Valid,None,None,None,V5
+P32,Adult,18.73,F,V1 IVNL2 V4 IVL1 IVL3 V5 V2 V3 V6 IVNL1 IVL2 IVNL3,1,Crossing,0,Crossing,Valid,Translated,Small,Least,V5
+P33,Adult,19.75,M,V6 V5 IVL2 V2 IVNL2 V3 V1 IVL1 IVNL3 IVNL1 V4 IVL3,1,Crossing,1,Crossing,Valid,Translated,Small,Least,V5
+P34,Adult,23.17,Non-binary,IVNL3 IVL3 IVNL1 V1 IVL2 V2 V5 V3 V6 V4 IVL1 IVNL2,2,Crossing,1,NA,Valid,NA,NA,NA,V5
+P35,Adult,22.83,F,IVL2 V1 V6 IVL3 IVL1 V2 IVNL1 V3 IVNL2 IVNL3 V5 V4,1,Crossing,0,Crossing,Valid,Translated,Small,Least,V5
+P36,Adult,20.02,M,IVL2 IVL3 V1 V4 V2 V5 IVL1 IVNL2 V3 IVNL3 V6 IVNL1,1,Crossing,1,Crossing,Valid,Translated,Small,Least,V5
+P37,Adult,21.14,M,IVNL1 V5 IVNL2 IVL1 V1 V3 IVL3 IVNL3 V4 V6 V2 IVL2,1,Crossing,1,Crossing,Valid,None,None,None,V5
+P38,Adult,22.03,F,IVNL1 IVL2 IVNL3 V5 V2 IVNL2 IVL1 V6 V3 IVL3 V1 V4,1,Crossing,NA,NA,Valid,Scaled,Small,Least,V5
+P39,Adult,20.21,F,IVNL3 V1 IVNL1 V6 V5 V3 V4 IVL3 IVL1 IVL2 IVNL2 V2,1,Crossing,1,Crossing,Valid,None,None,None,V5
+P40,Adult,21.82,F,IVL2 IVNL3 V1 V6 V2 IVNL1 V5 IVL3 V3 V4 IVL1 IVNL2,1,Crossing,1,Crossing,Valid,Translated,Small,Least,V5
+P41,Adult,21.61,M,V2 V1 IVNL1 IVNL2 V4 V5 IVNL3 IVL3 IVL1 V3 V6 IVL2,1,Crossing,1,Crossing,Valid,Translated,Small,Least,V5
+C1,Children,10.98333333,M,V6 IVNL3 V1 IVL1 V2 IVNL1 V4 IVL3 V3 V5 IVNL2 IVL2,1,Crossing,1,Crossing,Valid,Translated,Small,Least,V5
+C2,Children,10.75833333,F,V6 IVNL3 IVL2 V2 IVL3 V4 V3 IVNL2 IVL1 V1 IVNL1 V5,1,Crossing,1,Crossing,Valid,Scaled,Small,Least,V5
+C3,Children,10.75833333,F,IVL1 V4 V3 V6 V5 IVNL1 IVNL3 IVL3 V2 V1 IVL2 IVNL2,1,Crossing,1,Crossing,Valid,None,None,None,V5
+C4,Children,10.75833333,M,V5 V6 V1 V3 IVL3 IVNL2 V4 IVNL1 IVL2 V2 IVL1 IVNL3,1,Crossing,NA,NA,Valid,Translated,Both,Both,V5
+C5,Children,9.472222222,F,IVL2 V5 V3 IVNL1 V6 V4 V1 IVNL2 V2 IVL3 IVL1 IVNL3,1,Crossing,1,NA,Valid,NA,NA,NA,V5
+C6,Children,8.055555556,F,IVNL3 IVNL1 V5 IVNL2 V4 V2 V6 IVL1 IVL3 V3 V1 IVL2,1,Crossing,NA,NA,Valid,None,None,None,V5
+C7,Children,10.925,F,V3 IVNL2 V1 IVL2 V5 V2 IVNL1 V6 V4 IVNL3 IVL3 IVL1,1,Crossing,1,Crossing,Valid,Translated,Small,Least,V5
+C8,Children,10.71944444,M,IVNL1 V1 IVL1 V3 IVL3 IVNL2 V2 V4 IVL2 IVNL3 V5 V6,1,Crossing,0,Crossing,Valid,Translated,Small,Least,V5
+C9,Children,10.16944444,F,IVL1 V1 IVNL3 V4 V2 V5 IVL2 V6 IVNL1 IVL3 IVNL2 V3,1,Crossing,1,Crossing,Valid,Scaled,Both,Both,V5
+C10,Children,10.80277778,M,IVNL2 V3 V4 V5 IVL3 IVL1 IVNL1 IVNL3 V6 V2 V1 IVL2,1,Crossing,1,Crossing,Valid,Translated,Small,Least,V5
+C11,Children,8.083333333,M,IVL2 IVNL2 IVNL3 V3 V4 V5 IVL3 V6 IVL1 IVNL1 V2 V1,1,Crossing,0,NA,Valid,NA,NA,NA,V5
+C12,Children,8.083333333,M,V2 IVL1 IVNL2 IVL2 IVNL3 IVL3 V1 IVNL1 V3 V6 V4 V5,1,Crossing,NA,Crossing,Valid,Translated,Small,Least,V5
+C13,Children,8.413888889,M,V1 IVL2 IVNL2 V6 IVNL1 V3 V4 V2 IVNL3 IVL3 IVL1 V5,1,Crossing,1,Crossing,Valid,Translated,Small,Least,V5
+C14,Children,8.186111111,F,V3 V4 V2 IVL1 IVNL3 V1 V6 V5 IVNL1 IVL2 IVNL2 IVL3,1,Crossing,1,NA,Valid,NA,NA,NA,V5
+C15,Children,9.991666667,F,V5 IVL3 IVNL2 V3 V4 IVL2 IVNL1 V6 V1 IVL1 V2 IVNL3,1,Crossing,0,Crossing,Valid,Translated,Small,Least,V5
+C17,Children,8.483333333,F,V2 V3 V1 V5 IVL2 IVL3 IVNL2 IVL1 V4 IVNL3 IVNL1 V6,1,Crossing,1,Crossing,Valid,None,None,None,V5
+C18,Children,8.344444444,M,IVNL3 IVL2 V3 V4 V2 V6 IVL3 IVL1 V5 V1 IVNL2 IVNL1,1,Crossing,1,Crossing,Valid,Translated,Small,Least,V5
+C19,Children,8.325,M,IVL2 V3 IVNL3 V2 V5 V4 V6 IVL1 IVNL2 IVL3 IVNL1 V1,1,Crossing,1,Crossing,Valid,None,None,None,V5
+C20,Children,8.394444444,M,IVL2 V4 V6 V1 IVNL3 IVNL2 IVL3 V2 V3 V5 IVNL1 IVL1,1,Crossing,1,NA,Valid,NA,NA,NA,V5
+C21,Children,8.455555556,M,IVNL1 V6 IVL2 V4 V5 IVL1 V1 IVL3 V3 V2 IVNL2 IVNL3,1,Crossing,1,Crossing,Valid,None,None,None,V5
+C23,Children,10.98333333,M,V4 IVNL1 V2 IVL1 V5 IVNL2 V6 IVL2 V3 IVL3 IVNL3 V1,1,Crossing,NA,NA,Valid,Scaled,Small,Least,V5
+C24,Children,10.81111111,F,V2 IVL3 IVNL1 V5 V4 IVL1 IVNL3 IVL2 V3 V6 V1 IVNL2,1,Crossing,1,Crossing,Valid,Translated,Small,Least,V5
+C25,Children,10.70555556,M,IVNL3 IVNL2 IVL1 V2 V4 V3 V6 V1 IVL3 IVNL1 IVL2 V5,1,Crossing,1,Crossing,Valid,Scaled,Small,Least,V5
+C26,Children,10.63055556,F,V4 IVL2 V1 IVNL3 IVL1 IVNL1 IVNL2 V3 V5 V6 V2 IVL3,1,Crossing,1,Crossing,Valid,Translated,Small,Least,V5
+C27,Children,10.10833333,F,V6 V1 IVL3 IVNL2 IVNL3 V4 IVL1 IVL2 V2 V5 IVNL1 V3,1,Crossing,0,Crossing,Valid,Translated,Small,Least,V5
+C28,Children,10.36666667,M,IVNL1 V5 V2 V4 IVNL2 IVL3 V6 V1 IVL2 V3 IVNL3 IVL1,1,Crossing,0,Crossing,Valid,Translated,Small,Least,V5
+C29,Children,10.04444444,F,IVL3 IVNL3 IVNL1 IVL2 IVNL2 V4 V6 V3 IVL1 V2 V5 V1,1,Crossing,1,Crossing,Valid,Scaled,Big,Most,V5
+C30,Children,10.55,F,IVNL3 V1 IVNL2 V3 IVNL1 V6 IVL3 IVL2 V5 V4 IVL1 V2,1,Crossing,NA,NA,Valid,NA,NA,NA,V5
+C31,Children,10.26944444,M,V4 V6 IVNL3 IVNL2 IVL1 IVL3 V2 V1 V5 V3 IVL2 IVNL1,1,Crossing,1,Crossing,Valid,None,None,None,V5
+C32,Children,10.06388889,F,V4 IVL2 IVNL3 V1 V2 V3 V6 IVNL1 IVL1 IVNL2 V5 IVL3,1,Crossing,1,NA,Valid,NA,NA,NA,V5
+C33,Children,9.161111111,M,V2 V5 IVNL3 IVL2 IVNL2 V6 V1 IVNL1 V3 IVL3 IVL1 V4,1,Crossing,0,Crossing,Valid,Translated,Small,Least,V5
+C34,Children,9.327777778,F,IVL2 IVL3 V6 V2 V3 IVL1 IVNL2 IVNL1 V4 V1 IVNL3 V5,1,Crossing,1,Crossing,Valid,Translated,Big,Most,V5
+C35,Children,10.97777778,F,IVL1 V3 IVNL1 V5 IVL2 V6 IVNL2 IVL3 V4 V1 V2 IVNL3,1,Crossing,1,Crossing,Valid,None,None,None,V5
+C36,Children,9.430555556,F,IVL3 V2 IVL1 V3 IVNL1 V5 V6 IVL2 IVNL3 V1 V4 IVNL2,1,Crossing,NA,Crossing,Valid,Translated,Small,Least,V5
+C37,Children,10.21666667,F,V5 V1 V3 IVL3 V4 IVNL1 IVNL3 V2 V6 IVNL2 IVL1 IVL2,1,Crossing,0,Crossing,Valid,None,None,None,V5
+C38,Children,9.619444444,F,V6 IVL3 V1 IVL1 V5 IVNL1 V4 IVL2 IVNL3 V3 V2 IVNL2,2,Crossing,1,NA,Valid,NA,NA,NA,V5
+C40,Children,9.708333333,F,IVL3 IVNL1 V5 V3 IVL1 IVNL3 V6 V4 V2 IVNL2 IVL2 V1,1,Crossing,0,Crossing,Valid,Scaled,Big,Least,V5
+C41,Children,10.05833333,F,V3 V5 V6 IVNL3 IVNL1 IVL2 IVL1 V2 V4 IVL3 V1 IVNL2,2,Crossing,0,Crossing,Valid,Translated,Both,Both,V5
+C42,Children,10.05833333,F,V1 V3 IVNL1 IVL1 V2 IVNL3 V4 V6 IVL3 V5 IVNL2 IVL2,1,Crossing,1,Crossing,Valid,Translated,Small,Least,V5
+C43,Children,9.794444444,F,IVNL1 IVL2 IVNL2 IVNL3 V5 V6 V1 IVL1 V2 V4 V3 IVL3,1,Crossing,1,Crossing,Valid,None,None,None,V5
+C44,Children,9.977777778,F,V1 V5 IVL2 V3 IVNL1 IVNL2 IVL1 V2 V4 IVL3 IVNL3 V6,1,Crossing,1,Crossing,Valid,Translated,Small,Least,V5
+C45,Children,9.652777778,M,IVL3 IVL2 V2 IVNL2 V1 V4 V3 IVL1 V5 IVNL3 IVNL1 V6,1,Crossing,1,Crossing,Valid,None,None,None,V5
+C46,Children,9.619444444,M,IVL1 IVL2 IVL3 V6 V1 IVNL3 V2 V4 IVNL2 V3 IVNL1 V5,1,Crossing,1,Crossing,Valid,None,None,None,V5
+C47,Children,8.105555556,M,V2 IVNL2 V5 IVL1 V6 IVL3 IVNL3 IVNL1 V1 V3 V4 IVL2,1,Crossing,1,NA,Valid,NA,NA,NA,V5
+C48,Children,9.111111111,F,IVL2 IVNL1 IVNL2 IVL1 V6 V1 IVL3 V4 V5 V2 V3 IVNL3,1,Crossing,1,NA,Valid,NA,NA,NA,V5
+C49,Children,8.038888889,M,V6 V4 IVL3 IVNL1 IVNL3 IVL2 IVL1 V5 V2 V3 V1 IVNL2,1,Crossing,1,Crossing,Valid,Translated,Small,Least,V5
+P1,Adult,22.62,F,V6 V2 V1 IVL2 IVL1 V4 IVL3 V3 IVNL1 IVNL2 V5 IVNL3,1,Crossing,0,Crossing,Valid,Translated,Small,Least,V6
+P2,Adult,20.85,M,V1 IVL1 V5 IVL2 IVNL3 V2 V3 V6 IVNL1 IVL3 V4 IVNL2,1,Crossing,1,Crossing,Valid,None,None,None,V6
+P3,Adult,19.7,F,V3 IVL1 V2 V5 V4 IVNL1 IVL2 IVNL2 IVNL3 V6 IVL3 V1,1,Crossing,1,Crossing,Valid,None,None,None,V6
+P4,Adult,22.43,Non-binary,IVL3 V6 IVL1 V3 IVNL2 IVNL3 V5 V1 IVL2 V4 IVNL1 V2,1,Crossing,0,Crossing,Valid,Translated,Small,Least,V6
+P5,Adult,20.18,F,IVNL1 IVNL2 IVL2 V5 V6 V3 V2 IVL3 V4 V1 IVL1 IVNL3,1,Crossing,NA,Crossing,Valid,Translated,Small,Least,V6
+P6,Adult,19.84,M,V3 V5 V1 V6 IVL2 IVL3 V2 IVNL2 IVNL3 IVNL1 V4 IVL1,1,Crossing,1,Crossing,Valid,Translated,Small,Least,V6
+P7,Adult,20.43,M,V4 IVL1 V5 IVNL3 IVNL1 IVL3 V1 IVL2 IVNL2 V2 V3 V6,1,Crossing,1,Crossing,Valid,Translated,Small,Least,V6
+P8,Adult,19.19,M,V6 V2 V4 IVL2 V1 IVNL2 IVL3 V5 IVNL3 V3 IVL1 IVNL1,1,Crossing,0,Crossing,Valid,Translated,Small,Least,V6
+P9,Adult,20.58,F,IVNL2 V4 V2 IVL2 IVL3 V1 V3 IVNL1 IVNL3 V6 IVL1 V5,1,Crossing,NA,NA,Valid,NA,NA,NA,V6
+P10,Adult,20.65,F,IVL3 V5 IVL2 V6 V2 V1 IVNL2 V4 IVL1 IVNL3 V3 IVNL1,1,Crossing,1,Crossing,Valid,None,None,None,V6
+P11,Adult,19.8,F,V1 IVL2 IVL1 V4 IVNL3 V5 IVNL1 IVL3 IVNL2 V3 V6 V2,1,Crossing,1,Crossing,Valid,Translated,Small,Least,V6
+P12,Adult,23.55,M,IVNL1 V1 V3 V5 V2 IVL2 IVL1 V6 IVL3 IVNL2 V4 IVNL3,1,Crossing,1,Crossing,Valid,Translated,Circles same size,Least,V6
+P14,Adult,48.82,F,IVL3 V4 V1 V2 IVNL3 IVNL1 IVL2 V3 IVL1 V5 IVNL2 V6,1,Crossing,1,Crossing,Valid,Translated,Small,Least,V6
+P15,Adult,53,M,IVL3 V6 IVNL1 V5 V3 V1 V4 IVNL3 IVL1 IVL2 IVNL2 V2,1,Crossing,1,Crossing,Valid,Translated,Small,Least,V6
+P16,Adult,19.05,M,IVNL2 V6 IVL1 IVNL1 IVL3 V4 V2 V3 V1 IVNL3 V5 IVL2,1,Crossing,NA,NA,Valid,NA,NA,NA,V6
+P17,Adult,21.46,M,V3 V4 V5 V2 IVL2 V1 IVL3 IVNL3 IVNL2 IVL1 V6 IVNL1,1,Crossing,1,Crossing,Valid,None,None,None,V6
+P19,Adult,30.98,M,IVL1 V6 V3 V1 IVNL3 IVL2 V4 V5 IVNL1 V2 IVNL2 IVL3,2,Crossing,1,Crossing,Valid,Translated,Circles same size,Least,V6
+P20,Adult,20.2,F,IVL1 V4 V6 V5 IVNL3 IVL3 V2 V3 IVL2 V1 IVNL1 IVNL2,1,Crossing,1,NA,Valid,NA,NA,NA,V6
+P21,Adult,20.73,F,V1 IVNL3 V5 V3 V6 IVNL2 IVL3 IVL2 IVNL1 V4 V2 IVL1,1,Crossing,1,NA,Valid,NA,NA,NA,V6
+P22,Adult,20.38,F,IVL1 V1 V2 V6 V4 IVNL1 IVNL3 IVL3 IVNL2 IVL2 V5 V3,1,Crossing,1,Crossing,Valid,None,None,None,V6
+P23,Adult,20.56,M,V2 IVNL1 IVL3 IVL2 V1 IVNL3 V5 V4 IVL1 IVNL2 V3 V6,1,Crossing,1,Crossing,Valid,Translated,Small,Least,V6
+P24,Adult,21.49,F,V5 IVL3 IVNL3 IVNL2 IVL1 V3 V4 IVNL1 V1 IVL2 V6 V2,1,Crossing,1,NA,Valid,NA,NA,NA,V6
+P25,Adult,22.5,M,V3 V5 IVNL2 V4 IVNL3 V2 IVL3 V1 IVL1 V6 IVL2 IVNL1,1,Crossing,1,Crossing,Valid,Translated,Small,Least,V6
+P27,Adult,20.3,Non-binary,IVL2 V1 V4 V5 IVNL3 V6 V3 IVNL2 V2 IVNL1 IVL3 IVL1,1,Crossing,1,Crossing,Valid,Translated,Small,Least,V6
+P28,Adult,21.99,F,V5 IVL2 IVL1 IVNL3 V4 IVL3 IVNL1 V2 V6 IVNL2 V3 V1,1,Crossing,NA,NA,Valid,NA,NA,NA,V6
+P29,Adult,24.5,Prefer not to answer,V3 IVNL1 IVL2 V6 IVNL3 V2 V4 V5 V1 IVNL2 IVL3 IVL1,1,Crossing,1,Crossing,Valid,Translated,Both,Both,V6
+P30,Adult,19.2,F,IVL3 V1 IVNL3 V5 IVL1 IVNL2 V4 IVL2 V6 IVNL1 V2 V3,1,Crossing,1,Crossing,Valid,None,None,None,V6
+P31,Adult,20.58,F,V6 V5 IVL1 IVNL2 IVNL1 V4 IVL3 V1 V2 V3 IVNL3 IVL2,2,Crossing,NA,NA,Valid,NA,NA,NA,V6
+P32,Adult,18.73,F,V1 IVNL2 V4 IVL1 IVL3 V5 V2 V3 V6 IVNL1 IVL2 IVNL3,1,Crossing,1,Crossing,Valid,Translated,Circles same size,Least,V6
+P33,Adult,19.75,M,V6 V5 IVL2 V2 IVNL2 V3 V1 IVL1 IVNL3 IVNL1 V4 IVL3,1,Crossing,1,Crossing,Valid,Translated,Big,Least,V6
+P34,Adult,23.17,Non-binary,IVNL3 IVL3 IVNL1 V1 IVL2 V2 V5 V3 V6 V4 IVL1 IVNL2,1,Crossing,1,NA,Valid,NA,NA,NA,V6
+P35,Adult,22.83,F,IVL2 V1 V6 IVL3 IVL1 V2 IVNL1 V3 IVNL2 IVNL3 V5 V4,1,Crossing,1,Crossing,Valid,Translated,Small,Least,V6
+P36,Adult,20.02,M,IVL2 IVL3 V1 V4 V2 V5 IVL1 IVNL2 V3 IVNL3 V6 IVNL1,1,Crossing,1,Crossing,Valid,Translated,Small,Least,V6
+P37,Adult,21.14,M,IVNL1 V5 IVNL2 IVL1 V1 V3 IVL3 IVNL3 V4 V6 V2 IVL2,1,Crossing,0,Crossing,Valid,Translated,Small,Least,V6
+P38,Adult,22.03,F,IVNL1 IVL2 IVNL3 V5 V2 IVNL2 IVL1 V6 V3 IVL3 V1 V4,1,Crossing,1,NA,Valid,NA,NA,NA,V6
+P39,Adult,20.21,F,IVNL3 V1 IVNL1 V6 V5 V3 V4 IVL3 IVL1 IVL2 IVNL2 V2,1,Crossing,NA,NA,Valid,NA,NA,NA,V6
+P40,Adult,21.82,F,IVL2 IVNL3 V1 V6 V2 IVNL1 V5 IVL3 V3 V4 IVL1 IVNL2,1,Crossing,1,Crossing,Valid,Translated,Circles same size,Least,V6
+P41,Adult,21.61,M,V2 V1 IVNL1 IVNL2 V4 V5 IVNL3 IVL3 IVL1 V3 V6 IVL2,1,Crossing,1,Crossing,Valid,Scaled,Small,Least,V6
+C1,Children,10.98333333,M,V6 IVNL3 V1 IVL1 V2 IVNL1 V4 IVL3 V3 V5 IVNL2 IVL2,1,Crossing,0,Crossing,Valid,Both,Small,Least,V6
+C2,Children,10.75833333,F,V6 IVNL3 IVL2 V2 IVL3 V4 V3 IVNL2 IVL1 V1 IVNL1 V5,1,Crossing,1,Crossing,Valid,Translated,Small,Least,V6
+C3,Children,10.75833333,F,IVL1 V4 V3 V6 V5 IVNL1 IVNL3 IVL3 V2 V1 IVL2 IVNL2,1,Crossing,NA,NA,Valid,Translated,Small,Least,V6
+C4,Children,10.75833333,M,V5 V6 V1 V3 IVL3 IVNL2 V4 IVNL1 IVL2 V2 IVL1 IVNL3,1,Crossing,1,Crossing,Valid,Translated,Small,Least,V6
+C5,Children,9.472222222,F,IVL2 V5 V3 IVNL1 V6 V4 V1 IVNL2 V2 IVL3 IVL1 IVNL3,2,Crossing,1,NA,Valid,NA,NA,NA,V6
+C6,Children,8.055555556,F,IVNL3 IVNL1 V5 IVNL2 V4 V2 V6 IVL1 IVL3 V3 V1 IVL2,1,Crossing,1,Crossing,Valid,Translated,Small,Least,V6
+C7,Children,10.925,F,V3 IVNL2 V1 IVL2 V5 V2 IVNL1 V6 V4 IVNL3 IVL3 IVL1,1,Crossing,1,Crossing,Valid,None,None,None,V6
+C8,Children,10.71944444,M,IVNL1 V1 IVL1 V3 IVL3 IVNL2 V2 V4 IVL2 IVNL3 V5 V6,1,Crossing,1,Crossing,Valid,None,None,None,V6
+C9,Children,10.16944444,F,IVL1 V1 IVNL3 V4 V2 V5 IVL2 V6 IVNL1 IVL3 IVNL2 V3,1,Crossing,1,Crossing,Valid,None,None,None,V6
+C10,Children,10.80277778,M,IVNL2 V3 V4 V5 IVL3 IVL1 IVNL1 IVNL3 V6 V2 V1 IVL2,1,Crossing,1,NA,Valid,NA,NA,NA,V6
+C11,Children,8.083333333,M,IVL2 IVNL2 IVNL3 V3 V4 V5 IVL3 V6 IVL1 IVNL1 V2 V1,1,Crossing,1,Crossing,Valid,None,None,None,V6
+C12,Children,8.083333333,M,V2 IVL1 IVNL2 IVL2 IVNL3 IVL3 V1 IVNL1 V3 V6 V4 V5,1,Crossing,NA,Crossing,Valid,Translated,Small,Least,V6
+C13,Children,8.413888889,M,V1 IVL2 IVNL2 V6 IVNL1 V3 V4 V2 IVNL3 IVL3 IVL1 V5,1,Crossing,1,Crossing,Valid,None,None,None,V6
+C14,Children,8.186111111,F,V3 V4 V2 IVL1 IVNL3 V1 V6 V5 IVNL1 IVL2 IVNL2 IVL3,1,Crossing,1,Crossing,Valid,Translated,Small,Least,V6
+C15,Children,9.991666667,F,V5 IVL3 IVNL2 V3 V4 IVL2 IVNL1 V6 V1 IVL1 V2 IVNL3,2,Crossing,1,NA,Valid,NA,NA,NA,V6
+C17,Children,8.483333333,F,V2 V3 V1 V5 IVL2 IVL3 IVNL2 IVL1 V4 IVNL3 IVNL1 V6,1,Crossing,0,Crossing,Valid,Translated,Small,Least,V6
+C18,Children,8.344444444,M,IVNL3 IVL2 V3 V4 V2 V6 IVL3 IVL1 V5 V1 IVNL2 IVNL1,1,Crossing,1,NA,Valid,NA,NA,NA,V6
+C19,Children,8.325,M,IVL2 V3 IVNL3 V2 V5 V4 V6 IVL1 IVNL2 IVL3 IVNL1 V1,1,Crossing,1,Crossing,Valid,Scaled,Big,Least,V6
+C20,Children,8.394444444,M,IVL2 V4 V6 V1 IVNL3 IVNL2 IVL3 V2 V3 V5 IVNL1 IVL1,1,Crossing,1,Crossing,Valid,Scaled,Big,Most,V6
+C21,Children,8.455555556,M,IVNL1 V6 IVL2 V4 V5 IVL1 V1 IVL3 V3 V2 IVNL2 IVNL3,3,Crossing,1,NA,Valid,NA,NA,NA,V6
+C23,Children,10.98333333,M,V4 IVNL1 V2 IVL1 V5 IVNL2 V6 IVL2 V3 IVL3 IVNL3 V1,1,Crossing,1,Crossing,Valid,None,None,None,V6
+C24,Children,10.81111111,F,V2 IVL3 IVNL1 V5 V4 IVL1 IVNL3 IVL2 V3 V6 V1 IVNL2,1,Crossing,1,NA,Valid,NA,NA,NA,V6
+C25,Children,10.70555556,M,IVNL3 IVNL2 IVL1 V2 V4 V3 V6 V1 IVL3 IVNL1 IVL2 V5,1,Crossing,NA,NA,Valid,NA,NA,NA,V6
+C26,Children,10.63055556,F,V4 IVL2 V1 IVNL3 IVL1 IVNL1 IVNL2 V3 V5 V6 V2 IVL3,1,Crossing,1,Crossing,Valid,Translated,Small,Least,V6
+C27,Children,10.10833333,F,V6 V1 IVL3 IVNL2 IVNL3 V4 IVL1 IVL2 V2 V5 IVNL1 V3,2,Crossing,NA,NA,Valid,NA,NA,NA,V6
+C28,Children,10.36666667,M,IVNL1 V5 V2 V4 IVNL2 IVL3 V6 V1 IVL2 V3 IVNL3 IVL1,1,Crossing,1,Crossing,Valid,None,None,None,V6
+C29,Children,10.04444444,F,IVL3 IVNL3 IVNL1 IVL2 IVNL2 V4 V6 V3 IVL1 V2 V5 V1,1,Crossing,1,Crossing,Valid,None,None,None,V6
+C30,Children,10.55,F,IVNL3 V1 IVNL2 V3 IVNL1 V6 IVL3 IVL2 V5 V4 IVL1 V2,2,Crossing,0,Crossing,Valid,Translated,Small,Least,V6
+C31,Children,10.26944444,M,V4 V6 IVNL3 IVNL2 IVL1 IVL3 V2 V1 V5 V3 IVL2 IVNL1,1,Crossing,1,Crossing,Valid,Both,Small,Least,V6
+C32,Children,10.06388889,F,V4 IVL2 IVNL3 V1 V2 V3 V6 IVNL1 IVL1 IVNL2 V5 IVL3,1,Crossing,1,NA,Valid,NA,NA,NA,V6
+C33,Children,9.161111111,M,V2 V5 IVNL3 IVL2 IVNL2 V6 V1 IVNL1 V3 IVL3 IVL1 V4,1,Crossing,1,Crossing,Valid,Translated,Small,Least,V6
+C34,Children,9.327777778,F,IVL2 IVL3 V6 V2 V3 IVL1 IVNL2 IVNL1 V4 V1 IVNL3 V5,1,Crossing,0,Crossing,Valid,Translated,Small,Least,V6
+C35,Children,10.97777778,F,IVL1 V3 IVNL1 V5 IVL2 V6 IVNL2 IVL3 V4 V1 V2 IVNL3,1,Crossing,1,Crossing,Valid,None,None,None,V6
+C36,Children,9.430555556,F,IVL3 V2 IVL1 V3 IVNL1 V5 V6 IVL2 IVNL3 V1 V4 IVNL2,1,Crossing,1,Crossing,Valid,Translated,Small,Least,V6
+C37,Children,10.21666667,F,V5 V1 V3 IVL3 V4 IVNL1 IVNL3 V2 V6 IVNL2 IVL1 IVL2,1,Crossing,1,Crossing,Valid,None,None,None,V6
+C38,Children,9.619444444,F,V6 IVL3 V1 IVL1 V5 IVNL1 V4 IVL2 IVNL3 V3 V2 IVNL2,4,NA,NA,NA,Valid,NA,NA,NA,V6
+C40,Children,9.708333333,F,IVL3 IVNL1 V5 V3 IVL1 IVNL3 V6 V4 V2 IVNL2 IVL2 V1,1,Crossing,NA,NA,Valid,NA,NA,NA,V6
+C41,Children,10.05833333,F,V3 V5 V6 IVNL3 IVNL1 IVL2 IVL1 V2 V4 IVL3 V1 IVNL2,1,Crossing,1,Crossing,Valid,None,None,None,V6
+C42,Children,10.05833333,F,V1 V3 IVNL1 IVL1 V2 IVNL3 V4 V6 IVL3 V5 IVNL2 IVL2,1,Crossing,1,Crossing,Valid,None,None,None,V6
+C43,Children,9.794444444,F,IVNL1 IVL2 IVNL2 IVNL3 V5 V6 V1 IVL1 V2 V4 V3 IVL3,1,Crossing,1,Crossing,Valid,None,None,None,V6
+C44,Children,9.977777778,F,V1 V5 IVL2 V3 IVNL1 IVNL2 IVL1 V2 V4 IVL3 IVNL3 V6,1,Crossing,1,Crossing,Valid,None,None,None,V6
+C45,Children,9.652777778,M,IVL3 IVL2 V2 IVNL2 V1 V4 V3 IVL1 V5 IVNL3 IVNL1 V6,1,Crossing,1,Crossing,Valid,None,None,None,V6
+C46,Children,9.619444444,M,IVL1 IVL2 IVL3 V6 V1 IVNL3 V2 V4 IVNL2 V3 IVNL1 V5,1,Crossing,0,NA,Valid,NA,NA,NA,V6
+C47,Children,8.105555556,M,V2 IVNL2 V5 IVL1 V6 IVL3 IVNL3 IVNL1 V1 V3 V4 IVL2,1,Crossing,1,Crossing,Valid,None,None,None,V6
+C48,Children,9.111111111,F,IVL2 IVNL1 IVNL2 IVL1 V6 V1 IVL3 V4 V5 V2 V3 IVNL3,1,Crossing,1,Crossing,Valid,None,None,None,V6
+C49,Children,8.038888889,M,V6 V4 IVL3 IVNL1 IVNL3 IVL2 IVL1 V5 V2 V3 V1 IVNL2,3,Crossing,NA,NA,Valid,NA,NA,NA,V6
