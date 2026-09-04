@@ -22,15 +22,20 @@ Participants (children, n = 46; adults, n = 38) completed a counterexample-drawi
 
 | Variable | Description |
 |---|---|
-| `ParticipantID` | Unique participant identifier |
-| `Group` | Age group (Child / Adult) |
-| `InferenceType` | Inference type (IV1–IV6) |
-| `InvalidValid` | Whether the trial's inference was valid or invalid |
-| `InitialFigTopology` | Topological state of the initial figure |
-| `CounterexampleTopology` | Topological state of the drawn counterexample |
-| `TranslatedOrScaled` | Whether the second configuration was translated/scaled (NA = [definition pending]) |
-| `CorrectJudgement` | Whether the participant's judgement was correct |
-| `TimesInitialCirclesAttempted` | Number of attempts at the initial circle configuration |
+| ParticipantID | Unique participant identifier |
+| Group | Age group (Children / Adult) |
+| Age | Participant age |
+| Gender | Participant gender |
+| PairOrder | Order in which the paired trials were presented |
+| TimesInitialCirclesAttempted | Number of attempts at the initial circle configuration |
+| InferenceType | Inference type (IV1–IV6; V1-V6) |
+| InvalidValid | Whether the trial's inference was valid or invalid |
+| InitialFigTopology | Topological state of the initial figure (Apart / Crossing / Fully inside) |
+| CorrectJudgement | Whether the participant's judgement was correct |
+| CounterexampleTopology | Topological state of the drawn counterexample |
+| TranslatedOrScaled | Whether the second configuration was translated or scaled |
+| CircleChanged | Which circle was changed when drawing the counterexample (Small / Big / Both / Circles same size) |
+| CircleChangedConstraints | Whether the circle changed was the least- or most-constrained circle (Least / Most) |
 
 ## Session Info
 
